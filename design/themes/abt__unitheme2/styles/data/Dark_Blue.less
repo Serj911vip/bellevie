@@ -1,0 +1,158 @@
+// Custom code
+.ty-discount-label {
+	background: #24488e;
+}
+.ty-discount-label__item {
+	color: @primary_button;
+}
+.ty-discount-label__value em {
+	color: #ffffff;
+}
+.ty-icon-star-empty {
+	color: @base5;
+}
+.benefits .benefit i {
+	color: #24488e;
+}
+.header-grid.default-header {
+	.ut2-top-my-account, .ut2-top-cart-content {
+		.ty-dropdown-box__title.open {
+			border-color: #ffffff;
+			.ac-title {
+				color: @header_bg;
+				> i:before {
+					color: @header_bg;	
+				}		
+			}		
+		}
+	}
+	@media screen and (max-width: 768px) {
+		.top-menu-grid .ut2-h__menu .m-button i, .container-fluid-row:not(.top-menu-grid) > .row-fluid div[class^="span"].account-cart-grid .ac-title i[class^="ut2-icon-"] {
+		    color: @header_bg;
+		}
+	}
+}
+
+// ======================================================= ##Variables
+
+@rounded_corners: true;
+@links: #24488e;
+@menu_links: #191b1e;
+@menu: #ffffff;
+@base: #f3f4f7;
+@font: #191b1e;
+
+@primary_button: #ffe000;
+@primary_button_color: @font;
+//@primary_button_hover
+
+@secondary_button: #24488e;
+//@secondary_button_color
+//@secondary_button_hover
+
+@tertiary_button: #ebf0f8;
+//@tertiary_button_color
+//@tertiary_button_hover
+
+@sidebar: #f3f4f7;
+@price: #191b1e;
+@discount_label: #e91e2d;
+@in_stock: #308800;
+@out_of_stock: #999999;
+@top_panel_links: #999999;
+@top_panel_text: #999999;
+@footer_text: #000000;
+@decorative: #e91e2d;
+
+@general_bg_color: #ffffff;
+@general_bg_image: transparent;
+@general_bg_repeat: repeat;
+@general_bg_scroll: scroll;
+
+@top_panel_bg: #24488e;
+@top_panel_bg_full: false;
+@top_panel_bg_transparent: false;
+@top_panel_bg_grad_stop: #24488e;
+
+@header_bg: #24488e;
+@header_bg_full: false;
+@header_bg_transparent: false;
+@header_bg_grad_stop: #24488e;
+
+@content_bg: #ffffff;
+@content_bg_full: false;
+@content_bg_transparent: true;
+
+@footer_bg: #24488e;
+@footer_bg_full: false;
+@footer_bg_transparent: false;
+@footer_bg_grad_stop: #24488e;
+
+@body_font: Arial,sans-serif;
+@body_font_size: 13px;
+@body_font_style: normal;
+@body_font_weight: normal;
+@headings_font: MuseoSansBlack,sans-serif;
+@headings_font_size: 24px;
+@headings_font_decoration: none;
+@headings_font_style: normal;
+@headings_font_weight: normal;
+@links_font: Arial,sans-serif;
+@links_font_size: 13px;
+@links_font_decoration: none;
+@links_font_style: normal;
+@links_font_weight: normal;
+@price_font: MuseoSansBlack,sans-serif;
+@price_font_size: 18px;
+@price_font_decoration: none;
+@price_font_style: normal;
+@price_font_weight: normal;
+@buttons_font: Arial,sans-serif;
+@buttons_font_size: 13px;
+@buttons_font_decoration: none;
+@buttons_font_style: normal;
+@buttons_font_weight: normal;
+
+// Only this style ------------------------------------
+
+@uppercase: uppercase; // uppercase, none
+@buttons_font_transform: none; // uppercase, none
+
+//@product_block__color_add_to_cart
+@color-header-icons: @links;
+@lines-decorative-color: @menu;
+@active-menu-link: @sidebar;
+//header-delim-color: @sidebar;
+@categories-block-bg: @sidebar;
+@grid-list-title-color: #25282c;
+
+// Mix color
+@mix-lighten-font: 45%;
+@mix-lighten-max-font: 65%;
+@mix-discount_label_lighten: 45%;
+
+// Fill
+@fill-color-box: #838c9a;
+@title-color-box: #ffffff;
+@fill-gray-box: @base;
+
+// Labels
+//@product-labels-outline: true;
+//@product-labels-shadow: true;
+//@product-labels-text-shadow: true;
+
+// Buttons
+@2d-fill: false;
+@bt-color: @font;
+@buttons_font_transform: none; // Custom
+
+@abt__ut2_general_bright_hues: true;
+@abt__ut2_general_use_elements_alignment: use;
+@abt__ut2_general_show_grid_border: solid_without_margins;
+@abt__ut2_general_button_style: use_background;
+@abt__ut2_general_show_button_shadow: true;
+@abt__ut2_general_discount_label_style: as_drop;
+@abt__ut2_general_use_rounding: little;
+@abt__ut2_general_stars_rating_color: #ffc107;
+@abt__ut2_general_extend_grid_item_on_hover: true;
+@abt__ut2_general_show_animation_for_not_empty_cart: true;

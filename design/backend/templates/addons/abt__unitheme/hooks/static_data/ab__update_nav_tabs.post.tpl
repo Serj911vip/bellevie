@@ -1,0 +1,1 @@
+{if $static_data.ab__ut_mwi__status == 'Y'}<li id="tab_abt__ut_menu_tab_{$id}" class="cm-js"><a>{__("abt__ut.menu_with_icons.tab")}</a></li>{/if}

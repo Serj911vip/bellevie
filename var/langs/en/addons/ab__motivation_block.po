@@ -1,0 +1,172 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::ab__motivation_block"
+msgid "ab__motivation_block"
+msgstr "AB: Motivation block"
+
+msgctxt "Addons::description::ab__motivation_block"
+msgid "ab__motivation_block_description"
+msgstr "Addon allows creating motivation block"
+
+msgctxt "Languages::ab__motivation_block"
+msgid "ab__motivation_block"
+msgstr "AB: Motivation block"
+
+msgctxt "SettingsOptions::ab__motivation_block::bg_color"
+msgid "bg_color"
+msgstr "Block background color"
+
+msgctxt "SettingsOptions::ab__motivation_block::description_type"
+msgid "description_type"
+msgstr "Elements description type"
+
+msgctxt "SettingsVariants::ab__motivation_block::description_type::smarty"
+msgid "smarty"
+msgstr "HTML-content with Smarty support"
+
+msgctxt "SettingsVariants::ab__motivation_block::description_type::html"
+msgid "html"
+msgstr "HTML-content"
+
+msgctxt "Languages::ab__motivation_block.manage"
+msgid "ab__motivation_block.manage"
+msgstr "Data management"
+
+msgctxt "Languages::ab__mb_icon_class"
+msgid "ab__mb_icon_class"
+msgstr "Icon class"
+
+msgctxt "Languages::ab__mb_icon_color"
+msgid "ab__mb_icon_color"
+msgstr "Icon color"
+
+msgctxt "Languages::ab__mb_icon_type"
+msgid "ab__mb_icon_type"
+msgstr "Icon type"
+
+msgctxt "Languages::ab__mb_icon_type.img"
+msgid "ab__mb_icon_type.img"
+msgstr "Image"
+
+msgctxt "Languages::ab__mb_icon_type.icon"
+msgid "ab__mb_icon_type.icon"
+msgstr "Icon"
+
+msgctxt "Languages::ab__mb_icon_type.nothing"
+msgid "ab__mb_icon_type.nothing"
+msgstr "No icon"
+
+msgctxt "Languages::tt_addons_ab__motivation_block_views_ab__motivation_block_update_image"
+msgid "tt_addons_ab__motivation_block_views_ab__motivation_block_update_image"
+msgstr "The image is displayed \"as is\" without scaling. Upload the prepared image of the necessary size, it is recommended to use size 24*24px"
+
+msgctxt "Languages::ab__mb.new_motivation_item"
+msgid "ab__mb.new_motivation_item"
+msgstr "New motivation element"
+
+msgctxt "Languages::ab__mb.editing_motivation_item"
+msgid "ab__mb.editing_motivation_item"
+msgstr "Editing motivation element"
+
+msgctxt "Languages::ab__mb_expanded"
+msgid "ab__mb_expanded"
+msgstr "Set the disclosure element by default"
+
+msgctxt "Languages::ab__mb_vendor_edit"
+msgid "ab__mb_vendor_edit"
+msgstr "Allow vendor editing"
+
+msgctxt "Languages::block_ab__motivation_block"
+msgid "block_ab__motivation_block"
+msgstr "AB: Motivation block"
+
+msgctxt "Languages::block_ab__motivation_block_description"
+msgid "block_ab__motivation_block_description"
+msgstr "Output additional information about the store work"
+
+msgctxt "Languages::ab__mb_bg_color"
+msgid "ab__mb_bg_color"
+msgstr "Background color of the block"
+
+msgctxt "Languages::ab__mb.settings"
+msgid "ab__mb.settings"
+msgstr "Common settings"
+
+msgctxt "Languages::ab__motivation_block.demodata"
+msgid "ab__motivation_block.demodata"
+msgstr "Demo data"
+
+msgctxt "Languages::ab__mb.demodata.description"
+msgid "ab__mb.demodata.description"
+msgstr "On this page, you can quickly create a demo data for the motivation block"
+
+msgctxt "Languages::ab__mb.demodata.table.description"
+msgid "ab__mb.demodata.table.description"
+msgstr "Demo data type"
+
+msgctxt "Languages::ab__mb.demodata.table.add_blocks"
+msgid "ab__mb.demodata.table.add_blocks"
+msgstr "Add demo data into the motivation block"
+
+msgctxt "Languages::ab__mb.demodata.successes.blocks"
+msgid "ab__mb.demodata.successes.blocks"
+msgstr "Blocks [blocks] have been created successfully"
+
+msgctxt "Languages::ab__mb.demodata.errors.no_data"
+msgid "ab__mb.demodata.errors.no_data"
+msgstr "It seems the \"data.json\" file has been deleted"
+
+msgctxt "Languages::ab__motivation_block.icons"
+msgid "ab__motivation_block.icons"
+msgstr "Available icons"
+
+msgctxt "Languages::ab__mb.icons.info"
+msgid "ab__mb.icons.info"
+msgstr "On this page, it is possible to see the list of available icons"
+
+msgctxt "Languages::ab__mb.icons.tygh_icons"
+msgid "ab__mb.icons.tygh_icons"
+msgstr "Default icons list"
+
+msgctxt "Languages::ab__mb.icons.class"
+msgid "ab__mb.icons.class"
+msgstr "Icon class"
+
+msgctxt "Languages::ab__mb.icons.class.tooltip"
+msgid "ab__mb.icons.class.tooltip"
+msgstr "A value which needs to be used in the field \"Icon class\" in motivation block settings"
+
+msgctxt "Languages::ab__mb.class_copied"
+msgid "ab__mb.class_copied"
+msgstr "The class is copied in a clipboard"
+
+msgctxt "Languages::ab__mb_icon_class.tooltip"
+msgid "ab__mb_icon_class.tooltip"
+msgstr "The complete list of available icons can be found on the page"
+"<a href=\"[link]\">Admin panel ➡ AB: Addons ➡ AB: Motivation block ➡ Available icons</a>"
+
+msgctxt "Languages::ab__motivation_block.help"
+msgid "ab__motivation_block.help"
+msgstr "Help"
+
+msgctxt "Languages::ab__mb_help.docs"
+msgid "ab__mb_help.docs"
+msgstr "Read the <a target='_blank' href='https://cs-cart.alexbranding.com/en/ab__motivation_block.doc'>documentation</a>."
+
+msgctxt "Languages::privilege_sections.ab__motivation_block"
+msgid "privilege_sections.ab__motivation_block"
+msgstr "AB: Motivation block"
+
+msgctxt "Languages::privileges.ab__mb_manage_data"
+msgid "privileges.ab__mb_manage_data"
+msgstr "Managing motivational data"
+
+msgctxt "Languages::privileges.ab__mb_view_data"
+msgid "privileges.ab__mb_view_data"
+msgstr "Viewing motivational data"
+
+#. Alexbranding. Do not modify this file manually!

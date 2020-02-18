@@ -1,0 +1,2 @@
+Message: 
+Data : 25-12-2019 12:00:40 - Send data checkauth: sid_customer_82cf1

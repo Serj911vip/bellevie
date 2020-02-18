@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Delivery",
+    "position": 100,
+    "icon_type": "icon",
+    "icon_class": "",
+    "icon_color": "#000000",
+    "description": "<ul><li>For USA - $10</li><li>Worldwide - from $30</li></ul>",
+    "expanded": "N",
+    "ru": {
+      "name": "Доставка",
+      "description": "<ul><li>В пределах МКАД - 200 руб.</li><li>За пределами МКАД - 200 руб. + 25 руб./км</li></ul>"
+    }
+  },
+  {
+    "name": "Payment options",
+    "position": 110,
+    "icon_type": "icon",
+    "icon_class": "",
+    "icon_color": "#000000",
+    "description": "<ul><li>Cash on delivery</li><li>Visa and MasterCard</li><li>Сashless payments</li><li>Invoices</li></ul>",
+    "expanded": "N",
+    "ru": {
+      "name": "Варианты оплаты",
+      "description": "<ul><li>Наличными при получении</li><li>Картами Visa и MasterCard</li><li>Оплата по счету</li><li>Безналичный расчет (для юр.лиц)</li></ul>"
+    }
+  },
+  {
+    "name": "Our advantages",
+    "position": 120,
+    "icon_type": "icon",
+    "icon_class": "",
+    "icon_color": "#000000",
+    "description": "<p><i class=\"ut2-icon-baseline-verified_user\"></i> <span class=\"cm-tooltip\" title='Guarantee for all products in our store is 12 months'>12 months warranty</span><span class=\"desktop-hidden\">Guarantee for all purchased goods in our online store is 12 months</span></p><p><i class=\"ut2-icon-baseline-phone\"></i> <span class=\"cm-tooltip\" title='You receive SMS messages about each stage of your order'>SMS notification</span><span class=\"desktop-hidden\">You receive SMS messages about each stage of your order.</span></p><p><i class=\"ut2-icon-baseline-loop\"></i> <span class=\"cm-tooltip\" title='You can return the items purchased within 14 days. The goods must be in normal condition and have all the factory packages'>Return and exchange - no problem</span><span class=\"desktop-hidden\">You can return the items purchased within 14 days. The goods must be in normal condition and have all the factory packages.</span></p><p><i class=\"ut2-icon-baseline-credit_card\"></i> <span class=\"cm-tooltip\" title='Pay orders in convenient ways: cash to the courier, by bank transfer on the receipt of the bank or by credit card right at the time of the order'>Different payment methods</span><span class=\"desktop-hidden\">Pay orders in convenient ways: cash to the courier, by bank transfer on the receipt of the bank or by credit card right at the time of the order.</span></p><p><i class=\"ut2-icon-baseline-whatshot\"></i> <span class=\"cm-tooltip\" title='We are proud of our prices, hundreds of customers check them every day, which give a choice to our online store!'>Best price</span><span class=\"desktop-hidden\">We are proud of our prices, hundreds of customers check them every day, which give a choice to our online store!</span></p>",
+    "expanded": "Y",
+    "ru": {
+      "name": "Наши преимущества",
+      "description": "<p><i class=\"ut2-icon-baseline-verified_user\"></i> <span class=\"cm-tooltip\" title='Гарантия на все товары, купленные в нашем инетрнет магазине составляет 12 месяцев'>Гарантия 12 месяцев</span><span class=\"desktop-hidden\">Гарантия на все купленные товары в нашем инетрнет магазине составляет 12 месяцев</span></p><p><i class=\"ut2-icon-baseline-phone\"></i> <span class=\"cm-tooltip\" title=\"Вы получаете смс сообщения о каждой стадии вашего заказа\">Оповещение по SMS</span><span class=\"desktop-hidden\">Вы получаете SMS сообщения о каждой стадии вашего заказа.</span></p><p><i class=\"ut2-icon-baseline-loop\"></i> <span class=\"cm-tooltip\" title=\"Вы можете вернуть купленные товары в течение 14 дней. Товар должнен быть в нормальном состоянии и иметь все заводские упаковки\">Возврат и обмен - без проблем</span><span class=\"desktop-hidden\">Вы можете вернуть купленные товары в течение 14 дней. Товар должнен быть в нормальном состоянии и иметь все заводские упаковки.\">Возврат и обмен - без проблем!</span></p><p><i class=\"ut2-icon-baseline-credit_card\"></i> <span class=\"cm-tooltip\" title=\"Оплачивайте товары удобными вам способами: наличными курьеру, безналично по квитанции банка или кредитной картой прямо в момент заказа.\">Различные способы оплаты</span><span class=\"desktop-hidden\">Оплачивайте товары удобными вам способами: наличными курьеру, безналично по квитанции банка или кредитной картой прямо в момент заказа..</span></p><p><i class=\"ut2-icon-baseline-whatshot\"></i> <span class=\"cm-tooltip\" title=\"Мы гордимся нашими ценами, их каждый день проверяют сотни клиентов, которые отдают выбор нашему интернет - магазину!\">Лучшая цена</span><span class=\"desktop-hidden\">Мы гордимся нашими ценами, их каждый день проверяют сотни клиентов, которые отдают выбор нашему интернет - магазину!</span></p>"
+    }
+  }
+]

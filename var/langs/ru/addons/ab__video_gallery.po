@@ -1,0 +1,182 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::ab__video_gallery"
+msgid "ab__video_gallery"
+msgstr "AB: Видео галерея товара"
+
+msgctxt "Addons::description::ab__video_gallery"
+msgid "ab__video_gallery_description"
+msgstr "Добавляет Youtube видео к товарам, позволяет помечать такие товары в списке."
+"<br><a href='https://cs-cart.alexbranding.com' target='_blank'>cs-cart.alexbranding.com</a>"
+
+msgctxt "Languages::ab__video_gallery"
+msgid "ab__video_gallery"
+msgstr "AB: Видео галерея"
+
+msgctxt "Languages::ab__vg.form.pos"
+msgid "ab__vg.form.pos"
+msgstr "Поз."
+
+msgctxt "Languages::ab__vg.form.title"
+msgid "ab__vg.form.title"
+msgstr "Заголовок видео"
+
+msgctxt "Languages::ab__vg.form.status"
+msgid "ab__vg.form.status"
+msgstr "Статус"
+
+msgctxt "Languages::ab__vg.form.youtube_id"
+msgid "ab__vg.form.youtube_id"
+msgstr "ID видео на YouTube"
+
+msgctxt "Languages::ab__vg.form.youtube_id.tooltip"
+msgid "ab__vg.form.youtube_id.tooltip"
+msgstr "Например, для видео https://www.youtube.com/watch?v=-boKk8uhmcY ID является -boKk8uhmcY"
+
+msgctxt "Languages::ab__vg.form.width"
+msgid "ab__vg.form.width"
+msgstr "Ширина"
+
+msgctxt "Languages::ab__vg.form.width.tooltip"
+msgid "ab__vg.form.width.tooltip"
+msgstr "Ширина видео в пикселях"
+
+msgctxt "Languages::ab__vg.form.height"
+msgid "ab__vg.form.height"
+msgstr "Высота"
+
+msgctxt "Languages::ab__vg.form.height.tooltip"
+msgid "ab__vg.form.height.tooltip"
+msgstr "Высота видео в пикселях"
+
+msgctxt "Languages::ab__vg.form.icon_type"
+msgid "ab__vg.form.icon_type"
+msgstr "Тип иконки"
+
+msgctxt "Languages::ab__vg.form.icon_type.snapshot"
+msgid "ab__vg.form.icon_type.snapshot"
+msgstr "Кадр из видео"
+
+msgctxt "Languages::ab__vg.form.icon_type.icon"
+msgid "ab__vg.form.icon_type.icon"
+msgstr "Ручная иконка"
+
+msgctxt "Languages::ab__vg.form.icon"
+msgid "ab__vg.form.icon"
+msgstr "Иконка"
+
+msgctxt "Languages::ab__vg.form.description"
+msgid "ab__vg.form.description"
+msgstr "Описание"
+
+msgctxt "SettingsOptions::ab__video_gallery::position"
+msgid "position"
+msgstr "Расположение"
+
+msgctxt "SettingsTooltips::ab__video_gallery::position"
+msgid "position"
+msgstr "Расположение видео в галерее изображений товара"
+
+msgctxt "SettingsVariants::ab__video_gallery::position::pre"
+msgid "pre"
+msgstr "В начале"
+
+msgctxt "SettingsVariants::ab__video_gallery::position::post"
+msgid "post"
+msgstr "В конце"
+
+msgctxt "SettingsOptions::ab__video_gallery::show_in_lists"
+msgid "show_in_lists"
+msgstr "Показывать в списках"
+
+msgctxt "SettingsTooltips::ab__video_gallery::show_in_lists"
+msgid "show_in_lists"
+msgstr "Показывать ли иконку наличия видео в списках товаров"
+
+msgctxt "SettingsOptions::ab__video_gallery::on_thumbnail_click"
+msgid "on_thumbnail_click"
+msgstr "Показывать видео"
+
+msgctxt "SettingsTooltips::ab__video_gallery::on_thumbnail_click"
+msgid "on_thumbnail_click"
+msgstr "Действие при клике на миниатюру в галлерее изображений товара: показать видео в диалоговом окне или на месте изображения товара"
+
+msgctxt "SettingsVariants::ab__video_gallery::on_thumbnail_click::open_popup"
+msgid "open_popup"
+msgstr "В дилоговом окне"
+
+msgctxt "SettingsVariants::ab__video_gallery::on_thumbnail_click::image_replace"
+msgid "image_replace"
+msgstr "На месте изображения"
+
+msgctxt "Languages::ab__video_gallery_title_product"
+msgid "ab__video_gallery_title_product"
+msgstr "Видео галерея"
+
+msgctxt "Languages::ab__vg.form.product_settings"
+msgid "ab__vg.form.product_settings"
+msgstr "Настройки"
+
+msgctxt "Languages::ab__vg.form.replace_image"
+msgid "ab__vg.form.replace_image"
+msgstr "Использовать видео как изображение по умолчанию"
+
+msgctxt "Languages::tt_addons_ab__video_gallery_hooks_products_tabs_content_post_ab__vg.form.replace_image"
+msgid "tt_addons_ab__video_gallery_hooks_products_tabs_content_post_ab__vg.form.replace_image"
+msgstr "Использовать первое видео как изображение по умолчанию в карточке товара"
+
+msgctxt "Languages::ab__vg.form.product_videos"
+msgid "ab__vg.form.product_videos"
+msgstr "Видео"
+
+msgctxt "Languages::privilege_sections.ab__video_gallery"
+msgid "privilege_sections.ab__video_gallery"
+msgstr "AB: Видео галерея товара"
+
+msgctxt "Languages::privileges.ab__vg_manage_videos"
+msgid "privileges.ab__vg_manage_videos"
+msgstr "Управление видео"
+
+msgctxt "Languages::privileges.ab__vg_view_videos"
+msgid "privileges.ab__vg_view_videos"
+msgstr "Просмотр видео"
+
+msgctxt "Languages::ab__video_gallery.help"
+msgid "ab__video_gallery.help"
+msgstr "Справка"
+
+msgctxt "Languages::ab__vg_help.docs"
+msgid "ab__vg_help.docs"
+msgstr "Ознакомиться с <a target='_blank' href='https://cs-cart.alexbranding.com/ru/ab__video_gallery.doc'>документацией</a>."
+
+msgctxt "SettingsOptions::ab__video_gallery::controls"
+msgid "controls"
+msgstr "Показывать панель управления видео"
+
+msgctxt "SettingsOptions::ab__video_gallery::repeat"
+msgid "repeat"
+msgstr "Включить повторное воспроизведение"
+
+msgctxt "Languages::ab__vg.exim.remove_videos"
+msgid "ab__vg.exim.remove_videos"
+msgstr "Удалить видео"
+
+msgctxt "Languages::ab__vg.exim.remove_videos.text"
+msgid "ab__vg.exim.remove_videos.text"
+msgstr "При импорте существующие видео обновляемого товара будут удалены"
+
+msgctxt "Languages::youtube_id"
+msgid "youtube_id"
+msgstr "ID видео на YouTube"
+
+msgctxt "Languages::video_id"
+msgid "video_id"
+msgstr "ID видео"
+
+msgctxt "Languages::icon_type"
+msgid "icon_type"
+msgstr "Тип иконки: snapshot - кадр из видео, icon - ручная иконка"

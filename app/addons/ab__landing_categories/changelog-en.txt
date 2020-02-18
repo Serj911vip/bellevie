@@ -1,0 +1,34 @@
+v1.6.2 March 19, 2019
+------------------------------------------------------------------------
++ fixed nesting category for hidden categories of the second level on the page [AB: Categories];
+
+
+v1.6.1 March 13, 2019
+------------------------------------------------------------------------
++ fixed loading demo data;
+
+
+v1.6.0 March 5, 2019
+------------------------------------------------------------------------
++ added "help" page;
++ added ability to download demo data;
++ added compatibility with the addon "Advanced sitemap";
++ added UpgradeCenter/Connector for the next updates;
+
+
+v1.5 February 13, 2018
+------------------------------------------------------------------------
++ added compatibility with YOUPI - premium theme for CS-Cart (https://cs-cart.alexbranding.com/en/youpi-premium-theme.html)
+
+
+v1.4 August 26, 2017
+------------------------------------------------------------------------
++ added compatibility with Multiple category descriptions addon (https://cs-cart.alexbranding.com/en/category-multi-descriptions.html)
+~ fixed bug showing only active menu items
+
+
+v1.3 June 13, 2017
+------------------------------------------------------------------------
++ added the ability to build [AB: Categories] using the menu
++ added the ability to build the structure of the Landing category using the menu
+~ Images on landing categories and on the categories catalog [AB: Categories] now as links

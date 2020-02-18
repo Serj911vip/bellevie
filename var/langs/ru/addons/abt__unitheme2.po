@@ -1,0 +1,1854 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::abt__unitheme2"
+msgid "abt__unitheme2"
+msgstr "AB: UniTheme2"
+
+msgctxt "Addons::description::abt__unitheme2"
+msgid "abt__unitheme2_description"
+msgstr "Модуль добавляет функционал и файлы шаблона AB: UniTheme2"
+
+msgctxt "Languages::abt__unitheme2"
+msgid "abt__unitheme2"
+msgstr "AB: UniTheme2"
+
+msgctxt "Languages::abt__unitheme2.settings"
+msgid "abt__unitheme2.settings"
+msgstr "Настройки только для AB: UniTheme2"
+
+msgctxt "Languages::abt__ut2.block.availability.show_on"
+msgid "abt__ut2.block.availability.show_on"
+msgstr "!!! Только для AB: UniTheme2 при использовании настройки <b>[show_on]</b> содержимое блока будет вырезано из HTML-кода для соответствующего устройства, а не просто скрыто стилями"
+
+msgctxt "Languages::abt__ut2.grid_settings"
+msgid "abt__ut2.grid_settings"
+msgstr "AB: UniTheme2: Дополнительные настройки"
+
+msgctxt "Languages::abt__ut2.grid.tab_description"
+msgid "abt__ut2.grid.tab_description"
+msgstr "Представленные ниже настройки применяются только для секций макетов темы AB: UniTheme2"
+
+msgctxt "Languages::abt__ut2.extended.o"
+msgid "abt__ut2.extended.o"
+msgstr "Обычный"
+
+msgctxt "Languages::abt__ut2.extended.e"
+msgid "abt__ut2.extended.e"
+msgstr "Расширенный"
+
+msgctxt "Languages::abt__ut2.extended.f"
+msgid "abt__ut2.extended.f"
+msgstr "На всю ширину"
+
+msgctxt "Languages::abt__ut2.grid_tabs.abt__ut2_show_in_tabs"
+msgid "abt__ut2.grid_tabs.abt__ut2_show_in_tabs"
+msgstr "Отобразить все блоки секции во вкладках"
+
+msgctxt "Languages::abt__ut2.grid_tabs.abt__ut2_use_ajax"
+msgid "abt__ut2.grid_tabs.abt__ut2_use_ajax"
+msgstr "Использовать Ajax для загрузки контента второй и последующих вкладок"
+
+msgctxt "Languages::abt__ut2.grid.padding"
+msgid "abt__ut2.grid.padding"
+msgstr "Дополнительные отступы"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.bottom"
+msgid "abt__ut2.grid.padding.variants.bottom"
+msgstr "Только снизу"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.top"
+msgid "abt__ut2.grid.padding.variants.top"
+msgstr "Только сверху"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.top_bottom"
+msgid "abt__ut2.grid.padding.variants.top_bottom"
+msgstr "Сверху и снизу"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.none"
+msgid "abt__ut2.grid.padding.variants.none"
+msgstr "Нет"
+
+msgctxt "Languages::abt__ut2_thumbnail_height"
+msgid "abt__ut2_thumbnail_height"
+msgstr "Высота иконки в скроллере"
+
+msgctxt "Languages::tmpl_abt__ut2_dropdown_horizontal_mwi"
+msgid "tmpl_abt__ut2_dropdown_horizontal_mwi"
+msgstr "AB: Горизонтальный выпадающий список с иконками"
+
+msgctxt "Languages::tmpl_abt__ut2_dropdown_vertical_mwi"
+msgid "tmpl_abt__ut2_dropdown_vertical_mwi"
+msgstr "AB: Вертикальный выпадающий список с иконками"
+
+msgctxt "Languages::abt_menu_long_names"
+msgid "abt_menu_long_names"
+msgstr "AB: Названия пунктов меню первого уровня в две строки"
+
+msgctxt "Languages::abt_menu_long_names.tooltip"
+msgid "abt_menu_long_names.tooltip"
+msgstr "Активный статус данной настройки разрешает вывод названий пунктов меню в две строки (с переносом) в случае, если для размещения названия требуется больше места, чем определяет настройка <b>AB: Максимальная ширина пункта меню для первого уровня</b>"
+
+msgctxt "Languages::abt_menu_long_names_max_width"
+msgid "abt_menu_long_names_max_width"
+msgstr "AB: Максимальная ширина пункта меню для первого уровня"
+
+msgctxt "Languages::abt_menu_long_names_max_width.tooltip"
+msgid "abt_menu_long_names_max_width.tooltip"
+msgstr "Определяет размер ячейки по ширине в пикселях для размещения названия пункта меню. Если название пункта меню превышает это значение, то при активной настройке <b>AB: Названия пунктов меню первого уровня в две строки</b> — будет выведено в две строки с переносом."
+
+msgctxt "Languages::abt_menu_icon_items"
+msgid "abt_menu_icon_items"
+msgstr "AB: Показывать иконки для пунктов меню второго уровня"
+
+msgctxt "Languages::abt_menu_icon_items.tooltip"
+msgid "abt_menu_icon_items.tooltip"
+msgstr "Активный статус данной настройки разрешает вывод иконки, которая назначена пункту меню второго уровня меню"
+
+msgctxt "Languages::no_hidden_elements_second_level_view"
+msgid "no_hidden_elements_second_level_view"
+msgstr "AB: Кол-во отображаемых элементов 2-х уровневого меню"
+
+msgctxt "Languages::no_hidden_elements_second_level_view.tooltip"
+msgid "no_hidden_elements_second_level_view.tooltip"
+msgstr "Данная настройка ограничивает количество отображаемых пунктов меню третьего уровня в структуре меню. Оставщиеся элементы третьего уровня будут оторажены при клике на ссылку <b>Ещё</b>"
+
+msgctxt "Languages::elements_per_column_third_level_view"
+msgid "elements_per_column_third_level_view"
+msgstr "AB: Количество элементов в каждой колонке последнего уровня при использовании <b>Режима 3-х уровневого меню (выпадающим списком)</b>"
+
+msgctxt "Languages::elements_per_column_third_level_view.tooltip"
+msgid "elements_per_column_third_level_view.tooltip"
+msgstr "Данная настройка ограничивает количество отображаемых пунктов меню третьего уровня в каждой из двух колонок последнего уровня при включенном режиме <b>Режим 3-х уровневого меню (выпадающим списком)</b>. Оставшиеся пункты меню (превышающие лимит настройки) не будут показаны в меню. Настройку рационально использовать в случае, если на третьем уровне очень большое количество подпунктов меню"
+
+msgctxt "Languages::abt_menu_ajax_load"
+msgid "abt_menu_ajax_load"
+msgstr "AB: Использовать Ajax-загрузку"
+
+msgctxt "Languages::abt_menu_ajax_load.tooltip"
+msgid "abt_menu_ajax_load.tooltip"
+msgstr "Использовать Ajax для получения контента второго и третьего уровней меню после загрузки страницы. Контент первого уровня будет загружен вместе с основным контентом страницы"
+
+msgctxt "Languages::abt__ut2_selected_filters"
+msgid "abt__ut2_selected_filters"
+msgstr "AB: Выбранные варианты фильтров"
+
+msgctxt "Languages::abt__ut2_banner_carousel_combined"
+msgid "abt__ut2_banner_carousel_combined"
+msgstr "AB: Расширенный баннер (Карусель)"
+
+msgctxt "Languages::abt__ut2_banner_combined"
+msgid "abt__ut2_banner_combined"
+msgstr "AB: Расширенный баннер"
+
+msgctxt "Languages::abt__ut2_advanced_subcategories_menu"
+msgid "abt__ut2_advanced_subcategories_menu"
+msgstr "AB: Расширенное меню подкатегорий"
+
+msgctxt "Languages::block_abt__ut2_advanced_subcategories_menu"
+msgid "block_abt__ut2_advanced_subcategories_menu"
+msgstr "AB: Расширенное меню подкатегорий"
+
+msgctxt "Languages::abt__ut2__mainbox_general"
+msgid "abt__ut2__mainbox_general"
+msgstr "AB: Основной блок (SEO)"
+
+msgctxt "Languages::abt__ut2__mainbox_simple"
+msgid "abt__ut2__mainbox_simple"
+msgstr "AB: Упрощенный блок"
+
+msgctxt "Languages::abt__ut2__sidebox_general"
+msgid "abt__ut2__sidebox_general"
+msgstr "AB: Второстепенный блок"
+
+msgctxt "Languages::abt__ut2__sidebox_important"
+msgid "abt__ut2__sidebox_important"
+msgstr "AB: Второстепенный блок с обрамлением"
+
+msgctxt "Languages::abt__ut2__swipe"
+msgid "abt__ut2__swipe"
+msgstr "AB: Свайп блок"
+
+msgctxt "Languages::abt__ut2__scroller_advanced"
+msgid "abt__ut2__scroller_advanced"
+msgstr "AB: Расширенный скроллер товаров"
+
+msgctxt "Languages::tmpl_abt__ut2__my_account_links_advanced"
+msgid "tmpl_abt__ut2__my_account_links_advanced"
+msgstr "AB: Мой профиль (дополнительно)"
+
+msgctxt "Languages::tmpl_abt__ut2__subscribe_advanced"
+msgid "tmpl_abt__ut2__subscribe_advanced"
+msgstr "AB: Форма подписки"
+
+msgctxt "Languages::tmpl_abt__ut2__top_buttons"
+msgid "tmpl_abt__ut2__top_buttons"
+msgstr "AB: Верхние кнопки"
+
+msgctxt "Languages::tmpl_abt__ut2__top_buttons.compare_list.tooltip"
+msgid "tmpl_abt__ut2__top_buttons.compare_list.tooltip"
+msgstr "Просмотреть Список сравнения"
+
+msgctxt "Languages::tmpl_abt__ut2__recent_posts_advanced"
+msgid "tmpl_abt__ut2__recent_posts_advanced"
+msgstr "AB: Блог: Последние посты"
+
+msgctxt "Languages::tmpl_abt__ut2__top_buttons"
+msgid "tmpl_abt__ut2__top_buttons"
+msgstr "AB: Кнопки Сравнение и Избранное"
+
+msgctxt "Languages::tmpl_abt__ut2__title_block"
+msgid "tmpl_abt__ut2__title_block"
+msgstr "АВ: Блок: Заголовок"
+
+msgctxt "Languages::tmpl_abt__ut2__categories_title_block"
+msgid "tmpl_abt__ut2__categories_title_block"
+msgstr "AB: Блок: Заголовок категории"
+
+msgctxt "Languages::tmpl_abt__ut2__features_title_block"
+msgid "tmpl_abt__ut2__features_title_block"
+msgstr "AB: Блок: Заголовок характеристики"
+
+msgctxt "Languages::tmpl_abt__ut2__subscription"
+msgid "tmpl_abt__ut2__subscription"
+msgstr "AB: Почтовые рассылки: Форма подписки"
+
+msgctxt "Languages::banner_type.abt__ut2"
+msgid "banner_type.abt__ut2"
+msgstr "AB: UniTheme2: Расширенный баннер"
+
+msgctxt "Languages::abt__ut2.banners"
+msgid "abt__ut2.banners"
+msgstr "Баннеры"
+
+msgctxt "Languages::abt__ut2.banner_tab.general"
+msgid "abt__ut2.banner_tab.general"
+msgstr "Общие (AB: UniTheme2: ПК)"
+
+msgctxt "Languages::abt__ut2.banner_tab.tablet"
+msgid "abt__ut2.banner_tab.tablet"
+msgstr "AB: UniTheme2: Планшет"
+
+msgctxt "Languages::abt__ut2.banner_tab.mobile"
+msgid "abt__ut2.banner_tab.mobile"
+msgstr "AB: UniTheme2: Смартфон"
+
+msgctxt "Languages::abt__ut2.banner.use_own_info"
+msgid "abt__ut2.banner.use_own_info"
+msgstr "Использовать собственное значение"
+
+msgctxt "Languages::abt__ut2.banner.warning"
+msgid "abt__ut2.banner.warning"
+msgstr "Экспертные настройки баннера"
+
+msgctxt "Languages::abt__ut2.banners.manage"
+msgid "abt__ut2.banners.manage"
+msgstr "AB: UniTheme2: Расширенные баннеры"
+
+msgctxt "Languages::abt__ut2.option.margin"
+msgid "abt__ut2.option.margin"
+msgstr "Внешний отступ, px"
+
+msgctxt "Languages::abt__ut2.option.height"
+msgid "abt__ut2.option.height"
+msgstr "Высота, px"
+
+msgctxt "Languages::abt__ut2.banner.params.tablet_use"
+msgid "abt__ut2.banner.params.tablet_use"
+msgstr "Использовать собственные настройки для Планшетов"
+
+msgctxt "Languages::abt__ut2.banner.params.tablet_use.tooltip"
+msgid "abt__ut2.banner.params.tablet_use.tooltip"
+msgstr "Используйте эту настройку, чтобы разрешить редактирование настроек баннера для мобильного устройства Планшет"
+
+msgctxt "Languages::abt__ut2.banner.params.mobile_use"
+msgid "abt__ut2.banner.params.mobile_use"
+msgstr "Использовать собственные настройки для Смартфонов"
+
+msgctxt "Languages::abt__ut2.banner.params.mobile_use.tooltip"
+msgid "abt__ut2.banner.params.mobile_use.tooltip"
+msgstr "Используйте эту настройку, чтобы разрешить редактирование настроек баннера для мобильного устройства Смартфон"
+
+msgctxt "Languages::abt__ut2.banner.params_of_block"
+msgid "abt__ut2.banner.params_of_block"
+msgstr "Настройки блока баннера"
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme"
+msgid "abt__ut2.banner.params.color_scheme"
+msgstr "Цветосхема"
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme.tooltip"
+msgid "abt__ut2.banner.params.color_scheme.tooltip"
+msgstr "Определяет, какого цвета будет <b>Заголовок</b> и <b>Описание</b> баннера. Для <b>Темного фона</b> цвет текстов в баннере будет белым, для <b>Светлого фона</b> баннера — черный"
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme.variants.dark"
+msgid "abt__ut2.banner.params.color_scheme.variants.dark"
+msgstr "Тёмный фон"
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme.variants.light"
+msgid "abt__ut2.banner.params.color_scheme.variants.light"
+msgstr "Светлый фон"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign"
+msgid "abt__ut2.banner.params.content_valign"
+msgstr "Вертикальное выравнивание"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.tooltip"
+msgid "abt__ut2.banner.params.content_valign.tooltip"
+msgstr "Расположение контента внутри баннера по вертикали"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.variants.top"
+msgid "abt__ut2.banner.params.content_valign.variants.top"
+msgstr "По верхнему краю"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.variants.center"
+msgid "abt__ut2.banner.params.content_valign.variants.center"
+msgstr "По центру"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.variants.bottom"
+msgid "abt__ut2.banner.params.content_valign.variants.bottom"
+msgstr "По нижнему краю"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align"
+msgid "abt__ut2.banner.params.content_align"
+msgstr "Горизонтальное выравнивание"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.tooltip"
+msgid "abt__ut2.banner.params.content_align.tooltip"
+msgstr "Расположение контента внутри баннера по горизонтали"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.variants.left"
+msgid "abt__ut2.banner.params.content_align.variants.left"
+msgstr "По левому краю"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.variants.center"
+msgid "abt__ut2.banner.params.content_align.variants.center"
+msgstr "По центру"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.variants.right"
+msgid "abt__ut2.banner.params.content_align.variants.right"
+msgstr "По правому краю"
+
+msgctxt "Languages::abt__ut2.banner.params.padding"
+msgid "abt__ut2.banner.params.padding"
+msgstr "Внутренний отступ, px"
+
+msgctxt "Languages::abt__ut2.banner.params.padding.tooltip"
+msgid "abt__ut2.banner.params.padding.tooltip"
+msgstr "CSS <code>padding</code>. Отступы в пикселях внутри баннера. Полезно, чтобы стандартизировать отступы от границ баннера до контента"
+
+msgctxt "Languages::abt__ut2.banner.params.content_full_width"
+msgid "abt__ut2.banner.params.content_full_width"
+msgstr "Контент на всю ширину"
+
+msgctxt "Languages::abt__ut2.banner.params.content_full_width.tooltip"
+msgid "abt__ut2.banner.params.content_full_width.tooltip"
+msgstr "Ширина блока с контентом имеет по умолчанию ширину 50% баннера, установив флажок, ширина блока с контентом будет 100%"
+
+msgctxt "Languages::abt__ut2.banner.color_use"
+msgid "abt__ut2.banner.color_use"
+msgstr "Установите флажок, чтобы использовать новый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params_of_title"
+msgid "abt__ut2.banner.params_of_title"
+msgstr "Настройки заголовка баннера"
+
+msgctxt "Languages::abt__ut2.banner.params.title"
+msgid "abt__ut2.banner.params.title"
+msgstr "Заголовок"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_size"
+msgid "abt__ut2.banner.params.title_font_size"
+msgstr "Размер шрифта"
+
+msgctxt "Languages::abt__ut2.banner.params.title_color"
+msgid "abt__ut2.banner.params.title_color"
+msgstr "Цвет заголовка"
+
+msgctxt "Languages::abt__ut2.banner.params.title_color.tooltip"
+msgid "abt__ut2.banner.params.title_color.tooltip"
+msgstr "Установите флажок, чтобы использовать новый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight"
+msgid "abt__ut2.banner.params.title_font_weight"
+msgstr "Насыщенность шрифта"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.300"
+msgid "abt__ut2.banner.params.title_font_weight.variants.300"
+msgstr "Тонкий"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.400"
+msgid "abt__ut2.banner.params.title_font_weight.variants.400"
+msgstr "Нормальный"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.700"
+msgid "abt__ut2.banner.params.title_font_weight.variants.700"
+msgstr "Полный"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.900"
+msgid "abt__ut2.banner.params.title_font_weight.variants.900"
+msgstr "Жирный"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag"
+msgid "abt__ut2.banner.params.title_tag"
+msgstr "Тег (html) для заголовка"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.div"
+msgid "abt__ut2.banner.params.title_tag.variants.div"
+msgstr "div"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.h1"
+msgid "abt__ut2.banner.params.title_tag.variants.h1"
+msgstr "h1"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.h2"
+msgid "abt__ut2.banner.params.title_tag.variants.h2"
+msgstr "h2"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.h3"
+msgid "abt__ut2.banner.params.title_tag.variants.h3"
+msgstr "h3"
+
+msgctxt "Languages::abt__ut2.banner.params.title_shadow"
+msgid "abt__ut2.banner.params.title_shadow"
+msgstr "Добавить тень от заголовка"
+
+msgctxt "Languages::abt__ut2.banner.params_of_description"
+msgid "abt__ut2.banner.params_of_description"
+msgstr "Настройки описания баннера"
+
+msgctxt "Languages::abt__ut2.banner.params.description"
+msgid "abt__ut2.banner.params.description"
+msgstr "Краткое описание"
+
+msgctxt "Languages::abt__ut2.banner.params.description_color"
+msgid "abt__ut2.banner.params.description_color"
+msgstr "Цвет описания"
+
+msgctxt "Languages::abt__ut2.banner.params.description_color.tooltip"
+msgid "abt__ut2.banner.params.description_color.tooltip"
+msgstr "Установите флажок, чтобы использовать новый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params.description_font_size"
+msgid "abt__ut2.banner.params.description_font_size"
+msgstr "Размер шрифта"
+
+msgctxt "Languages::abt__ut2.banner.params.description_bg_color"
+msgid "abt__ut2.banner.params.description_bg_color"
+msgstr "Фоновый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params.description_bg_color.tooltip"
+msgid "abt__ut2.banner.params.description_bg_color.tooltip"
+msgstr "Установите флажок, чтобы использовать новый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params_of_object"
+msgid "abt__ut2.banner.params_of_object"
+msgstr "Настройки объекта/изображения баннера"
+
+msgctxt "Languages::abt__ut2.banner.params.object"
+msgid "abt__ut2.banner.params.object"
+msgstr "Отображаемый объект"
+
+msgctxt "Languages::abt__ut2.banner.params.object.variants.image"
+msgid "abt__ut2.banner.params.object.variants.image"
+msgstr "Изображение"
+
+msgctxt "Languages::abt__ut2.banner.params.object.variants.video"
+msgid "abt__ut2.banner.params.object.variants.video"
+msgstr "YouТube видео"
+
+msgctxt "Languages::abt__ut2.banner.params.main_image"
+msgid "abt__ut2.banner.params.main_image"
+msgstr "Основное изображение"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_use"
+msgid "abt__ut2.banner.params.youtube_use"
+msgstr "Добавить YouTube видео"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_id"
+msgid "abt__ut2.banner.params.youtube_id"
+msgstr "ID YouTube видео"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_id.tooltip"
+msgid "abt__ut2.banner.params.youtube_id.tooltip"
+msgstr "Идентификатор видео — https://www.youtube.com/watch?v=<b>abcd1234567</b>, укажите только <b>abcd1234567</b>"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_autoplay"
+msgid "abt__ut2.banner.params.youtube_autoplay"
+msgstr "Автовоспроизведение"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_autoplay.tooltip"
+msgid "abt__ut2.banner.params.youtube_autoplay.tooltip"
+msgstr "В связи с изменениями политики <b>Google</b>, автовоспроизведение будет доступно только без звука. Подробнее смотрите <a href='https://developers.google.com/web/updates/2017/09/autoplay-policy-changes' target='_blank'>документацию</a>. <b>Google</b> настоятельно рекомендует при автовоспроизведении отображать панель управления плеера"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_hide_controls"
+msgid "abt__ut2.banner.params.youtube_hide_controls"
+msgstr "Скрыть элементы управления плеера"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_hide_controls.tooltip"
+msgid "abt__ut2.banner.params.youtube_hide_controls.tooltip"
+msgstr "Google настоятельно рекомендует при автовоспроизведении отображать панель управления плеера"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image"
+msgid "abt__ut2.banner.params.background_image"
+msgstr "Фоновое изображение"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size"
+msgid "abt__ut2.banner.params.background_image_size"
+msgstr "Масштабирование фонового изображения"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size.tooltip"
+msgid "abt__ut2.banner.params.background_image_size.tooltip"
+msgstr ""
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size.variants.cover"
+msgid "abt__ut2.banner.params.background_image_size.variants.cover"
+msgstr "С сохранением пропорций, чтобы его ширина или высота равнялась ширине или высоте блока"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size.variants.contain"
+msgid "abt__ut2.banner.params.background_image_size.variants.contain"
+msgstr "С сохранением пропорций, чтобы картинка целиком поместилась внутрь блока"
+
+msgctxt "Languages::abt__ut2.banner.params.background_color"
+msgid "abt__ut2.banner.params.background_color"
+msgstr "Фоновый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params.background_color.tooltip"
+msgid "abt__ut2.banner.params.background_color.tooltip"
+msgstr "Установите флажок, чтобы использовать новый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params_of_content"
+msgid "abt__ut2.banner.params_of_content"
+msgstr "Настройки отображаемого контента баннера"
+
+msgctxt "Languages::abt__ut2.banner.params.data_type"
+msgid "abt__ut2.banner.params.data_type"
+msgstr "Тип контента"
+
+msgctxt "Languages::abt__ut2.banner.params.data_type.variants.url"
+msgid "abt__ut2.banner.params.data_type.variants.url"
+msgstr "Ссылка"
+
+msgctxt "Languages::abt__ut2.banner.params.url"
+msgid "abt__ut2.banner.params.url"
+msgstr "Укажите URL"
+
+msgctxt "Languages::abt__ut2.banner.params_of_button"
+msgid "abt__ut2.banner.params_of_button"
+msgstr "Настройки кнопки баннера"
+
+msgctxt "Languages::abt__ut2.banner.params.button_use"
+msgid "abt__ut2.banner.params.button_use"
+msgstr "Добавить кнопку"
+
+msgctxt "Languages::abt__ut2.banner.params.button_use.tooltip"
+msgid "abt__ut2.banner.params.button_use.tooltip"
+msgstr "Установите флажок для добавления кнопки. <b>Важно!</b> Кнопка появится только при наличии ссылки в поле \"Укажите URL\""
+
+msgctxt "Languages::abt__ut2.banner.params.button_text"
+msgid "abt__ut2.banner.params.button_text"
+msgstr "Текст (призыв к действию)"
+
+msgctxt "Languages::abt__ut2.banner.params.button_text_color"
+msgid "abt__ut2.banner.params.button_text_color"
+msgstr "Цвет текста"
+
+msgctxt "Languages::abt__ut2.banner.params.button_text_color.tooltip"
+msgid "abt__ut2.banner.params.button_text_color.tooltip"
+msgstr "Установите флажок, чтобы использовать новый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params.button_color"
+msgid "abt__ut2.banner.params.button_color"
+msgstr "Цвет кнопки"
+
+msgctxt "Languages::abt__ut2.banner.params.button_color.tooltip"
+msgid "abt__ut2.banner.params.button_color.tooltip"
+msgstr "Установите флажок, чтобы использовать новый цвет"
+
+msgctxt "Languages::abt__ut2.banner.params_additional"
+msgid "abt__ut2.banner.params_additional"
+msgstr "Дополнительные настройки баннера"
+
+msgctxt "Languages::abt__ut2.banner.params.content_bg"
+msgid "abt__ut2.banner.params.content_bg"
+msgstr "Добавить полупрозрачную маску"
+
+msgctxt "Languages::abt__ut2.banner.params.content_bg.tooltip"
+msgid "abt__ut2.banner.params.content_bg.tooltip"
+msgstr "Под описанием появится полупрозрачный фон (цвет зависит от схемы), он обеспечит лучшую читаемость текста на пёстром фоне"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open"
+msgid "abt__ut2.banner.params.how_to_open"
+msgstr "Способ открытия"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open.variants.in_new_window"
+msgid "abt__ut2.banner.params.how_to_open.variants.in_new_window"
+msgstr "В новом окне"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open.variants.in_popup"
+msgid "abt__ut2.banner.params.how_to_open.variants.in_popup"
+msgstr "Во всплывающем окне"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open.variants.in_this_window"
+msgid "abt__ut2.banner.params.how_to_open.variants.in_this_window"
+msgstr "В текущем окне"
+
+msgctxt "Languages::abt__ut2.banner.params.use_avail_period"
+msgid "abt__ut2.banner.params.use_avail_period"
+msgstr "Задать период действия"
+
+msgctxt "Languages::abt__ut2.banner.params.avail_from"
+msgid "abt__ut2.banner.params.avail_from"
+msgstr "Период действия с"
+
+msgctxt "Languages::abt__ut2.banner.params.avail_till"
+msgid "abt__ut2.banner.params.avail_till"
+msgstr "Период действия по"
+
+msgctxt "Languages::abt__ut2.banner.params.class"
+msgid "abt__ut2.banner.params.class"
+msgstr "Пользовательский CSS-класс"
+
+msgctxt "Languages::abt__ut2.sort_by_null_asc"
+msgid "abt__ut2.sort_by_null_asc"
+msgstr "Без сортировки"
+
+msgctxt "Languages::abt__ut2.sort_by_timestamp_asc"
+msgid "abt__ut2.sort_by_timestamp_asc"
+msgstr "Новинки ниже"
+
+msgctxt "Languages::abt__ut2.sort_by_timestamp_desc"
+msgid "abt__ut2.sort_by_timestamp_desc"
+msgstr "Новинки выше"
+
+msgctxt "Languages::abt__ut2.sort_by_position_asc"
+msgid "abt__ut2.sort_by_position_asc"
+msgstr "Низкие позиции выше"
+
+msgctxt "Languages::abt__ut2.sort_by_position_desc"
+msgid "abt__ut2.sort_by_position_desc"
+msgstr "Высокие позиции выше"
+
+msgctxt "Languages::abt__ut2.sort_by_product_asc"
+msgid "abt__ut2.sort_by_product_asc"
+msgstr "От А до Я"
+
+msgctxt "Languages::abt__ut2.sort_by_product_desc"
+msgid "abt__ut2.sort_by_product_desc"
+msgstr "От Я до А"
+
+msgctxt "Languages::abt__ut2.sort_by_price_asc"
+msgid "abt__ut2.sort_by_price_asc"
+msgstr "Дешевые выше"
+
+msgctxt "Languages::abt__ut2.sort_by_price_desc"
+msgid "abt__ut2.sort_by_price_desc"
+msgstr "Дорогие выше"
+
+msgctxt "Languages::abt__ut2.sort_by_popularity_asc"
+msgid "abt__ut2.sort_by_popularity_asc"
+msgstr "Менее популярные выше"
+
+msgctxt "Languages::abt__ut2.sort_by_popularity_desc"
+msgid "abt__ut2.sort_by_popularity_desc"
+msgstr "Популярные выше"
+
+msgctxt "Languages::abt__ut2.sort_by_bestsellers_asc"
+msgid "abt__ut2.sort_by_bestsellers_asc"
+msgstr "Наименее покупаемые в начале"
+
+msgctxt "Languages::abt__ut2.sort_by_bestsellers_desc"
+msgid "abt__ut2.sort_by_bestsellers_desc"
+msgstr "Хиты продаж"
+
+msgctxt "Languages::abt__ut2.sort_by_on_sale_asc"
+msgid "abt__ut2.sort_by_on_sale_asc"
+msgstr "Высокие скидки в конце"
+
+msgctxt "Languages::abt__ut2.sort_by_on_sale_desc"
+msgid "abt__ut2.sort_by_on_sale_desc"
+msgstr "Высокие скидки в начале"
+
+msgctxt "Languages::abt__ut2.load_more_products.already_showing_all_products"
+msgid "abt__ut2.load_more_products.already_showing_all_products"
+msgstr "Показаны все [n] товар|Показаны все [n] товара|Показаны все [n] товаров"
+
+msgctxt "Languages::abt__ut2.load_more_products.show_more"
+msgid "abt__ut2.load_more_products.show_more"
+msgstr "Показать ещё [n] товар|Показать ещё [n] товара|Показать ещё [n] товаров"
+
+msgctxt "Languages::abt__ut2.add_to_cart"
+msgid "abt__ut2.add_to_cart"
+msgstr "Купить"
+
+msgctxt "Languages::abt__ut2.menu.tab_description"
+msgid "abt__ut2.menu.tab_description"
+msgstr "Представленные ниже настройки следует применять только для пунктов меню, которые в макете для блока меню используют экстра шаблоны <b>AB: Горизонтальный выпадающий список с иконками</b> или <b>AB: Вертикальный выпадающий список с иконками</b> темы AB: UniTheme2"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.status"
+msgid "abt__ut2.menu_with_icons.status"
+msgstr "AB: Активировать настройки"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.icon"
+msgid "abt__ut2.menu_with_icons.icon"
+msgstr "Иконка"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.icon"
+msgid "ttc_abt__ut2.menu_with_icons.icon"
+msgstr "Иконка пункта меню (максимальный размер иконок:<br> — для пунктов первого уровня 32x32px / для HiDPI 64x64px). Если Bы не используете <b>Краткое описание</b> для пунктов меню первого уровня, то следует использовать максимальный размер 24x24px / для HiDPI 48x48px<br> — для пунктов второго уровня максимальная ширина иконок 100px / для HiDPI 200px)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.desc"
+msgid "abt__ut2.menu_with_icons.desc"
+msgstr "Краткое описание"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.desc"
+msgid "ttc_abt__ut2.menu_with_icons.desc"
+msgstr "Краткое описание пункта меню (показывается только для пунктов первого уровня ниже названия пункта меню)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.dropdown"
+msgid "abt__ut2.menu_with_icons.dropdown"
+msgstr "Режим 3-х уровневого меню (выпадающим списком)"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.dropdown"
+msgid "ttc_abt__ut2.menu_with_icons.dropdown"
+msgstr "Активировать режим 3-х уровневого меню (выпадающим списком) (используется только для шаблона <b>AB: Вертикальный выпадающий список с иконками </b> для пунктов первого уровня). Рационально задействовать этот режим для тех пунктов меню первого уровня, которые имеют на третьем уровне вложенности большое количество элементов (подпунктов)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text"
+msgid "abt__ut2.menu_with_icons.text"
+msgstr "HTML-содержимое"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.text"
+msgid "ttc_abt__ut2.menu_with_icons.text"
+msgstr "HTML-содержимое, отображаемое в этом пункте меню (только для пунктов первого уровня). Используется для показа баннера в мега меню (либо любого другого контента)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position"
+msgid "abt__ut2.menu_with_icons.text_position"
+msgstr "Положение HTML-содержимого"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.text_position"
+msgid "ttc_abt__ut2.menu_with_icons.text_position"
+msgstr "Положение HTML-содержимого, отображаемого в этом пункте меню (только для пунктов первого уровня)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position.bottom"
+msgid "abt__ut2.menu_with_icons.text_position.bottom"
+msgstr "Внизу"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position.right_bottom"
+msgid "abt__ut2.menu_with_icons.text_position.right_bottom"
+msgstr "Справа внизу"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position.right_top"
+msgid "abt__ut2.menu_with_icons.text_position.right_top"
+msgstr "Справа вверху"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.label"
+msgid "abt__ut2.menu_with_icons.label"
+msgstr "Маркер"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.label"
+msgid "ttc_abt__ut2.menu_with_icons.label"
+msgstr "Маркер пункта меню (возможность помечать лейблами, важные пункты меню (акция, новое, тотальная распродажа и др. по желанию))"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.label_color"
+msgid "abt__ut2.menu_with_icons.label_color"
+msgstr "Цвет маркера"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.label_color"
+msgid "ttc_abt__ut2.menu_with_icons.label_color"
+msgstr "Цвет маркера пункта меню"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.label_background"
+msgid "abt__ut2.menu_with_icons.label_background"
+msgstr "Фон маркера"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.label_background"
+msgid "ttc_abt__ut2.menu_with_icons.label_background"
+msgstr "Фон маркера пункта меню"
+
+msgctxt "Languages::abt__ut2.settings"
+msgid "abt__ut2.settings"
+msgstr "Настройки темы"
+
+msgctxt "Languages::abt__ut2.settings.name"
+msgid "abt__ut2.settings.name"
+msgstr "Название"
+
+msgctxt "Languages::abt__ut2.settings.value"
+msgid "abt__ut2.settings.value"
+msgstr "Значение для всех устройств"
+
+msgctxt "Languages::abt__ut2.settings.value.desktop"
+msgid "abt__ut2.settings.value.desktop"
+msgstr "Значение для ПК"
+
+msgctxt "Languages::abt__ut2.settings.value.tablet"
+msgid "abt__ut2.settings.value.tablet"
+msgstr "Значение для Планшет"
+
+msgctxt "Languages::abt__ut2.settings.value.mobile"
+msgid "abt__ut2.settings.value.mobile"
+msgstr "Значение для Смартфон"
+
+msgctxt "Languages::abt__ut2.settings.general"
+msgid "abt__ut2.settings.general"
+msgstr "Общие"
+
+msgctxt "Languages::abt__ut2.settings.general_description"
+msgid "abt__ut2.settings.general_description"
+msgstr "Здесь представлены общие настройки темы, они влияют на внешний вид и функционал магазина"
+
+msgctxt "Languages::abt__ut2.settings.general.brand_feature_id"
+msgid "abt__ut2.settings.general.brand_feature_id"
+msgstr "ID характеристики бренда"
+
+msgctxt "Languages::abt__ut2.settings.general.brand_feature_id.tooltip"
+msgid "abt__ut2.settings.general.brand_feature_id.tooltip"
+msgstr "Укажите Feature ID характеристики бренда. ID характеристики указывается рядом с названием характеристики в списке характеристик (Товары -> Характеристики в административной панели магазина). Обязательно для указанной характеристики должен быть установлен параметр \"Показывать в списке товаров\""
+
+msgctxt "Languages::abt__ut2.settings.general.blog_page_id"
+msgid "abt__ut2.settings.general.blog_page_id"
+msgstr "ID главной страницы блога"
+
+msgctxt "Languages::abt__ut2.settings.general.blog_page_id.tooltip"
+msgid "abt__ut2.settings.general.blog_page_id.tooltip"
+msgstr "Укажите данную настройку, чтоб вывести ссылку \"Все страницы\" в блоке \"Актуальные новости\" (cмотрите Веб-сайт -> Блог)"
+
+msgctxt "Languages::abt__ut2.settings.general.blog_page_id.button"
+msgid "abt__ut2.settings.general.blog_page_id.button"
+msgstr "Все статьи блога"
+
+msgctxt "Languages::abt__ut2.settings.general.menu_min_height"
+msgid "abt__ut2.settings.general.menu_min_height"
+msgstr "Минимальная высота для меню (только для Вертикальный тип), px"
+
+msgctxt "Languages::abt__ut2.settings.general.menu_min_height.tooltip"
+msgid "abt__ut2.settings.general.menu_min_height.tooltip"
+msgstr "Минимальная высота для блока вертикального меню с пунктами второго уровня. Используется для подгонки соответствия высоты левой и правой частей меню (детально описано в документации к теме)"
+
+msgctxt "Languages::abt__ut2.settings.general.enable_fixed_header_panel"
+msgid "abt__ut2.settings.general.enable_fixed_header_panel"
+msgstr "Включить липкое меню"
+
+msgctxt "Languages::abt__ut2.settings.general.enable_fixed_header_panel.tooltip"
+msgid "abt__ut2.settings.general.enable_fixed_header_panel.tooltip"
+msgstr "Позволяет выводить сверху фиксированную панель с элементами шапки магазина. Основные элементы шапки будут видны даже при скроллинге"
+
+msgctxt "Languages::abt__ut2.settings.category"
+msgid "abt__ut2.settings.category"
+msgstr "Категория"
+
+msgctxt "Languages::abt__ut2.settings.category_description"
+msgid "abt__ut2.settings.category_description"
+msgstr "Здесь представлены настройки для страниц Категорий"
+
+msgctxt "Languages::abt__ut2.settings.category.show_subcategories"
+msgid "abt__ut2.settings.category.show_subcategories"
+msgstr "Отображать подкатегории в категориях"
+
+msgctxt "Languages::abt__ut2.settings.category.show_subcategories.tooltip"
+msgid "abt__ut2.settings.category.show_subcategories.tooltip"
+msgstr "Разрешает вывод подкатегорий в категориях"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position"
+msgid "abt__ut2.settings.category.description_position"
+msgstr "Отображать описание категории"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.tooltip"
+msgid "abt__ut2.settings.category.description_position.tooltip"
+msgstr "Определяет способ отображения описания категории (при этом вне зависимости от места отображения поле Описание будет выводиться в коде всегда выше товарного блока, это одна из рекомендаций SEO аудитов)"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.variants.bottom"
+msgid "abt__ut2.settings.category.description_position.variants.bottom"
+msgstr "Ниже товарного блока"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.variants.top"
+msgid "abt__ut2.settings.category.description_position.variants.top"
+msgstr "Выше товарного блока"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.variants.none"
+msgid "abt__ut2.settings.category.description_position.variants.none"
+msgstr "Не отображать"
+
+msgctxt "Languages::abt__ut2.settings.features"
+msgid "abt__ut2.settings.features"
+msgstr "Характеристики"
+
+msgctxt "Languages::abt__ut2.settings.features_description"
+msgid "abt__ut2.settings.features_description"
+msgstr "Здесь представлены настройки для страниц Характеристики"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position"
+msgid "abt__ut2.settings.features.description_position"
+msgstr "Отображать описание характеристики"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.tooltip"
+msgid "abt__ut2.settings.features.description_position.tooltip"
+msgstr "Определяет способ отображения описания характеристики (при этом вне зависимости от места отображения поле Описание будет выводиться в коде всегда выше товарного блока, это одна из рекомендаций SEO аудитов)"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.variants.bottom"
+msgid "abt__ut2.settings.features.description_position.variants.bottom"
+msgstr "Ниже товарного блока"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.variants.top"
+msgid "abt__ut2.settings.features.description_position.variants.top"
+msgstr "Выше товарного блока"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.variants.none"
+msgid "abt__ut2.settings.features.description_position.variants.none"
+msgstr "Не отображать"
+
+msgctxt "Languages::abt__ut2.settings.product_list"
+msgid "abt__ut2.settings.product_list"
+msgstr "Списки товаров"
+
+msgctxt "Languages::abt__ut2.settings.product_list_description"
+msgid "abt__ut2.settings.product_list_description"
+msgstr "Здесь представлены настройки темы, которые влияют на вывод товарных списков — блоки с товарами, списки товаров в категории, поиске, на странице характеристик. Обратите внимание: блоки могут иметь свои собственные настройки и не использовать выбранные ниже параметры. Наличие иконки <i class=\"icon-is-addon\"></i> рядом с названием настройки означает, что она модулезависима (вступает в силу только при наличии включенного модуля, который отвечает за соответствующий функционал)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_gallery"
+msgid "abt__ut2.settings.product_list.show_gallery"
+msgstr "Показывать галерею мини иконок товара в товарном списке"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_gallery.tooltip"
+msgid "abt__ut2.settings.product_list.show_gallery.tooltip"
+msgstr "Активирует опцию скроллинга мини галереи фотографий товара в списках. Применяется только для товарного списка с шаблоном вывода \"Сетка\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.lazy_load"
+msgid "abt__ut2.settings.product_list.lazy_load"
+msgstr "Использовать отложенную загрузку изображений"
+
+msgctxt "Languages::abt__ut2.settings.product_list.lazy_load.tooltip"
+msgid "abt__ut2.settings.product_list.lazy_load.tooltip"
+msgstr "Ускоряет загрузку страницы категории за счет того, что изображения загружаются после загрузки страницы, а также по мере их отображения на экране пользователя. Не совместим с активированной опцией настроек \"Показывать галерею мини иконок товара в товарном списке\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.decolorate_out_of_stock_products"
+msgid "abt__ut2.settings.product_list.decolorate_out_of_stock_products"
+msgstr "Обесцвечивать товары, которых нет в наличии"
+
+msgctxt "Languages::abt__ut2.settings.product_list.decolorate_out_of_stock_products.tooltip"
+msgid "abt__ut2.settings.product_list.decolorate_out_of_stock_products.tooltip"
+msgstr "Применяет эффект обесцвечивания для плиток товаров, которых нет в наличии. Используется только для списков в категориях"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_fixed_filters_button"
+msgid "abt__ut2.settings.product_list.show_fixed_filters_button"
+msgstr "Включить фиксированную кнопку вызова фильтров"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_fixed_filters_button.tooltip"
+msgid "abt__ut2.settings.product_list.show_fixed_filters_button.tooltip"
+msgstr "Когда настройка включена при скролле страницы будет появлятся кнопка для вызова фильтров"
+
+msgctxt "Languages::abt__ut2.settings.product_list.limit_product_variations"
+msgid "abt__ut2.settings.product_list.limit_product_variations"
+msgstr "Максимальное количество отображаемых вариаций товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.limit_product_variations.tooltip"
+msgid "abt__ut2.settings.product_list.limit_product_variations.tooltip"
+msgstr "Укажите количество доступных вариаций, которые будут показаны для товара в списке, если доступно больше вариаций, чем указано в настройке, то оставшееся количество будет указано в скобках (еще +N). Значение <code>0</code> заблокирует отображение вариаций."
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns_group"
+msgid "abt__ut2.settings.product_list.products_multicolumns_group"
+msgstr "Настройки для вида списка товаров \"Сетка\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns_group_description"
+msgid "abt__ut2.settings.product_list.products_multicolumns_group_description"
+msgstr "Настройки для вида списка товаров \"Сетка\". Обратите внимание, некоторые настройки позволяют управлять выводом элементов функционала для разных устройств в отдельности"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_height"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_height"
+msgstr "Минимальная высота для ячейки товара, px"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_height.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_height.tooltip"
+msgstr "Определяет высоту для ячейки товара согласно Вашим потребностям"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_sku"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_sku"
+msgstr "Отображать код товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_sku.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_sku.tooltip"
+msgstr "Разрешить отображение кода товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_qty"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_qty"
+msgstr "Отображать модификатор количества"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_qty.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_qty.tooltip"
+msgstr "Разрешить отображение поле выбора количества товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons"
+msgstr "Отображать кнопки \"Купить\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons.tooltip"
+msgstr "Разрешить вывод кнопок \"Купить\" и \"Купить в один клик\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover"
+msgstr "Отображать кнопки, только при наведении"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover.tooltip"
+msgstr "Кнопки \"Купить\" и \"Купить в один клик\" будут отображаться только при наведении на ячейку товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content"
+msgstr "Содержимое нижней части товарной плитки"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.tooltip"
+msgstr "Выберите, что будет использоваться в качестве информации о товаре"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.none"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.none"
+msgstr "Не отображать"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.description"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.description"
+msgstr "Краткое описание"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.features"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.features"
+msgstr "Список характеристик"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_brand_logo"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_brand_logo"
+msgstr "Отображать логотип бренда"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_brand_logo.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_brand_logo.tooltip"
+msgstr "Разрешить отображение логотипа бренда (необходима правильная настройка опции \"ID характеристики бренда\" в секции \"Общие\" настроек темы, а также наличие загруженных изображений для вариантов характеристики Бренд)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_you_save"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_you_save"
+msgstr "Отображать \"Вы экономите\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_you_save.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_you_save.tooltip"
+msgstr "Выводит информацию об экономии (сумма сэкономленных средств)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options_group"
+msgid "abt__ut2.settings.product_list.products_without_options_group"
+msgstr "Настройки для вида списка товаров \"Список без опций\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options_group_description"
+msgid "abt__ut2.settings.product_list.products_without_options_group_description"
+msgstr "Настройки для вида списка товаров \"Список без опций\". Обратите внимание, некоторые настройки позволяют управлять выводом элементов функционала для разных устройств в отдельности"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_sku"
+msgid "abt__ut2.settings.product_list.products_without_options.show_sku"
+msgstr "Отображать код товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_sku.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_sku.tooltip"
+msgstr "Разрешить отображение кода товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_amount"
+msgid "abt__ut2.settings.product_list.products_without_options.show_amount"
+msgstr "Отображать статус наличия"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_amount.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_amount.tooltip"
+msgstr "Разрешить отображение статуса наличия товара на складе (В наличии, Нет в наличии)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_qty"
+msgid "abt__ut2.settings.product_list.products_without_options.show_qty"
+msgstr "Отображать модификатор количества"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_qty.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_qty.tooltip"
+msgstr "Разрешить отображение поле выбора количества товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_features"
+msgid "abt__ut2.settings.product_list.products_without_options.show_features"
+msgstr "Отображать характеристики товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_features.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_features.tooltip"
+msgstr "Разрешить отображение выбранных характеристик товара (для отображения в списке товаров характеристика должна иметь активную настройку \"Показывать в списке товаров\")"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_options"
+msgid "abt__ut2.settings.product_list.products_without_options.show_options"
+msgstr "Отображать опции товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_options.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_options.tooltip"
+msgstr "Разрешить отображение опций товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_brand_logo"
+msgid "abt__ut2.settings.product_list.products_without_options.show_brand_logo"
+msgstr "Отображать логотип бренда"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_brand_logo.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_brand_logo.tooltip"
+msgstr "Разрешить отображение логотипа бренда (необходима правильная настройка опции \"ID характеристики бренда\" в секции \"Общие\" настроек темы, а также наличие загруженных изображений для вариантов характеристики Бренд)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list_group"
+msgid "abt__ut2.settings.product_list.short_list_group"
+msgstr "Настройки для вида списка товаров \"Компактный список\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list_group_description"
+msgid "abt__ut2.settings.product_list.short_list_group_description"
+msgstr "Настройки для вида списка товаров \"Компактный список\". Обратите внимание на наличие модулезависимых настроек. Некоторые настройки позволяют управлять выводом элементов функционала для разных устройств в отдельности"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_sku"
+msgid "abt__ut2.settings.product_list.short_list.show_sku"
+msgstr "Отображать код товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_sku.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_sku.tooltip"
+msgstr "Разрешить отображение кода товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_qty"
+msgid "abt__ut2.settings.product_list.short_list.show_qty"
+msgstr "Отображать модификатор количества"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_qty.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_qty.tooltip"
+msgstr "Разрешить отображение поле выбора количества товара"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button"
+msgid "abt__ut2.settings.product_list.short_list.show_button"
+msgstr "Отображать кнопку \"Купить\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button.tooltip"
+msgstr "Разрешить отображение кнопок \"Купить\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_quick_view"
+msgid "abt__ut2.settings.product_list.short_list.show_button_quick_view"
+msgstr "Отображать кнопку \"Быстрый просмотр\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_quick_view.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button_quick_view.tooltip"
+msgstr "Разрешить отображение кнопки \"Быстрый просмотр\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_wishlist"
+msgid "abt__ut2.settings.product_list.short_list.show_button_wishlist"
+msgstr "Отображать кнопку \"Добавить в избранное\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_wishlist.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button_wishlist.tooltip"
+msgstr "Разрешить отображение кнопки \"Добавить в избранное\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_compare"
+msgid "abt__ut2.settings.product_list.short_list.show_button_compare"
+msgstr "Отображать кнопку \"Добавить к сравнению\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_compare.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button_compare.tooltip"
+msgstr "Разрешить отображение кнопки \"Добавить к сравнению\""
+
+msgctxt "Languages::abt__ut2.settings.products"
+msgid "abt__ut2.settings.products"
+msgstr "Товар"
+
+msgctxt "Languages::abt__ut2.settings.products_description"
+msgid "abt__ut2.settings.products_description"
+msgstr "Здесь представлены настройки темы, которые влияют на внешний вид страницы товара"
+
+msgctxt "Languages::abt__ut2.settings.products.custom_block_id"
+msgid "abt__ut2.settings.products.custom_block_id"
+msgstr "ID пользовательского блока / Выводить блок в правой колонке"
+
+msgctxt "Languages::abt__ut2.settings.products.custom_block_id.tooltip"
+msgid "abt__ut2.settings.products.custom_block_id.tooltip"
+msgstr "Укажите ID пользовательского блока, который вы хотите вывести в правой части карточки товара (блок должен быть добавлен в макет Товары и может быть выключен, специальная функция добавит его в предусмотренное место в обход системы макетов CS-Cart) (детально описано в документации к теме)"
+
+msgctxt "Languages::abt__ut2.settings.products.view_group"
+msgid "abt__ut2.settings.products.view_group"
+msgstr "Дополнительные настройки отображения"
+
+msgctxt "Languages::abt__ut2.settings.products.view_group_description"
+msgid "abt__ut2.settings.products.view_group_description"
+msgstr "Дополнительные настройки внешнего вида страницы товара"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sticky_add_to_cart"
+msgid "abt__ut2.settings.products.view.show_sticky_add_to_cart"
+msgstr "Отображать липкий блок Купить (только для мобильных устройств)"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sticky_add_to_cart.tooltip"
+msgid "abt__ut2.settings.products.view.show_sticky_add_to_cart.tooltip"
+msgstr "Разрешить вывод фиксированного блока с кнопкой Купить в нижней части экрана мобильного устройства для карточки товара. Также в зависимости от состояния настройки \"Отображать модификатор количества\" в блоке может быть указан модификатор количества товаров для заказа"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_qty"
+msgid "abt__ut2.settings.products.view.show_qty"
+msgstr "Отображать модификатор количества"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_qty.tooltip"
+msgid "abt__ut2.settings.products.view.show_qty.tooltip"
+msgstr "Разрешить отображение поле выбора количества товара"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_features"
+msgid "abt__ut2.settings.products.view.show_features"
+msgstr "Отображать характеристики товара"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_features.tooltip"
+msgid "abt__ut2.settings.products.view.show_features.tooltip"
+msgstr "Разрешить отображение выбранных характеристик товара (для отображения на странице товара (не путать с отображением во вкладке Особенности) характеристика должна иметь активную настройку \"Показывать в заголовке карточки товара\")"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_short_description"
+msgid "abt__ut2.settings.products.view.show_short_description"
+msgstr "Отображать краткое описание"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_short_description.tooltip"
+msgid "abt__ut2.settings.products.view.show_short_description.tooltip"
+msgstr "Разрешить отображение \"Краткого описания\" товара"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sku"
+msgid "abt__ut2.settings.products.view.show_sku"
+msgstr "Отображать код товара"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sku.tooltip"
+msgid "abt__ut2.settings.products.view.show_sku.tooltip"
+msgstr "Разрешить отображение кода товара"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together_group"
+msgid "abt__ut2.settings.products.addon_buy_together_group"
+msgstr "Модуль \"Комбинации товаров\""
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together_group_description"
+msgid "abt__ut2.settings.products.addon_buy_together_group_description"
+msgstr "Нативный модуль CS-Cart, позволяющий выводить выгодные предложения в комбинации с текущим товаров, на странице которого находится пользователь"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view"
+msgid "abt__ut2.settings.products.addon_buy_together.view"
+msgstr "Способ отображения"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view.tooltip"
+msgid "abt__ut2.settings.products.addon_buy_together.view.tooltip"
+msgstr "Выберите способ отображения (добавленный темой AB: UniTheme2 или стандартный вывод вкладкой)"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view.variants.as_block_above_tabs"
+msgid "abt__ut2.settings.products.addon_buy_together.view.variants.as_block_above_tabs"
+msgstr "Как блок перед вкладками товара"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view.variants.as_tab_in_tabs"
+msgid "abt__ut2.settings.products.addon_buy_together.view.variants.as_tab_in_tabs"
+msgstr "Как вкладка товара"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products_group"
+msgid "abt__ut2.settings.products.addon_required_products_group"
+msgstr "Модуль \"Требуемые товары\""
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products_group_description"
+msgid "abt__ut2.settings.products.addon_required_products_group_description"
+msgstr "Нативный модуль CS-Cart \"Требуемые товары\" создает группировку товаров, которые будут добавлены в корзину с товаром, на странице которого находится пользователь"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type"
+msgid "abt__ut2.settings.products.addon_required_products.list_type"
+msgstr "Шаблон"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.tooltip"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.tooltip"
+msgstr "Выберите шаблон отображения списка товаров"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.variants.grid_list"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.variants.grid_list"
+msgstr "Сетка"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.variants.compact_list"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.variants.compact_list"
+msgstr "Компактный список"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.variants.product_list"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.variants.product_list"
+msgstr "Список без опций"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.item_quantity"
+msgid "abt__ut2.settings.products.addon_required_products.item_quantity"
+msgstr "Показывать товаров в ряд"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.item_quantity.tooltip"
+msgid "abt__ut2.settings.products.addon_required_products.item_quantity.tooltip"
+msgstr "Укажите количество для отображения товаров в ряд (только для \"Сетка\")"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons_group"
+msgid "abt__ut2.settings.products.addon_social_buttons_group"
+msgstr "Модуль \"Социальные кнопки\""
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons_group_description"
+msgid "abt__ut2.settings.products.addon_social_buttons_group_description"
+msgstr "Нативный модуль CS-Cart \"Социальные кнопки\" выводит виджеты кнопок Поделиться для социальных сетей"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons.view"
+msgid "abt__ut2.settings.products.addon_social_buttons.view"
+msgstr "Отображать кнопки социальных сетей"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons.view.tooltip"
+msgid "abt__ut2.settings.products.addon_social_buttons.view.tooltip"
+msgstr "Обратите внимание, включение этой опции сильно замедляет загрузку страницы товара. Не рекомендуется к отображению на мобильных устройствах."
+
+msgctxt "Languages::abt__ut2.addon_social_buttons.share"
+msgid "abt__ut2.addon_social_buttons.share"
+msgstr "Поделиться"
+
+msgctxt "Languages::abt__ut2.settings.load_more"
+msgid "abt__ut2.settings.load_more"
+msgstr "Показать ещё"
+
+msgctxt "Languages::abt__ut2.settings.load_more_description"
+msgid "abt__ut2.settings.load_more_description"
+msgstr "Ниже представлены настройки механизма \"Показать ещё\" для различных объектов в списках (ленивая пагинация)"
+
+msgctxt "Languages::abt__ut2.settings.load_more.product_list"
+msgid "abt__ut2.settings.load_more.product_list"
+msgstr "Разрешить для товарных списков"
+
+msgctxt "Languages::abt__ut2.settings.load_more.product_list.tooltip"
+msgid "abt__ut2.settings.load_more.product_list.tooltip"
+msgstr "Разрешить отображение кнопки \"Показать ещё\" для страниц категорий, брендов, новинок и т.д."
+
+msgctxt "Languages::abt__ut2.settings.load_more.blog"
+msgid "abt__ut2.settings.load_more.blog"
+msgstr "Разрешить для Блога"
+
+msgctxt "Languages::abt__ut2.settings.load_more.blog.tooltip"
+msgid "abt__ut2.settings.load_more.blog.tooltip"
+msgstr "Разрешить отображение кнопки \"Показать ещё\" для постов блога"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode"
+msgid "abt__ut2.settings.load_more.mode"
+msgstr "Режим работы пагинатора"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode.variants.auto"
+msgid "abt__ut2.settings.load_more.mode.variants.auto"
+msgstr "Автоматически"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode.variants.on_button_click"
+msgid "abt__ut2.settings.load_more.mode.variants.on_button_click"
+msgstr "По клику на кнопку"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode.tooltip"
+msgid "abt__ut2.settings.load_more.mode.tooltip"
+msgstr "Выберите режим работы кнопки Показать ещё.<br />"
+"<b>Автоматически</b> — в этом режиме, следующая страница товаров будет загружаться за N px до конца страницы при прокрутке вниз. <br />"
+"<b>По клику на кнопку</b> — загрузка следующей страницы товаров будет происходить только по клику кнопки пользователем"
+
+msgctxt "Languages::abt__ut2.settings.load_more.before_end"
+msgid "abt__ut2.settings.load_more.before_end"
+msgstr "Запустить за N px до конца страницы"
+
+msgctxt "Languages::abt__ut2.settings.load_more.before_end.tooltip"
+msgid "abt__ut2.settings.load_more.before_end.tooltip"
+msgstr "Используется только тогда, когда выбран вариант Автоматически"
+
+msgctxt "Languages::abt__ut2.load_more.show_more.pages"
+msgid "abt__ut2.load_more.show_more.pages"
+msgstr "Показать еще [n] страницу|Показать еще [n] страницы|Показать еще [n] страниц"
+
+msgctxt "Languages::abt__ut2.load_more.show_more.products"
+msgid "abt__ut2.load_more.show_more.products"
+msgstr "Показать еще [n] товар|Показать еще [n] товара|Показать еще [n] товаров"
+
+msgctxt "Languages::abt__ut2.settings.addons"
+msgid "abt__ut2.settings.addons"
+msgstr "Модули"
+
+msgctxt "Languages::abt__ut2.settings.addons_description"
+msgid "abt__ut2.settings.addons_description"
+msgstr "Здесь представлены настройки, которые влияют на отображение сторонних модулей"
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products_group"
+msgid "abt__ut2.settings.addons.wishlist_products_group"
+msgstr "Модуль \"Отложенные товары\""
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products_group_description"
+msgid "abt__ut2.settings.addons.wishlist_products_group_description"
+msgstr "Позволяет добавлять товары в списки желаний пользователя"
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products.item_quantity"
+msgid "abt__ut2.settings.addons.wishlist_products.item_quantity"
+msgstr "Показывать товаров в ряд"
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products.item_quantity.tooltip"
+msgid "abt__ut2.settings.addons.wishlist_products.item_quantity.tooltip"
+msgstr "Укажите количество для отображения товаров в ряд (только для \"Сетка\")"
+
+msgctxt "Languages::abt__ut2.less_settings"
+msgid "abt__ut2.less_settings"
+msgstr "Настройки цветосхемы"
+
+msgctxt "Languages::abt__ut2.less_settings.style.tooltip"
+msgid "abt__ut2.less_settings.style.tooltip"
+msgstr "Выберите Стиль (less-файл, к которому будут применены следующие настройки)"
+
+msgctxt "Languages::abt__ut2.less_settings.general"
+msgid "abt__ut2.less_settings.general"
+msgstr "Основные настройки цветосхемы"
+
+msgctxt "Languages::abt__ut2.less_settings.general_description"
+msgid "abt__ut2.less_settings.general_description"
+msgstr "<b>Внимание!</b> Данные настройки применяются только к выбранной цветосхеме (для того, чтобы увидеть изменения: убедитесь, что выбранный в поле настроек \"Style\" соответствует выбранной в Вашем магазине цветосхеме (выбранный вариант цветосхемы Вы можете проверить по пути Дизайн -> Темы -> в таблице напротив выбранного по умолчанию макета))"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border"
+msgid "abt__ut2.less_settings.general.show_grid_border"
+msgstr "Тип обрамления товара в сетке"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.tooltip"
+msgid "abt__ut2.less_settings.general.show_grid_border.tooltip"
+msgstr "Вы можете изменить тип обрамления для ячеек в списках товаров"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.variants.none"
+msgid "abt__ut2.less_settings.general.show_grid_border.variants.none"
+msgstr "Без рамки"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.variants.solid_without_margins"
+msgid "abt__ut2.less_settings.general.show_grid_border.variants.solid_without_margins"
+msgstr "Рамка без внешних отступов"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.variants.solid_with_margins"
+msgid "abt__ut2.less_settings.general.show_grid_border.variants.solid_with_margins"
+msgstr "Рамка с внешними отступами"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment"
+msgid "abt__ut2.less_settings.general.use_elements_alignment"
+msgstr "Использовать выравнивание элементов в товарной сетке"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment.tooltip"
+msgid "abt__ut2.less_settings.general.use_elements_alignment.tooltip"
+msgstr "Позволяет выровнять некоторые элементы списка симметрично соседних ячеек товаров"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment.variants.use"
+msgid "abt__ut2.less_settings.general.use_elements_alignment.variants.use"
+msgstr "Использовать"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment.variants.do_not_use"
+msgid "abt__ut2.less_settings.general.use_elements_alignment.variants.do_not_use"
+msgstr "Не использовать"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style"
+msgid "abt__ut2.less_settings.general.button_style"
+msgstr "Оформление для кнопок"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style.tooltip"
+msgid "abt__ut2.less_settings.general.button_style.tooltip"
+msgstr "Оформление для кнопок"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style.variants.use_background"
+msgid "abt__ut2.less_settings.general.button_style.variants.use_background"
+msgstr "Использовать фоновую заливку"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style.variants.use_border"
+msgid "abt__ut2.less_settings.general.button_style.variants.use_border"
+msgstr "Использовать только контур"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_button_shadow"
+msgid "abt__ut2.less_settings.general.show_button_shadow"
+msgstr "Отображать тень для кнопок"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_button_shadow.tooltip"
+msgid "abt__ut2.less_settings.general.show_button_shadow.tooltip"
+msgstr "В оформлении кнопок будет использоваться тень"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style"
+msgid "abt__ut2.less_settings.general.discount_label_style"
+msgstr "Стиль маркеров со скидкой"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.tooltip"
+msgid "abt__ut2.less_settings.general.discount_label_style.tooltip"
+msgstr "Укажите форму отображения маркеров со скидкой"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.variants.as_drop"
+msgid "abt__ut2.less_settings.general.discount_label_style.variants.as_drop"
+msgstr "Каплей"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.variants.as_circle"
+msgid "abt__ut2.less_settings.general.discount_label_style.variants.as_circle"
+msgstr "Круглый"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.variants.as_rectangle"
+msgid "abt__ut2.less_settings.general.discount_label_style.variants.as_rectangle"
+msgstr "Прямоугольный"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding"
+msgid "abt__ut2.less_settings.general.use_rounding"
+msgstr "Скруглить углы для элементов интерфейса"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.tooltip"
+msgid "abt__ut2.less_settings.general.use_rounding.tooltip"
+msgstr "Использовать скругление углов элементов (окна, кнопки, иконки, поля форм и др.)"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.variants.do_not_use"
+msgid "abt__ut2.less_settings.general.use_rounding.variants.do_not_use"
+msgstr "Не использовать"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.variants.little"
+msgid "abt__ut2.less_settings.general.use_rounding.variants.little"
+msgstr "Придать небольшую округлость"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.variants.full"
+msgid "abt__ut2.less_settings.general.use_rounding.variants.full"
+msgstr "Полностью скруглить"
+
+msgctxt "Languages::abt__ut2.less_settings.general.stars_rating_color"
+msgid "abt__ut2.less_settings.general.stars_rating_color"
+msgstr "Цвет звездочек рейтинга товара"
+
+msgctxt "Languages::abt__ut2.less_settings.general.stars_rating_color.tooltip"
+msgid "abt__ut2.less_settings.general.stars_rating_color.tooltip"
+msgstr "Укажите собственный цвет звездочек рейтинга товара"
+
+msgctxt "Languages::abt__ut2.less_settings.general.extend_grid_item_on_hover"
+msgid "abt__ut2.less_settings.general.extend_grid_item_on_hover"
+msgstr "Эффект увеличения ячейки при наведении мышью"
+
+msgctxt "Languages::abt__ut2.less_settings.general.extend_grid_item_on_hover.tooltip"
+msgid "abt__ut2.less_settings.general.extend_grid_item_on_hover.tooltip"
+msgstr "Добавляет эффект увеличения (индикации выбора) при наведении на ячейку товара в списке. Применяется только для вида списка товаров \"Сетка\"."
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_animation_for_not_empty_cart"
+msgid "abt__ut2.less_settings.general.show_animation_for_not_empty_cart"
+msgstr "Использовать эффект анимации для непустой корзины"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_animation_for_not_empty_cart.tooltip"
+msgid "abt__ut2.less_settings.general.show_animation_for_not_empty_cart.tooltip"
+msgstr "Добавляет эффект, привлекающий внимание к непустой пользовательской корзине"
+
+msgctxt "Languages::abt__ut2.demodata"
+msgid "abt__ut2.demodata"
+msgstr "Демо-данные"
+
+msgctxt "Languages::abt__ut2.demodata.description"
+msgid "abt__ut2.demodata.description"
+msgstr "На этой странице вы можете быстро создать демо-данные темы"
+
+msgctxt "Languages::abt__ut2.demodata.table.description"
+msgid "abt__ut2.demodata.table.description"
+msgstr "Вид демо данных"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_banners"
+msgid "abt__ut2.demodata.table.add_banners"
+msgstr "Добавить демо-баннеры"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_menu"
+msgid "abt__ut2.demodata.table.add_menu"
+msgstr "Добавить демо-меню с иконками и баннерами"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_blog"
+msgid "abt__ut2.demodata.table.add_blog"
+msgstr "Добавить демо-блог"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_products"
+msgid "abt__ut2.demodata.table.add_products"
+msgstr "Добавить демо-товары"
+
+msgctxt "Languages::abt__ut2.demodata.errors.no_such_type"
+msgid "abt__ut2.demodata.errors.no_such_type"
+msgstr "Нет такого типа демо-данных"
+
+msgctxt "Languages::abt__ut2.export"
+msgid "abt__ut2.export"
+msgstr "Экспорт"
+
+msgctxt "Languages::abt__ut2.export.description"
+msgid "abt__ut2.export.description"
+msgstr "На этой странице вы можете быстро экспортировать "
+"нужные вам данные в формат json"
+
+msgctxt "Languages::abt__ut2.export.table.description"
+msgid "abt__ut2.export.table.description"
+msgstr "Тип данных"
+
+msgctxt "Languages::abt__ut2.export.table.data"
+msgid "abt__ut2.export.table.data"
+msgstr "Данные для экспорта"
+
+msgctxt "Languages::abt__ut2.export.actions.banners"
+msgid "abt__ut2.export.actions.banners"
+msgstr "Баннеры"
+
+msgctxt "Languages::abt__ut2.export.actions.banners.placeholder"
+msgid "abt__ut2.export.actions.banners.placeholder"
+msgstr "ID баннеров"
+
+msgctxt "Languages::abt__ut2.export.actions.menu"
+msgid "abt__ut2.export.actions.menu"
+msgstr "Меню"
+
+msgctxt "Languages::abt__ut2.export.actions.menu.placeholder"
+msgid "abt__ut2.export.actions.menu.placeholder"
+msgstr "ID меню"
+
+msgctxt "Languages::abt__ut2.export.actions.blog"
+msgid "abt__ut2.export.actions.blog"
+msgstr "Блог"
+
+msgctxt "Languages::abt__ut2.export.actions.blog.placeholder"
+msgid "abt__ut2.export.actions.blog.placeholder"
+msgstr "ID родительских страниц"
+
+msgctxt "Languages::abt__ut2.export.actions.products"
+msgid "abt__ut2.export.actions.products"
+msgstr "Товары"
+
+msgctxt "Languages::abt__ut2.export.actions.products.placeholder"
+msgid "abt__ut2.export.actions.products.placeholder"
+msgstr "ID товаров"
+
+msgctxt "Languages::abt__ut2.export.errors.no_such_type"
+msgid "abt__ut2.export.errors.no_such_type"
+msgstr "Нет такого типа экспорта для темы"
+
+msgctxt "Languages::abt__ut2.export.success"
+msgid "abt__ut2.export.success"
+msgstr "экспортированы"
+
+msgctxt "Languages::abt__ut2.demodata.success"
+msgid "abt__ut2.demodata.success"
+msgstr "созданы успешно"
+
+msgctxt "Languages::abt__ut2.export.success.banners"
+msgid "abt__ut2.export.success.banners"
+msgstr "Баннеры [ids] экспортированы"
+
+msgctxt "Languages::abt__ut2.demodata.success.banners"
+msgid "abt__ut2.demodata.success.banners"
+msgstr "Баннеры [ids] созданы успешно"
+
+msgctxt "Languages::abt__ut2.export.success.blog"
+msgid "abt__ut2.export.success.blog"
+msgstr "Блог экспортирован успешно"
+
+msgctxt "Languages::abt__ut2.demodata.success.blog"
+msgid "abt__ut2.demodata.success.blog"
+msgstr "Страницы блога [ids] созданы успешно"
+
+msgctxt "Languages::abt__ut2.demodata.errors.no_blog_page"
+msgid "abt__ut2.demodata.errors.no_blog_page"
+msgstr "Вам необходимо создать родительскую страницу блога"
+
+msgctxt "Languages::abt__ut2.demodata.errors.no_data"
+msgid "abt__ut2.demodata.errors.no_data"
+msgstr "Нет файла data.json"
+
+msgctxt "Languages::abt__ut2.export.success.menu"
+msgid "abt__ut2.export.success.menu"
+msgstr "Меню [ids] экспортированы"
+
+msgctxt "Languages::abt__ut2.demodata.errors.menu_wasnt_created"
+msgid "abt__ut2.demodata.errors.menu_wasnt_created"
+msgstr "Меню [name] не удалось создать"
+
+msgctxt "Languages::abt__ut2.demodata.success.menu"
+msgid "abt__ut2.demodata.success.menu"
+msgstr "Меню [menus] созданы успешно"
+
+msgctxt "Languages::abt__ut2.microdata"
+msgid "abt__ut2.microdata"
+msgstr "Микроразметка организации"
+
+msgctxt "Languages::abt__ut2.help"
+msgid "abt__ut2.help"
+msgstr "Справка"
+
+msgctxt "Languages::abt__ut2.help.doc"
+msgid "abt__ut2.help.doc"
+msgstr "Ознакомиться с <a target='_blank' href='https://cs-cart.alexbranding.com/ru/abt__unitheme2.doc'>документацией</a>."
+
+msgctxt "Languages::privilege_sections.abt__unitheme2"
+msgid "privilege_sections.abt__unitheme2"
+msgstr "AB: UniTheme2"
+
+msgctxt "Languages::privileges.abt__ut2.settings.manage"
+msgid "privileges.abt__ut2.settings.manage"
+msgstr "Управление настройками темы"
+
+msgctxt "Languages::privileges.abt__ut2.settings.view"
+msgid "privileges.abt__ut2.settings.view"
+msgstr "Просмотр настроек темы"
+
+msgctxt "Languages::privileges.abt__ut2.buy_together_generate"
+msgid "privileges.abt__ut2.buy_together_generate"
+msgstr "AB: Генератор \"Комбинации товаров\""
+
+msgctxt "Languages::abt__ut2_buy_together.generate"
+msgid "abt__ut2_buy_together.generate"
+msgstr "AB: Генератор \"Комбинации товаров\""
+
+msgctxt "Languages::abt__ut2_buy_together.manage"
+msgid "abt__ut2_buy_together.manage"
+msgstr "AB: Управление \"Комбинации товаров\""
+
+msgctxt "Languages::abt__ut2.form.generate"
+msgid "abt__ut2.form.generate"
+msgstr "Генерировать"
+
+msgctxt "Languages::abt__ut2.form.header.general"
+msgid "abt__ut2.form.header.general"
+msgstr "Общее"
+
+msgctxt "Languages::tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_name"
+msgid "tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_name"
+msgstr "Используйте плейсхолдер %product% чтобы вставить название основного товара"
+
+msgctxt "Languages::tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_description"
+msgid "tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_description"
+msgstr "Используйте плейсхолдер %product% чтобы вставить название основного товара"
+
+msgctxt "Languages::abt__ut2.form.header.base_products"
+msgid "abt__ut2.form.header.base_products"
+msgstr "Основные товары"
+
+msgctxt "Languages::abt__ut2.form.header.additional_products"
+msgid "abt__ut2.form.header.additional_products"
+msgstr "Дополнительные товары"
+
+msgctxt "Languages::abt__ut2_bt.combinations_generated"
+msgid "abt__ut2_bt.combinations_generated"
+msgstr "Сгенерировано [n] комб."
+
+msgctxt "Languages::abt__ut2_bt.empty_data"
+msgid "abt__ut2_bt.empty_data"
+msgstr "Выберите товары для комбинаций"
+
+msgctxt "Languages::abt__ut2_buy_together.editing"
+msgid "abt__ut2_buy_together.editing"
+msgstr "Редактирование"
+
+msgctxt "Languages::abt__ut2_bt.form.find_by_name"
+msgid "abt__ut2_bt.form.find_by_name"
+msgstr "Найти по названию"
+
+msgctxt "Languages::abt__ut2_bt.form.find_by_base_product"
+msgid "abt__ut2_bt.form.find_by_base_product"
+msgstr "Найти по основному товару"
+
+msgctxt "Languages::abt__ut2_bt.form.find_by_additional_product"
+msgid "abt__ut2_bt.form.find_by_additional_product"
+msgstr "Найти по дополнительному товару"
+
+msgctxt "Languages::abt__ut2.developer"
+msgid "abt__ut2.developer"
+msgstr "На базе премиум темы — <a href=\"https://cs-cart.alexbranding.com/ru/shablon-unitheme-ru.html\" rel=\"nofollow\">© AB: UniTheme2</a>"
+
+msgctxt "Languages::abt__ut2.contacts"
+msgid "abt__ut2.contacts"
+msgstr "Контакты"
+
+msgctxt "Languages::abt__ut2.blog.there_is_video"
+msgid "abt__ut2.blog.there_is_video"
+msgstr "Видео"
+
+msgctxt "Languages::abt__ut2.blog.there_are_offers"
+msgid "abt__ut2.blog.there_are_offers"
+msgstr "Рекомендации"
+
+msgctxt "Languages::abt__ut2.mainbox_general_seo"
+msgid "abt__ut2.mainbox_general_seo"
+msgstr "AB: Основной заголовок (SEO)"
+
+msgctxt "Languages::abt__ut2.hover_to_enlarge"
+msgid "abt__ut2.hover_to_enlarge"
+msgstr "Наведите на картинку для увеличения"
+
+msgctxt "Languages::abt__ut2.brands"
+msgid "abt__ut2.brands"
+msgstr "Бренды"
+
+msgctxt "Languages::abt__ut2.add_to_wishlist.tooltip"
+msgid "abt__ut2.add_to_wishlist.tooltip"
+msgstr "Добавить в список отложенных товаров"
+
+msgctxt "Languages::block_abt__ut2_light_menu"
+msgid "block_abt__ut2_light_menu"
+msgstr "AB: Легковесное меню"
+
+msgctxt "Languages::abt__ut2_light_menu"
+msgid "abt__ut2_light_menu"
+msgstr "AB: Легковесное меню"
+
+msgctxt "Languages::abt__ut2.light_menu.back_to_main"
+msgid "abt__ut2.light_menu.back_to_main"
+msgstr "Назад к главному"
+
+msgctxt "Languages::abt__ut2_show_title"
+msgid "abt__ut2_show_title"
+msgstr "Показать заголовок"
+
+msgctxt "Languages::abt__ut2.menus.pickers.add_menus"
+msgid "abt__ut2.menus.pickers.add_menus"
+msgstr "Добавить меню"
+
+msgctxt "Languages::abt__ut2.menus.pickers.add_menus_and_close"
+msgid "abt__ut2.menus.pickers.add_menus_and_close"
+msgstr "Добавить меню и закрыть"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states"
+msgid "abt__ut2.menus.pickers.states"
+msgstr "Начальное состояние меню"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states.tooltip"
+msgid "abt__ut2.menus.pickers.states.tooltip"
+msgstr "Выберите, как будет отображено меню при загрузке страницы"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states.hide_items"
+msgid "abt__ut2.menus.pickers.states.hide_items"
+msgstr "Скрыть элементы и отобразить название меню"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states.show_items"
+msgid "abt__ut2.menus.pickers.states.show_items"
+msgstr "Отобразить элементы"
+
+msgctxt "Languages::abt__ut2.icons"
+msgid "abt__ut2.icons"
+msgstr "Доступные иконки"
+
+msgctxt "Languages::abt__ut2.icons.info"
+msgid "abt__ut2.icons.info"
+msgstr "На этой странице вы можете ознакомится со списком иконок, доступных Вам в теме"
+
+msgctxt "Languages::abt__ut2.icons.ut2_icons"
+msgid "abt__ut2.icons.ut2_icons"
+msgstr "Список иконок темы"
+
+msgctxt "Languages::abt__ut2.icons.class"
+msgid "abt__ut2.icons.class"
+msgstr "Класс иконки"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po"
+msgstr "Восстановление языковых переменных"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po.not_exist.description"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po.not_exist.description"
+msgstr "На этой странице, Вы можете восстановить языковые переменные, которые были удалены при удалении модуля UniTheme первого поколения"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po.success"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po.success"
+msgstr "Выбранные языковые переменные были успешно восстановлены!"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po.exist.description"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po.exist.description"
+msgstr "Для Вашей установки никаких дополнительных действий по восстановлению языковых переменных не требуется!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.title"
+msgid "abt__ut2.upgrade_notifications.title"
+msgstr "AB: UniTheme2 успешно обновлена до v[ver]!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.text"
+msgid "abt__ut2.upgrade_notifications.text"
+msgstr "Подробный список изменений, вошедший в версию <b>v[ver]</b> смотрите в документации по теме в разделе <a target=\"_blank\" href=\"https://docs.cs-cart.abt.team/ru/abt__unitheme2.doc#p-118\">Список релизов</a>."
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.title"
+msgid "abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.title"
+msgstr "Требуется обновление используемого макета!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.text"
+msgid "abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.text"
+msgstr "Используйте следующую <a target=\"_blank\" href=\"https://docs.cs-cart.abt.team/ru/abt__unitheme2.doc/v4.10.2.d#p-142\">инструкцию</a> для обновления используемого макета."
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.title"
+msgid "abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.title"
+msgstr "Требуется обновление используемого макета!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.text"
+msgid "abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.text"
+msgstr "Используйте следующую <a target=\"_blank\" href=\"https://docs.cs-cart.abt.team/ru/abt__unitheme2.doc/v4.10.3.a#p-142\">инструкцию</a> для обновления используемого макета."
+
+#. Alexbranding. Do not modify this file manually!

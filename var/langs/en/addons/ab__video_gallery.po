@@ -1,0 +1,182 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::ab__video_gallery"
+msgid "ab__video_gallery"
+msgstr "AB: Video gallery for product"
+
+msgctxt "Addons::description::ab__video_gallery"
+msgid "ab__video_gallery_description"
+msgstr "Add a Youtube video to products, allows you to mark up these items in the product list"
+"<br><a href='https://cs-cart.alexbranding.com' target='_blank'>cs-cart.alexbranding.com</a>"
+
+msgctxt "Languages::ab__video_gallery"
+msgid "ab__video_gallery"
+msgstr "AB: Video Gallery"
+
+msgctxt "Languages::ab__vg.form.pos"
+msgid "ab__vg.form.pos"
+msgstr "Pos."
+
+msgctxt "Languages::ab__vg.form.title"
+msgid "ab__vg.form.title"
+msgstr "Video title"
+
+msgctxt "Languages::ab__vg.form.status"
+msgid "ab__vg.form.status"
+msgstr "Status"
+
+msgctxt "Languages::ab__vg.form.youtube_id"
+msgid "ab__vg.form.youtube_id"
+msgstr "YouTube video ID"
+
+msgctxt "Languages::ab__vg.form.youtube_id.tooltip"
+msgid "ab__vg.form.youtube_id.tooltip"
+msgstr "For example in video https://www.youtube.com/watch?v=-boKk8uhmcY ID is -boKk8uhmcY"
+
+msgctxt "Languages::ab__vg.form.width"
+msgid "ab__vg.form.width"
+msgstr "Width"
+
+msgctxt "Languages::ab__vg.form.width.tooltip"
+msgid "ab__vg.form.width.tooltip"
+msgstr "Video width in px"
+
+msgctxt "Languages::ab__vg.form.height"
+msgid "ab__vg.form.height"
+msgstr "Height"
+
+msgctxt "Languages::ab__vg.form.height.tooltip"
+msgid "ab__vg.form.height.tooltip"
+msgstr "Video height in px"
+
+msgctxt "Languages::ab__vg.form.icon_type"
+msgid "ab__vg.form.icon_type"
+msgstr "Icon type"
+
+msgctxt "Languages::ab__vg.form.icon_type.snapshot"
+msgid "ab__vg.form.icon_type.snapshot"
+msgstr "Video snapshot"
+
+msgctxt "Languages::ab__vg.form.icon_type.icon"
+msgid "ab__vg.form.icon_type.icon"
+msgstr "Manual icon"
+
+msgctxt "Languages::ab__vg.form.icon"
+msgid "ab__vg.form.icon"
+msgstr "Icon"
+
+msgctxt "Languages::ab__vg.form.description"
+msgid "ab__vg.form.description"
+msgstr "Description"
+
+msgctxt "SettingsOptions::ab__video_gallery::position"
+msgid "position"
+msgstr "Position"
+
+msgctxt "SettingsTooltips::ab__video_gallery::position"
+msgid "position"
+msgstr "Position of the video in product image gallery"
+
+msgctxt "SettingsVariants::ab__video_gallery::position::pre"
+msgid "pre"
+msgstr "Pre"
+
+msgctxt "SettingsVariants::ab__video_gallery::position::post"
+msgid "post"
+msgstr "Post"
+
+msgctxt "SettingsOptions::ab__video_gallery::show_in_lists"
+msgid "show_in_lists"
+msgstr "Show in lists"
+
+msgctxt "SettingsTooltips::ab__video_gallery::show_in_lists"
+msgid "show_in_lists"
+msgstr "Show video availability in products lists"
+
+msgctxt "SettingsOptions::ab__video_gallery::on_thumbnail_click"
+msgid "on_thumbnail_click"
+msgstr "Show video"
+
+msgctxt "SettingsTooltips::ab__video_gallery::on_thumbnail_click"
+msgid "on_thumbnail_click"
+msgstr "Action on clicking a thumbnail in the product image gallery: show the video in the dialog box or on the the product's image"
+
+msgctxt "SettingsVariants::ab__video_gallery::on_thumbnail_click::open_popup"
+msgid "open_popup"
+msgstr "In the dialog box"
+
+msgctxt "SettingsVariants::ab__video_gallery::on_thumbnail_click::image_replace"
+msgid "image_replace"
+msgstr "On the product's image"
+
+msgctxt "Languages::ab__video_gallery_title_product"
+msgid "ab__video_gallery_title_product"
+msgstr "Video gallery"
+
+msgctxt "Languages::ab__vg.form.product_settings"
+msgid "ab__vg.form.product_settings"
+msgstr "Settings"
+
+msgctxt "Languages::ab__vg.form.replace_image"
+msgid "ab__vg.form.replace_image"
+msgstr "Use video as default image"
+
+msgctxt "Languages::tt_addons_ab__video_gallery_hooks_products_tabs_content_post_ab__vg.form.replace_image"
+msgid "tt_addons_ab__video_gallery_hooks_products_tabs_content_post_ab__vg.form.replace_image"
+msgstr "Use first video as default image at products page"
+
+msgctxt "Languages::ab__vg.form.product_videos"
+msgid "ab__vg.form.product_videos"
+msgstr "Videos"
+
+msgctxt "Languages::privilege_sections.ab__video_gallery"
+msgid "privilege_sections.ab__video_gallery"
+msgstr "AB: Video gallery for product"
+
+msgctxt "Languages::privileges.ab__vg_manage_videos"
+msgid "privileges.ab__vg_manage_videos"
+msgstr "Manage videos"
+
+msgctxt "Languages::privileges.ab__vg_view_videos"
+msgid "privileges.ab__vg_view_videos"
+msgstr "View videos"
+
+msgctxt "Languages::ab__video_gallery.help"
+msgid "ab__video_gallery.help"
+msgstr "Help"
+
+msgctxt "Languages::ab__vg_help.docs"
+msgid "ab__vg_help.docs"
+msgstr "Read <a target='_blank' href='https://cs-cart.alexbranding.com/en/ab__video_gallery.doc'>the documentation</a>."
+
+msgctxt "SettingsOptions::ab__video_gallery::controls"
+msgid "controls"
+msgstr "Enable video control panel"
+
+msgctxt "SettingsOptions::ab__video_gallery::repeat"
+msgid "repeat"
+msgstr "Enable video repeating"
+
+msgctxt "Languages::ab__vg.exim.remove_videos"
+msgid "ab__vg.exim.remove_videos"
+msgstr "Clean up"
+
+msgctxt "Languages::ab__vg.exim.remove_videos.text"
+msgid "ab__vg.exim.remove_videos.text"
+msgstr "When importing existing videos of this product will be deleted before import"
+
+msgctxt "Languages::youtube_id"
+msgid "youtube_id"
+msgstr "YouTube video ID"
+
+msgctxt "Languages::video_id"
+msgid "video_id"
+msgstr "Video ID"
+
+msgctxt "Languages::icon_type"
+msgid "icon_type"
+msgstr "Icon type: snapshot - video snapshot, icon - manual icon"

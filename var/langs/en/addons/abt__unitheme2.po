@@ -1,0 +1,1858 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::abt__unitheme2"
+msgid "abt__unitheme2"
+msgstr "AB: UniTheme2"
+
+msgctxt "Addons::description::abt__unitheme2"
+msgid "abt__unitheme2_description"
+msgstr "Addon adds functional and template files of AB: UniTheme2"
+
+msgctxt "Languages::abt__unitheme2"
+msgid "abt__unitheme2"
+msgstr "AB: UniTheme2"
+
+msgctxt "Languages::abt__unitheme2.settings"
+msgid "abt__unitheme2.settings"
+msgstr "Settings only for AB: UniTheme2"
+
+msgctxt "Languages::abt__ut2.block.availability.show_on"
+msgid "abt__ut2.block.availability.show_on"
+msgstr "!!! Only for AB: UniTheme2 when using the setting <b>[show_on]</b> block content will be cut from HTML-code for the corresponding device and is not simply hidden by styles"
+
+msgctxt "Languages::abt__ut2.grid_settings"
+msgid "abt__ut2.grid_settings"
+msgstr "AB: UniTheme2: Additional settings"
+
+msgctxt "Languages::abt__ut2.grid.tab_description"
+msgid "abt__ut2.grid.tab_description"
+msgstr "The settings below apply only to the theme AB: UniTheme2 layouts sections"
+
+msgctxt "Languages::abt__ut2.extended.o"
+msgid "abt__ut2.extended.o"
+msgstr "Original"
+
+msgctxt "Languages::abt__ut2.extended.e"
+msgid "abt__ut2.extended.e"
+msgstr "Extended"
+
+msgctxt "Languages::abt__ut2.extended.f"
+msgid "abt__ut2.extended.f"
+msgstr "On the full width"
+
+msgctxt "Languages::abt__ut2.grid_tabs.abt__ut2_show_in_tabs"
+msgid "abt__ut2.grid_tabs.abt__ut2_show_in_tabs"
+msgstr "Show all section blocks in tabs"
+
+msgctxt "Languages::abt__ut2.grid_tabs.abt__ut2_use_ajax"
+msgid "abt__ut2.grid_tabs.abt__ut2_use_ajax"
+msgstr "Use Ajax for loading the second and next tabs content"
+
+msgctxt "Languages::abt__ut2.grid.padding"
+msgid "abt__ut2.grid.padding"
+msgstr "Padding"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.bottom"
+msgid "abt__ut2.grid.padding.variants.bottom"
+msgstr "Only bottom"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.top"
+msgid "abt__ut2.grid.padding.variants.top"
+msgstr "Only top"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.top_bottom"
+msgid "abt__ut2.grid.padding.variants.top_bottom"
+msgstr "Top and bottom"
+
+msgctxt "Languages::abt__ut2.grid.padding.variants.none"
+msgid "abt__ut2.grid.padding.variants.none"
+msgstr "None"
+
+msgctxt "Languages::abt__ut2_thumbnail_height"
+msgid "abt__ut2_thumbnail_height"
+msgstr "Scroller thumbnail height"
+
+msgctxt "Languages::tmpl_abt__ut2_dropdown_horizontal_mwi"
+msgid "tmpl_abt__ut2_dropdown_horizontal_mwi"
+msgstr "AB: Horizontal dropdown list with icons"
+
+msgctxt "Languages::tmpl_abt__ut2_dropdown_vertical_mwi"
+msgid "tmpl_abt__ut2_dropdown_vertical_mwi"
+msgstr "AB: Vertical dropdown list with icons"
+
+msgctxt "Languages::abt_menu_long_names"
+msgid "abt_menu_long_names"
+msgstr "AB: Show long names of the first level menu items in two lines"
+
+msgctxt "Languages::abt_menu_long_names.tooltip"
+msgid "abt_menu_long_names.tooltip"
+msgstr "The active status of this setting allows displaying menu names in two lines (with line break), if more space is required to place the name, than the setting <b>AB: The maximum width of the menu item for the first level</b> specifies"
+
+msgctxt "Languages::abt_menu_long_names_max_width"
+msgid "abt_menu_long_names_max_width"
+msgstr "AB: The maximum width of the menu item for the first level"
+
+msgctxt "Languages::abt_menu_long_names_max_width.tooltip"
+msgid "abt_menu_long_names_max_width.tooltip"
+msgstr "Specifies the width of the cell in pixels to place the name of the menu item. If the name of the menu item exceeds this value, then with the active setting <b>AB: Show long names of the first level menu items in two lines</b>, then it will be displayed in two lines (with line break)."
+
+msgctxt "Languages::abt_menu_icon_items"
+msgid "abt_menu_icon_items"
+msgstr "AB: Show icons for menu items of the second level"
+
+msgctxt "Languages::abt_menu_icon_items.tooltip"
+msgid "abt_menu_icon_items.tooltip"
+msgstr "The active status of this setting allows the display of an icon that is assigned to a menu item of the second level menu."
+
+msgctxt "Languages::no_hidden_elements_second_level_view"
+msgid "no_hidden_elements_second_level_view"
+msgstr "AB: Number of visible elements of the 2-level menu"
+
+msgctxt "Languages::no_hidden_elements_second_level_view.tooltip"
+msgid "no_hidden_elements_second_level_view.tooltip"
+msgstr "This setting limits the number of third-level menu items, displayed in the menu structure. The remaining elements of the third level will be displayed when clicking on the <b>More</b> link"
+
+msgctxt "Languages::elements_per_column_third_level_view"
+msgid "elements_per_column_third_level_view"
+msgstr "AB: Elements number per column for the mode <b>3-level menu (dropdown list)</b>"
+
+msgctxt "Languages::elements_per_column_third_level_view.tooltip"
+msgid "elements_per_column_third_level_view.tooltip"
+msgstr "This setting limits the number of displayed third-level menu items in each of the two columns of the last level when the <b>3-level menu mode (drop-down list) </ b> is turned on. The remaining menu items (exceeding the limit settings) will not be displayed in the menu. It is rational to use the setting, if there is a very large number of menu items on the third level"
+
+msgctxt "Languages::abt_menu_ajax_load"
+msgid "abt_menu_ajax_load"
+msgstr "AB: Use Ajax-loading for menu items (second level and behind it)"
+
+msgctxt "Languages::abt_menu_ajax_load.tooltip"
+msgid "abt_menu_ajax_load.tooltip"
+msgstr "Use Ajax to get the content of the second and third menu levels after page loading. The content of the first level will be loaded along with the page main content"
+
+msgctxt "Languages::abt__ut2_selected_filters"
+msgid "abt__ut2_selected_filters"
+msgstr "AB: Selected filter variants"
+
+msgctxt "Languages::abt__ut2_banner_carousel_combined"
+msgid "abt__ut2_banner_carousel_combined"
+msgstr "AB: Advanced banner (Carousel)"
+
+msgctxt "Languages::abt__ut2_banner_combined"
+msgid "abt__ut2_banner_combined"
+msgstr "AB: Advanced banner"
+
+msgctxt "Languages::abt__ut2_advanced_subcategories_menu"
+msgid "abt__ut2_advanced_subcategories_menu"
+msgstr "AB: Advanced subcategories menu"
+
+msgctxt "Languages::block_abt__ut2_advanced_subcategories_menu"
+msgid "block_abt__ut2_advanced_subcategories_menu"
+msgstr "AB: Advanced subcategories menu"
+
+msgctxt "Languages::abt__ut2__mainbox_general"
+msgid "abt__ut2__mainbox_general"
+msgstr "AB: Main block (SEO)"
+
+msgctxt "Languages::abt__ut2__mainbox_simple"
+msgid "abt__ut2__mainbox_simple"
+msgstr "AB: Simplified block"
+
+msgctxt "Languages::abt__ut2__sidebox_general"
+msgid "abt__ut2__sidebox_general"
+msgstr "AB: Secondary block"
+
+msgctxt "Languages::abt__ut2__sidebox_important"
+msgid "abt__ut2__sidebox_important"
+msgstr "AB: Secondary framed block"
+
+msgctxt "Languages::abt__ut2__swipe"
+msgid "abt__ut2__swipe"
+msgstr "AB: Swipe block"
+
+msgctxt "Languages::abt__ut2__scroller_advanced"
+msgid "abt__ut2__scroller_advanced"
+msgstr "AB: Scroller advanced"
+
+msgctxt "Languages::tmpl_abt__ut2__my_account_links_advanced"
+msgid "tmpl_abt__ut2__my_account_links_advanced"
+msgstr "AB: My account (advanced)"
+
+msgctxt "Languages::tmpl_abt__ut2__subscribe_advanced"
+msgid "tmpl_abt__ut2__subscribe_advanced"
+msgstr "AB: Subscription form"
+
+msgctxt "Languages::tmpl_abt__ut2__top_buttons"
+msgid "tmpl_abt__ut2__top_buttons"
+msgstr "AB: Top buttons"
+
+msgctxt "Languages::tmpl_abt__ut2__top_buttons.compare_list.tooltip"
+msgid "tmpl_abt__ut2__top_buttons.compare_list.tooltip"
+msgstr "View Comparison list"
+
+msgctxt "Languages::tmpl_abt__ut2__recent_posts_advanced"
+msgid "tmpl_abt__ut2__recent_posts_advanced"
+msgstr "AB: Blog: Recent posts"
+
+msgctxt "Languages::tmpl_abt__ut2__top_buttons"
+msgid "tmpl_abt__ut2__top_buttons"
+msgstr "AB: Buttons Compare and Wishlist"
+
+msgctxt "Languages::tmpl_abt__ut2__title_block"
+msgid "tmpl_abt__ut2__title_block"
+msgstr "АВ: Block: Title"
+
+msgctxt "Languages::tmpl_abt__ut2__categories_title_block"
+msgid "tmpl_abt__ut2__categories_title_block"
+msgstr "AB: Block: Category title"
+
+msgctxt "Languages::tmpl_abt__ut2__features_title_block"
+msgid "tmpl_abt__ut2__features_title_block"
+msgstr "AB: Block: Feature title"
+
+msgctxt "Languages::tmpl_abt__ut2__subscription"
+msgid "tmpl_abt__ut2__subscription"
+msgstr "AB: Newsletters: Subscription form"
+
+msgctxt "Languages::banner_type.abt__ut2"
+msgid "banner_type.abt__ut2"
+msgstr "AB: UniTheme2: Advanced banner"
+
+msgctxt "Languages::abt__ut2.banners"
+msgid "abt__ut2.banners"
+msgstr "Banners"
+
+msgctxt "Languages::abt__ut2.banner_tab.general"
+msgid "abt__ut2.banner_tab.general"
+msgstr "General (AB: UniTheme2: Desktop)"
+
+msgctxt "Languages::abt__ut2.banner_tab.tablet"
+msgid "abt__ut2.banner_tab.tablet"
+msgstr "AB: UniTheme2: Tablet"
+
+msgctxt "Languages::abt__ut2.banner_tab.mobile"
+msgid "abt__ut2.banner_tab.mobile"
+msgstr "AB: UniTheme2: Phone"
+
+msgctxt "Languages::abt__ut2.banner.use_own_info"
+msgid "abt__ut2.banner.use_own_info"
+msgstr "Use own value"
+
+msgctxt "Languages::abt__ut2.banner.warning"
+msgid "abt__ut2.banner.warning"
+msgstr "Expert banner settings"
+
+msgctxt "Languages::abt__ut2.banners.manage"
+msgid "abt__ut2.banners.manage"
+msgstr "AB: UniTheme2: Advanced banners"
+
+msgctxt "Languages::abt__ut2.option.margin"
+msgid "abt__ut2.option.margin"
+msgstr "Margin, px"
+
+msgctxt "Languages::abt__ut2.option.height"
+msgid "abt__ut2.option.height"
+msgstr "Height, px"
+
+msgctxt "Languages::abt__ut2.banner.params.tablet_use"
+msgid "abt__ut2.banner.params.tablet_use"
+msgstr "Use own settings for Tablets"
+
+msgctxt "Languages::abt__ut2.banner.params.tablet_use.tooltip"
+msgid "abt__ut2.banner.params.tablet_use.tooltip"
+msgstr "Use this option to allow own banner settings for the mobile device Tablet"
+
+msgctxt "Languages::abt__ut2.banner.params.mobile_use"
+msgid "abt__ut2.banner.params.mobile_use"
+msgstr "Use own settings for Phones"
+
+msgctxt "Languages::abt__ut2.banner.params.mobile_use.tooltip"
+msgid "abt__ut2.banner.params.mobile_use.tooltip"
+msgstr "Use this option to allow own banner settings for the mobile device Phone"
+
+msgctxt "Languages::abt__ut2.banner.params_of_block"
+msgid "abt__ut2.banner.params_of_block"
+msgstr "Banner block settings"
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme"
+msgid "abt__ut2.banner.params.color_scheme"
+msgstr "Color scheme"
+""
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme.tooltip"
+msgid "abt__ut2.banner.params.color_scheme.tooltip"
+msgstr "Specifies what color will be <b>Title</b> and <b>Description</b> on the banner. For <b>Dark</b> banner texts will be white, for <b>Light</b> — black."
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme.variants.dark"
+msgid "abt__ut2.banner.params.color_scheme.variants.dark"
+msgstr "Dark"
+
+msgctxt "Languages::abt__ut2.banner.params.color_scheme.variants.light"
+msgid "abt__ut2.banner.params.color_scheme.variants.light"
+msgstr "Light"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign"
+msgid "abt__ut2.banner.params.content_valign"
+msgstr "Vertical alignment"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.tooltip"
+msgid "abt__ut2.banner.params.content_valign.tooltip"
+msgstr "Location of the content inside the banner by the vertical"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.variants.top"
+msgid "abt__ut2.banner.params.content_valign.variants.top"
+msgstr "On the top"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.variants.center"
+msgid "abt__ut2.banner.params.content_valign.variants.center"
+msgstr "On the center"
+
+msgctxt "Languages::abt__ut2.banner.params.content_valign.variants.bottom"
+msgid "abt__ut2.banner.params.content_valign.variants.bottom"
+msgstr "At the bottom"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align"
+msgid "abt__ut2.banner.params.content_align"
+msgstr "Horizontal alignment"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.tooltip"
+msgid "abt__ut2.banner.params.content_align.tooltip"
+msgstr "Location of the content inside the banner by the horizontal"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.variants.left"
+msgid "abt__ut2.banner.params.content_align.variants.left"
+msgstr "On the left"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.variants.center"
+msgid "abt__ut2.banner.params.content_align.variants.center"
+msgstr "On the center"
+
+msgctxt "Languages::abt__ut2.banner.params.content_align.variants.right"
+msgid "abt__ut2.banner.params.content_align.variants.right"
+msgstr "On the right"
+
+msgctxt "Languages::abt__ut2.banner.params.padding"
+msgid "abt__ut2.banner.params.padding"
+msgstr "Internal paddings, px"
+
+msgctxt "Languages::abt__ut2.banner.params.padding.tooltip"
+msgid "abt__ut2.banner.params.padding.tooltip"
+msgstr "CSS <code>padding</code>. Spacing in pixels inside the banner. It is useful, to standardize the paddings of banner borders to the content"
+
+msgctxt "Languages::abt__ut2.banner.params.content_full_width"
+msgid "abt__ut2.banner.params.content_full_width"
+msgstr "Content on full width"
+
+msgctxt "Languages::abt__ut2.banner.params.content_full_width.tooltip"
+msgid "abt__ut2.banner.params.content_full_width.tooltip"
+msgstr "The width of the content block has a default width of 50%. Set this parameter and the width of the block content will be 100%"
+
+msgctxt "Languages::abt__ut2.banner.color_use"
+msgid "abt__ut2.banner.color_use"
+msgstr "Please select the checkbox to use a new color"
+
+msgctxt "Languages::abt__ut2.banner.params_of_title"
+msgid "abt__ut2.banner.params_of_title"
+msgstr "Banner title settings"
+
+msgctxt "Languages::abt__ut2.banner.params.title"
+msgid "abt__ut2.banner.params.title"
+msgstr "Title"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_size"
+msgid "abt__ut2.banner.params.title_font_size"
+msgstr "Font size"
+
+msgctxt "Languages::abt__ut2.banner.params.title_color"
+msgid "abt__ut2.banner.params.title_color"
+msgstr "Title color"
+
+msgctxt "Languages::abt__ut2.banner.params.title_color.tooltip"
+msgid "abt__ut2.banner.params.title_color.tooltip"
+msgstr "Please select the checkbox to use a new color"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight"
+msgid "abt__ut2.banner.params.title_font_weight"
+msgstr "Weight of the font"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.300"
+msgid "abt__ut2.banner.params.title_font_weight.variants.300"
+msgstr "Thin"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.400"
+msgid "abt__ut2.banner.params.title_font_weight.variants.400"
+msgstr "Normal"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.700"
+msgid "abt__ut2.banner.params.title_font_weight.variants.700"
+msgstr "Bold"
+
+msgctxt "Languages::abt__ut2.banner.params.title_font_weight.variants.900"
+msgid "abt__ut2.banner.params.title_font_weight.variants.900"
+msgstr "Heavy"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag"
+msgid "abt__ut2.banner.params.title_tag"
+msgstr "Title tag"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.div"
+msgid "abt__ut2.banner.params.title_tag.variants.div"
+msgstr "div"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.h1"
+msgid "abt__ut2.banner.params.title_tag.variants.h1"
+msgstr "h1"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.h2"
+msgid "abt__ut2.banner.params.title_tag.variants.h2"
+msgstr "h2"
+
+msgctxt "Languages::abt__ut2.banner.params.title_tag.variants.h3"
+msgid "abt__ut2.banner.params.title_tag.variants.h3"
+msgstr "h3"
+
+msgctxt "Languages::abt__ut2.banner.params.title_shadow"
+msgid "abt__ut2.banner.params.title_shadow"
+msgstr "Add a shadow for the title"
+
+msgctxt "Languages::abt__ut2.banner.params_of_description"
+msgid "abt__ut2.banner.params_of_description"
+msgstr "Banner description settings"
+
+msgctxt "Languages::abt__ut2.banner.params.description"
+msgid "abt__ut2.banner.params.description"
+msgstr "Short description"
+
+msgctxt "Languages::abt__ut2.banner.params.description_color"
+msgid "abt__ut2.banner.params.description_color"
+msgstr "Description color"
+
+msgctxt "Languages::abt__ut2.banner.params.description_color.tooltip"
+msgid "abt__ut2.banner.params.description_color.tooltip"
+msgstr "Please select the checkbox to use a new color"
+
+msgctxt "Languages::abt__ut2.banner.params.description_font_size"
+msgid "abt__ut2.banner.params.description_font_size"
+msgstr "Font size"
+
+msgctxt "Languages::abt__ut2.banner.params.description_bg_color"
+msgid "abt__ut2.banner.params.description_bg_color"
+msgstr "Background color"
+
+msgctxt "Languages::abt__ut2.banner.params.description_bg_color.tooltip"
+msgid "abt__ut2.banner.params.description_bg_color.tooltip"
+msgstr "Please select the checkbox to use a new color"
+
+msgctxt "Languages::abt__ut2.banner.params_of_object"
+msgid "abt__ut2.banner.params_of_object"
+msgstr "Banner settings for the object/image"
+
+msgctxt "Languages::abt__ut2.banner.params.object"
+msgid "abt__ut2.banner.params.object"
+msgstr "The displayed object"
+
+msgctxt "Languages::abt__ut2.banner.params.object.variants.image"
+msgid "abt__ut2.banner.params.object.variants.image"
+msgstr "Image"
+
+msgctxt "Languages::abt__ut2.banner.params.object.variants.video"
+msgid "abt__ut2.banner.params.object.variants.video"
+msgstr "YouTube video"
+
+msgctxt "Languages::abt__ut2.banner.params.main_image"
+msgid "abt__ut2.banner.params.main_image"
+msgstr "Main image"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_use"
+msgid "abt__ut2.banner.params.youtube_use"
+msgstr "Add YouTube video"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_id"
+msgid "abt__ut2.banner.params.youtube_id"
+msgstr "YouTube video ID"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_id.tooltip"
+msgid "abt__ut2.banner.params.youtube_id.tooltip"
+msgstr "ID video — https://www.youtube.com/watch?v=<b>abcd1234567</b>, specify only <b>abcd1234567</b>"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_autoplay"
+msgid "abt__ut2.banner.params.youtube_autoplay"
+msgstr "Autoplay"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_autoplay.tooltip"
+msgid "abt__ut2.banner.params.youtube_autoplay.tooltip"
+msgstr "Due to changes in <b>Google's</b> policy, autoplay will only be available without sound. For more information, see <a href='https://developers.google.com/web/updates/2017/09/autoplay-policy-changes' target='_blank'>documentation</a>."
+"<b>Google</b> strongly recommends that the player’s control panel be displayed on autoplay."
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_hide_controls"
+msgid "abt__ut2.banner.params.youtube_hide_controls"
+msgstr "Hide player control elements"
+
+msgctxt "Languages::abt__ut2.banner.params.youtube_hide_controls.tooltip"
+msgid "abt__ut2.banner.params.youtube_hide_controls.tooltip"
+msgstr "Don't ever assume a video will play, and don't show a pause button when the video is not actually playing"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image"
+msgid "abt__ut2.banner.params.background_image"
+msgstr "Background image"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size"
+msgid "abt__ut2.banner.params.background_image_size"
+msgstr "Specify the size of a background image"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size.tooltip"
+msgid "abt__ut2.banner.params.background_image_size.tooltip"
+msgstr ""
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size.variants.cover"
+msgid "abt__ut2.banner.params.background_image_size.variants.cover"
+msgstr "Resize the background image to cover the entire container, even if it has to stretch the image or cut a little bit off one of the edges"
+
+msgctxt "Languages::abt__ut2.banner.params.background_image_size.variants.contain"
+msgid "abt__ut2.banner.params.background_image_size.variants.contain"
+msgstr "Resize the background image to make sure the image is fully visible"
+
+msgctxt "Languages::abt__ut2.banner.params.background_color"
+msgid "abt__ut2.banner.params.background_color"
+msgstr "Background color"
+
+msgctxt "Languages::abt__ut2.banner.params.background_color.tooltip"
+msgid "abt__ut2.banner.params.background_color.tooltip"
+msgstr "Please select the checkbox to use a new color"
+
+msgctxt "Languages::abt__ut2.banner.params_of_content"
+msgid "abt__ut2.banner.params_of_content"
+msgstr "Settings for the content, shown in the banner"
+
+msgctxt "Languages::abt__ut2.banner.params.data_type"
+msgid "abt__ut2.banner.params.data_type"
+msgstr "Content type"
+
+msgctxt "Languages::abt__ut2.banner.params.data_type.variants.url"
+msgid "abt__ut2.banner.params.data_type.variants.url"
+msgstr "Link"
+
+msgctxt "Languages::abt__ut2.banner.params.url"
+msgid "abt__ut2.banner.params.url"
+msgstr "Specify link"
+
+msgctxt "Languages::abt__ut2.banner.params_of_button"
+msgid "abt__ut2.banner.params_of_button"
+msgstr "Banner button settings"
+
+msgctxt "Languages::abt__ut2.banner.params.button_use"
+msgid "abt__ut2.banner.params.button_use"
+msgstr "Add button"
+
+msgctxt "Languages::abt__ut2.banner.params.button_use.tooltip"
+msgid "abt__ut2.banner.params.button_use.tooltip"
+msgstr "Select a checkbox for adding of the button. <b>Important!</b>The button will appear only in the presence of the link in the field \"Specify link\""
+
+msgctxt "Languages::abt__ut2.banner.params.button_text"
+msgid "abt__ut2.banner.params.button_text"
+msgstr "Text (an appeal to action)"
+
+msgctxt "Languages::abt__ut2.banner.params.button_text_color"
+msgid "abt__ut2.banner.params.button_text_color"
+msgstr "Text color"
+
+msgctxt "Languages::abt__ut2.banner.params.button_text_color.tooltip"
+msgid "abt__ut2.banner.params.button_text_color.tooltip"
+msgstr "Please select the checkbox to use a new color"
+
+msgctxt "Languages::abt__ut2.banner.params.button_color"
+msgid "abt__ut2.banner.params.button_color"
+msgstr "Button color"
+
+msgctxt "Languages::abt__ut2.banner.params.button_color.tooltip"
+msgid "abt__ut2.banner.params.button_color.tooltip"
+msgstr "Please select the checkbox to use a new color"
+
+msgctxt "Languages::abt__ut2.banner.params_additional"
+msgid "abt__ut2.banner.params_additional"
+msgstr "Additional settings"
+
+msgctxt "Languages::abt__ut2.banner.params.content_bg"
+msgid "abt__ut2.banner.params.content_bg"
+msgstr "Add semi-transparent background"
+
+msgctxt "Languages::abt__ut2.banner.params.content_bg.tooltip"
+msgid "abt__ut2.banner.params.content_bg.tooltip"
+msgstr "Under the description will appear semi-transparent background (the color depends on the color scheme), it will provide a better readability of text on motley background"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open"
+msgid "abt__ut2.banner.params.how_to_open"
+msgstr "How to open"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open.variants.in_new_window"
+msgid "abt__ut2.banner.params.how_to_open.variants.in_new_window"
+msgstr "In a new window"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open.variants.in_popup"
+msgid "abt__ut2.banner.params.how_to_open.variants.in_popup"
+msgstr "In a popup"
+
+msgctxt "Languages::abt__ut2.banner.params.how_to_open.variants.in_this_window"
+msgid "abt__ut2.banner.params.how_to_open.variants.in_this_window"
+msgstr "In this window"
+
+msgctxt "Languages::abt__ut2.banner.params.use_avail_period"
+msgid "abt__ut2.banner.params.use_avail_period"
+msgstr "Use available period"
+
+msgctxt "Languages::abt__ut2.banner.params.avail_from"
+msgid "abt__ut2.banner.params.avail_from"
+msgstr "Available from"
+
+msgctxt "Languages::abt__ut2.banner.params.avail_till"
+msgid "abt__ut2.banner.params.avail_till"
+msgstr "Available till"
+
+msgctxt "Languages::abt__ut2.banner.params.class"
+msgid "abt__ut2.banner.params.class"
+msgstr "User CSS-class"
+
+msgctxt "Languages::abt__ut2.sort_by_null_asc"
+msgid "abt__ut2.sort_by_null_asc"
+msgstr "Without sorting"
+
+msgctxt "Languages::abt__ut2.sort_by_timestamp_asc"
+msgid "abt__ut2.sort_by_timestamp_asc"
+msgstr "Oldest Items First"
+
+msgctxt "Languages::abt__ut2.sort_by_timestamp_desc"
+msgid "abt__ut2.sort_by_timestamp_desc"
+msgstr "Newest Items First"
+
+msgctxt "Languages::abt__ut2.sort_by_position_asc"
+msgid "abt__ut2.sort_by_position_asc"
+msgstr "Position: Low to High"
+
+msgctxt "Languages::abt__ut2.sort_by_position_desc"
+msgid "abt__ut2.sort_by_position_desc"
+msgstr "Position: High to Low"
+
+msgctxt "Languages::abt__ut2.sort_by_product_asc"
+msgid "abt__ut2.sort_by_product_asc"
+msgstr "from A to Z"
+
+msgctxt "Languages::abt__ut2.sort_by_product_desc"
+msgid "abt__ut2.sort_by_product_desc"
+msgstr "from Z to A"
+
+msgctxt "Languages::abt__ut2.sort_by_price_asc"
+msgid "abt__ut2.sort_by_price_asc"
+msgstr "Price: Low to High"
+
+msgctxt "Languages::abt__ut2.sort_by_price_desc"
+msgid "abt__ut2.sort_by_price_desc"
+msgstr "Price: High to Low"
+
+msgctxt "Languages::abt__ut2.sort_by_popularity_asc"
+msgid "abt__ut2.sort_by_popularity_asc"
+msgstr "Popularity: Low to High"
+
+msgctxt "Languages::abt__ut2.sort_by_popularity_desc"
+msgid "abt__ut2.sort_by_popularity_desc"
+msgstr "Popular First"
+
+msgctxt "Languages::abt__ut2.sort_by_bestsellers_asc"
+msgid "abt__ut2.sort_by_bestsellers_asc"
+msgstr "Bestselling: Low to High"
+
+msgctxt "Languages::abt__ut2.sort_by_bestsellers_desc"
+msgid "abt__ut2.sort_by_bestsellers_desc"
+msgstr "Bestselling First"
+
+msgctxt "Languages::abt__ut2.sort_by_on_sale_asc"
+msgid "abt__ut2.sort_by_on_sale_asc"
+msgstr "Discount: Low to High"
+
+msgctxt "Languages::abt__ut2.sort_by_on_sale_desc"
+msgid "abt__ut2.sort_by_on_sale_desc"
+msgstr "Discount: High to Low"
+
+msgctxt "Languages::abt__ut2.load_more_products.already_showing_all_products"
+msgid "abt__ut2.load_more_products.already_showing_all_products"
+msgstr "Showing [n] product|Showing all [n] products"
+
+msgctxt "Languages::abt__ut2.load_more_products.show_more"
+msgid "abt__ut2.load_more_products.show_more"
+msgstr "Show another [n] product|Show another [n] products"
+
+msgctxt "Languages::abt__ut2.add_to_cart"
+msgid "abt__ut2.add_to_cart"
+msgstr "Buy now"
+
+msgctxt "Languages::abt__ut2.menu.tab_description"
+msgid "abt__ut2.menu.tab_description"
+msgstr "The following settings should be used only for menu items, that use extra templates in the menu block layout: <b>AB: Horizontal dropdown list with icons</b> or <b>AB: Vertical dropdown list with icons</b> of the UniTheme2 theme"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.status"
+msgid "abt__ut2.menu_with_icons.status"
+msgstr "AB: Activate settings"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.icon"
+msgid "abt__ut2.menu_with_icons.icon"
+msgstr "Icon"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.icon"
+msgid "ttc_abt__ut2.menu_with_icons.icon"
+msgstr "Icon for menu item (max size for icons:<br> — for the first level items 32x32px / for HiDPI 64x64px). If you don't use <b>Short description</b> for the first level menu items, then max size will be 24x24px / for HiDPI 48x48px<br> — for the second level items max icons width 100px / for HiDPI 200px)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.desc"
+msgid "abt__ut2.menu_with_icons.desc"
+msgstr "Short description"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.desc"
+msgid "ttc_abt__ut2.menu_with_icons.desc"
+msgstr "Short description for menu item (it is shown this field only for first-level items after menu item name)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.dropdown"
+msgid "abt__ut2.menu_with_icons.dropdown"
+msgstr "Activate 3-level menu (dropdown list)"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.dropdown"
+msgid "ttc_abt__ut2.menu_with_icons.dropdown"
+msgstr "Show children menu items with dropdown list (only for <b>AB: Vertical dropdown list with icons</b> for the first-level items). It is rational to use this mode for those first level menu items, that have a large number of elements (subitems) on the third nesting level"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text"
+msgid "abt__ut2.menu_with_icons.text"
+msgstr "HTML-content"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.text"
+msgid "ttc_abt__ut2.menu_with_icons.text"
+msgstr "HTML-content shown in this menu item (only for the first-level items). Used to show banner in mega menu (or any another content)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position"
+msgid "abt__ut2.menu_with_icons.text_position"
+msgstr "HTML-content position"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.text_position"
+msgid "ttc_abt__ut2.menu_with_icons.text_position"
+msgstr "Position of HTML-content, that will be shown in this menu item (only for the first-level items)"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position.bottom"
+msgid "abt__ut2.menu_with_icons.text_position.bottom"
+msgstr "Bottom"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position.right_bottom"
+msgid "abt__ut2.menu_with_icons.text_position.right_bottom"
+msgstr "Right bottom"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.text_position.right_top"
+msgid "abt__ut2.menu_with_icons.text_position.right_top"
+msgstr "Right top"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.label"
+msgid "abt__ut2.menu_with_icons.label"
+msgstr "Label"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.label"
+msgid "ttc_abt__ut2.menu_with_icons.label"
+msgstr "Label for menu item (ability to mark with labels, important menu items (promotion, new, total sales, etc. optional))"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.label_color"
+msgid "abt__ut2.menu_with_icons.label_color"
+msgstr "Label color"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.label_color"
+msgid "ttc_abt__ut2.menu_with_icons.label_color"
+msgstr "Label color for menu item"
+
+msgctxt "Languages::abt__ut2.menu_with_icons.label_background"
+msgid "abt__ut2.menu_with_icons.label_background"
+msgstr "Label background"
+
+msgctxt "Languages::ttc_abt__ut2.menu_with_icons.label_background"
+msgid "ttc_abt__ut2.menu_with_icons.label_background"
+msgstr "Label background for menu item"
+
+msgctxt "Languages::abt__ut2.settings"
+msgid "abt__ut2.settings"
+msgstr "Theme settings"
+
+msgctxt "Languages::abt__ut2.settings.name"
+msgid "abt__ut2.settings.name"
+msgstr "Name"
+
+msgctxt "Languages::abt__ut2.settings.value"
+msgid "abt__ut2.settings.value"
+msgstr "Value for all devices"
+
+msgctxt "Languages::abt__ut2.settings.value.desktop"
+msgid "abt__ut2.settings.value.desktop"
+msgstr "Value for Desktop"
+
+msgctxt "Languages::abt__ut2.settings.value.tablet"
+msgid "abt__ut2.settings.value.tablet"
+msgstr "Value for Tablet"
+
+msgctxt "Languages::abt__ut2.settings.value.mobile"
+msgid "abt__ut2.settings.value.mobile"
+msgstr "Value for Phone"
+
+msgctxt "Languages::abt__ut2.settings.general"
+msgid "abt__ut2.settings.general"
+msgstr "General"
+
+msgctxt "Languages::abt__ut2.settings.general_description"
+msgid "abt__ut2.settings.general_description"
+msgstr "Here are the general theme settings, they affect the appearance and store functionality"
+
+msgctxt "Languages::abt__ut2.settings.general.brand_feature_id"
+msgid "abt__ut2.settings.general.brand_feature_id"
+msgstr "Brand feature ID"
+
+msgctxt "Languages::abt__ut2.settings.general.brand_feature_id.tooltip"
+msgid "abt__ut2.settings.general.brand_feature_id.tooltip"
+msgstr "Specify brand Feature ID. Feature ID is located next to the feature name in the features list (Products -> Features in the store administrative panel).The parameter \"Show in product list\" must be checked/ticked for specified feature"
+
+msgctxt "Languages::abt__ut2.settings.general.blog_page_id"
+msgid "abt__ut2.settings.general.blog_page_id"
+msgstr "Blog main page ID"
+
+msgctxt "Languages::abt__ut2.settings.general.blog_page_id.tooltip"
+msgid "abt__ut2.settings.general.blog_page_id.tooltip"
+msgstr "Specify this setting to display the link \"All pages\" in the block \"Actual news\" (see Website -> Blog)"
+
+msgctxt "Languages::abt__ut2.settings.general.blog_page_id.button"
+msgid "abt__ut2.settings.general.blog_page_id.button"
+msgstr "All blog articles"
+
+msgctxt "Languages::abt__ut2.settings.general.menu_min_height"
+msgid "abt__ut2.settings.general.menu_min_height"
+msgstr "Minimum height for the menu (only for Vertical type), px"
+
+msgctxt "Languages::abt__ut2.settings.general.menu_min_height.tooltip"
+msgid "abt__ut2.settings.general.menu_min_height.tooltip"
+msgstr "The minimum height for the vertical menu block with items of the second level. It is used to make the match of the height for left and right parts of menu (well described in the theme documentation)"
+
+msgctxt "Languages::abt__ut2.settings.general.enable_fixed_header_panel"
+msgid "abt__ut2.settings.general.enable_fixed_header_panel"
+msgstr "Enable sticky menu"
+
+msgctxt "Languages::abt__ut2.settings.general.enable_fixed_header_panel.tooltip"
+msgid "abt__ut2.settings.general.enable_fixed_header_panel.tooltip"
+msgstr "Allows you to display a fixed panel with elements of the header. The main elements of the store header will be visible even, when scrolling"
+
+msgctxt "Languages::abt__ut2.settings.category"
+msgid "abt__ut2.settings.category"
+msgstr "Category"
+
+msgctxt "Languages::abt__ut2.settings.category_description"
+msgid "abt__ut2.settings.category_description"
+msgstr "Here are the theme settings for Categories pages"
+
+msgctxt "Languages::abt__ut2.settings.category.show_subcategories"
+msgid "abt__ut2.settings.category.show_subcategories"
+msgstr "Show subcategories on category pages"
+
+msgctxt "Languages::abt__ut2.settings.category.show_subcategories.tooltip"
+msgid "abt__ut2.settings.category.show_subcategories.tooltip"
+msgstr "Allows subcategories to be displayed in categories"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position"
+msgid "abt__ut2.settings.category.description_position"
+msgstr "Display category description"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.tooltip"
+msgid "abt__ut2.settings.category.description_position.tooltip"
+msgstr "Determines how the category description is displayed (nevertheless, regardless of the place of display, the Description field will be displayed in the code always above the product block, this is one of the recommendations of SEO audits)"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.variants.bottom"
+msgid "abt__ut2.settings.category.description_position.variants.bottom"
+msgstr "After products"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.variants.top"
+msgid "abt__ut2.settings.category.description_position.variants.top"
+msgstr "Before products"
+
+msgctxt "Languages::abt__ut2.settings.category.description_position.variants.none"
+msgid "abt__ut2.settings.category.description_position.variants.none"
+msgstr "Don't display"
+
+msgctxt "Languages::abt__ut2.settings.features"
+msgid "abt__ut2.settings.features"
+msgstr "Features"
+
+msgctxt "Languages::abt__ut2.settings.features_description"
+msgid "abt__ut2.settings.features_description"
+msgstr "Here are the settings for the Features pages"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position"
+msgid "abt__ut2.settings.features.description_position"
+msgstr "Display feature description"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.tooltip"
+msgid "abt__ut2.settings.features.description_position.tooltip"
+msgstr "Determines how the feature description is displayed (nevertheless, regardless of the place of display, the Description field will be displayed in the code always above the product block, this is one of the recommendations of SEO audits)"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.variants.bottom"
+msgid "abt__ut2.settings.features.description_position.variants.bottom"
+msgstr "After products"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.variants.top"
+msgid "abt__ut2.settings.features.description_position.variants.top"
+msgstr "Before products"
+
+msgctxt "Languages::abt__ut2.settings.features.description_position.variants.none"
+msgid "abt__ut2.settings.features.description_position.variants.none"
+msgstr "Don't display"
+
+msgctxt "Languages::abt__ut2.settings.product_list"
+msgid "abt__ut2.settings.product_list"
+msgstr "Product lists"
+
+msgctxt "Languages::abt__ut2.settings.product_list_description"
+msgid "abt__ut2.settings.product_list_description"
+msgstr "Here are the product lists settings of the theme, that affect the output for all product blocks and product lists on categories, search, features pages. Note: blocks can have their own settings and not use selected parameters. The presence of the <i class=\"icon-is-addon\"></i> icon for the setting means, that it is dependent on the presence of an addon, that needs to be turned on"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_gallery"
+msgid "abt__ut2.settings.product_list.show_gallery"
+msgstr "Show product mini icons gallery in the product list"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_gallery.tooltip"
+msgid "abt__ut2.settings.product_list.show_gallery.tooltip"
+msgstr "Activates the option of scrolling the product photos mini gallery in the lists. Applies only to the product list with the \"Grid\" output template"
+
+msgctxt "Languages::abt__ut2.settings.product_list.lazy_load"
+msgid "abt__ut2.settings.product_list.lazy_load"
+msgstr "Use images lazy load"
+
+msgctxt "Languages::abt__ut2.settings.product_list.lazy_load.tooltip"
+msgid "abt__ut2.settings.product_list.lazy_load.tooltip"
+msgstr "Speeds up the category page loading due to the fact, that images are loaded after the page is already loaded, images will be loaded only by users screen demand. Not compatible with activated option of setting \"Show product mini icons gallery in the product list\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.decolorate_out_of_stock_products"
+msgid "abt__ut2.settings.product_list.decolorate_out_of_stock_products"
+msgstr "Decolorize out of stock products"
+
+msgctxt "Languages::abt__ut2.settings.product_list.decolorate_out_of_stock_products.tooltip"
+msgid "abt__ut2.settings.product_list.decolorate_out_of_stock_products.tooltip"
+msgstr "Applies the effect of decolorize for product items, that are out of stock. Only for lists in categories is used"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_fixed_filters_button"
+msgid "abt__ut2.settings.product_list.show_fixed_filters_button"
+msgstr "Enable fixed filter call button"
+
+msgctxt "Languages::abt__ut2.settings.product_list.show_fixed_filters_button.tooltip"
+msgid "abt__ut2.settings.product_list.show_fixed_filters_button.tooltip"
+msgstr "When the setting is turned on when the page is scrolled, a button for calling filters will appear."
+""
+""
+
+msgctxt "Languages::abt__ut2.settings.product_list.limit_product_variations"
+msgid "abt__ut2.settings.product_list.limit_product_variations"
+msgstr "The maximum quantity of the displayed products variations"
+
+msgctxt "Languages::abt__ut2.settings.product_list.limit_product_variations.tooltip"
+msgid "abt__ut2.settings.product_list.limit_product_variations.tooltip"
+msgstr "Specify the number of available variations, that will be shown for the product in the list, if more variations are available, than specified in the setting, the remaining amount will be indicated in brackets (+ N more). Value <сode> 0 </code> in setting will block the display of variations."
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns_group"
+msgid "abt__ut2.settings.product_list.products_multicolumns_group"
+msgstr "Settings for \"Grid\" product list view"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns_group_description"
+msgid "abt__ut2.settings.product_list.products_multicolumns_group_description"
+msgstr "Settings for \"Grid\" product list view. Please note, that some settings allow you to control the output of functional elements for different devices separately"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_height"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_height"
+msgstr "Minimum height for product cell, px"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_height.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_height.tooltip"
+msgstr "Defines the product cell height according to your needs"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_sku"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_sku"
+msgstr "Show product code (Sku)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_sku.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_sku.tooltip"
+msgstr "Allow product code (Sku) showing"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_qty"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_qty"
+msgstr "Show quantity changer"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_qty.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_qty.tooltip"
+msgstr "Allow the display of the quantity selection field"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons"
+msgstr "Show \"Add to cart\" buttons"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons.tooltip"
+msgstr "Allow the display of the \"Add to cart\" and \"Buy now with 1-click\" buttons"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover"
+msgstr "Show buttons only while hovering"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_buttons_on_hover.tooltip"
+msgstr "Buttons \"Add to cart\" and \"Buy now with 1-click\" will be shown only while hovering on the product cell"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content"
+msgstr "Content of bottom part of the product grid item"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.tooltip"
+msgstr "Select, what fields will be used as a additional information of the product item"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.none"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.none"
+msgstr "Don't display"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.description"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.description"
+msgstr "Short description"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.features"
+msgid "abt__ut2.settings.product_list.products_multicolumns.grid_item_bottom_content.variants.features"
+msgstr "Feature list"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_brand_logo"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_brand_logo"
+msgstr "Show brand logo"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_brand_logo.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_brand_logo.tooltip"
+msgstr "Allow the brand logo displaying (requires proper assigned option \"Brand feature ID\" in the \"General\" section of theme settings and downloaded images for Brand feature variants)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_you_save"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_you_save"
+msgstr "Show \"You save\""
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_multicolumns.show_you_save.tooltip"
+msgid "abt__ut2.settings.product_list.products_multicolumns.show_you_save.tooltip"
+msgstr "Shows information about savings (amount of your savings)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options_group"
+msgid "abt__ut2.settings.product_list.products_without_options_group"
+msgstr "Settings for \"List without options\" product list view"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options_group_description"
+msgid "abt__ut2.settings.product_list.products_without_options_group_description"
+msgstr "Settings for \"List without options\" product list view. Please note, that some settings allow you to control the output of functional elements for different devices separately"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_sku"
+msgid "abt__ut2.settings.product_list.products_without_options.show_sku"
+msgstr "Show product code (Sku)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_sku.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_sku.tooltip"
+msgstr "Allow product code (Sku) showing"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_amount"
+msgid "abt__ut2.settings.product_list.products_without_options.show_amount"
+msgstr "Show product availability status"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_amount.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_amount.tooltip"
+msgstr "Allow the display of the status of stock availability (In stock, Out of stock)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_qty"
+msgid "abt__ut2.settings.product_list.products_without_options.show_qty"
+msgstr "Show quantity changer"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_qty.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_qty.tooltip"
+msgstr "Allow the display of the quantity selection field"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_features"
+msgid "abt__ut2.settings.product_list.products_without_options.show_features"
+msgstr "Show product features"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_features.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_features.tooltip"
+msgstr "Allow display of selected product features (for displaying in the product list the feature must have an active setting \"Show in product list\")"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_options"
+msgid "abt__ut2.settings.product_list.products_without_options.show_options"
+msgstr "Show product options"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_options.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_options.tooltip"
+msgstr "Allow display of product options"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_brand_logo"
+msgid "abt__ut2.settings.product_list.products_without_options.show_brand_logo"
+msgstr "Show brand logo"
+
+msgctxt "Languages::abt__ut2.settings.product_list.products_without_options.show_brand_logo.tooltip"
+msgid "abt__ut2.settings.product_list.products_without_options.show_brand_logo.tooltip"
+msgstr "Allow the brand logo displaying (requires proper assigned option \"Brand feature ID\" in the \"General\" section of theme settings and downloaded images for Brand feature variants)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list_group"
+msgid "abt__ut2.settings.product_list.short_list_group"
+msgstr "Settings for \"Compact list\" product list view"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list_group_description"
+msgid "abt__ut2.settings.product_list.short_list_group_description"
+msgstr "Settings for \"Compact list\" product list view. Pay attention to the presence of addon-dependent settings. Some settings allow managing functionality elements output for different devices separately"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_sku"
+msgid "abt__ut2.settings.product_list.short_list.show_sku"
+msgstr "Show product code (Sku)"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_sku.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_sku.tooltip"
+msgstr "Allow product code (Sku) showing"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_qty"
+msgid "abt__ut2.settings.product_list.short_list.show_qty"
+msgstr "Show quantity changer"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_qty.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_qty.tooltip"
+msgstr "Allow the display of the quantity selection field"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button"
+msgid "abt__ut2.settings.product_list.short_list.show_button"
+msgstr "Show \"Add to cart\" button"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button.tooltip"
+msgstr "Allow the display of the \"Add to cart\" buttons"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_quick_view"
+msgid "abt__ut2.settings.product_list.short_list.show_button_quick_view"
+msgstr "Show \"Quick view\" button"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_quick_view.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button_quick_view.tooltip"
+msgstr "Allow the display of the \"Quick view\" button"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_wishlist"
+msgid "abt__ut2.settings.product_list.short_list.show_button_wishlist"
+msgstr "Show \"Add to wish list\" button"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_wishlist.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button_wishlist.tooltip"
+msgstr "Allow the display of the \"Add to wish list\" button"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_compare"
+msgid "abt__ut2.settings.product_list.short_list.show_button_compare"
+msgstr "Show \"Add to comparison list\" button"
+
+msgctxt "Languages::abt__ut2.settings.product_list.short_list.show_button_compare.tooltip"
+msgid "abt__ut2.settings.product_list.short_list.show_button_compare.tooltip"
+msgstr "Allow the display of the \"Add to comparison list\" button"
+
+msgctxt "Languages::abt__ut2.settings.products"
+msgid "abt__ut2.settings.products"
+msgstr "Product"
+
+msgctxt "Languages::abt__ut2.settings.products_description"
+msgid "abt__ut2.settings.products_description"
+msgstr "Here theme settings which affect the product detailed page appearance"
+
+msgctxt "Languages::abt__ut2.settings.products.custom_block_id"
+msgid "abt__ut2.settings.products.custom_block_id"
+msgstr "Custom block ID / Output the block in the right column"
+
+msgctxt "Languages::abt__ut2.settings.products.custom_block_id.tooltip"
+msgid "abt__ut2.settings.products.custom_block_id.tooltip"
+msgstr "Specify the custom block ID, which you want to display on the right side of the product detail page (the block must be added to the Products layout and can be turned off, a special function will add it to the intended place to bypass the CS-Cart layout system) (well described in the theme documentation)"
+
+msgctxt "Languages::abt__ut2.settings.products.view_group"
+msgid "abt__ut2.settings.products.view_group"
+msgstr "Additional displaying settings"
+
+msgctxt "Languages::abt__ut2.settings.products.view_group_description"
+msgid "abt__ut2.settings.products.view_group_description"
+msgstr "Additional appearance settings for the product page"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sticky_add_to_cart"
+msgid "abt__ut2.settings.products.view.show_sticky_add_to_cart"
+msgstr "Show sticky block Add to cart (only for mobile devices)"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sticky_add_to_cart.tooltip"
+msgid "abt__ut2.settings.products.view.show_sticky_add_to_cart.tooltip"
+msgstr "Allow output of a fixed block with the Add to cart button at the bottom of the mobile device screen. Also depending on the state of the option \"Show quantity changer\" in the block, the changer of products quantity for the order can be shown"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_qty"
+msgid "abt__ut2.settings.products.view.show_qty"
+msgstr "Show quantity changer"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_qty.tooltip"
+msgid "abt__ut2.settings.products.view.show_qty.tooltip"
+msgstr "Allow the display of the quantity selection field"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_features"
+msgid "abt__ut2.settings.products.view.show_features"
+msgstr "Show product features"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_features.tooltip"
+msgid "abt__ut2.settings.products.view.show_features.tooltip"
+msgstr "Allow displaying of selected product features (for displaying on the product page (but not in Features tab), the feature must have an active setting \"Show in header on the product details page\")"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_short_description"
+msgid "abt__ut2.settings.products.view.show_short_description"
+msgstr "Show short description"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_short_description.tooltip"
+msgid "abt__ut2.settings.products.view.show_short_description.tooltip"
+msgstr "Allow the display of the \"Short description\""
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sku"
+msgid "abt__ut2.settings.products.view.show_sku"
+msgstr "Show product code (Sku)"
+
+msgctxt "Languages::abt__ut2.settings.products.view.show_sku.tooltip"
+msgid "abt__ut2.settings.products.view.show_sku.tooltip"
+msgstr "Allow product code (Sku) showing"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together_group"
+msgid "abt__ut2.settings.products.addon_buy_together_group"
+msgstr "\"Buy together\" addon"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together_group_description"
+msgid "abt__ut2.settings.products.addon_buy_together_group_description"
+msgstr "Native CS-Cart add-on, which allows to display profitable offers in combination with the current product, on the page of which the user is located"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view"
+msgid "abt__ut2.settings.products.addon_buy_together.view"
+msgstr "Way of display"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view.tooltip"
+msgid "abt__ut2.settings.products.addon_buy_together.view.tooltip"
+msgstr "Choose way of display (added by AB: UniTheme2 theme or standard output by the tab)"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view.variants.as_block_above_tabs"
+msgid "abt__ut2.settings.products.addon_buy_together.view.variants.as_block_above_tabs"
+msgstr "As block before product tabs"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_buy_together.view.variants.as_tab_in_tabs"
+msgid "abt__ut2.settings.products.addon_buy_together.view.variants.as_tab_in_tabs"
+msgstr "As product tab"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products_group"
+msgid "abt__ut2.settings.products.addon_required_products_group"
+msgstr "\"Required products\" addon"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products_group_description"
+msgid "abt__ut2.settings.products.addon_required_products_group_description"
+msgstr "Native CS-Cart addon \"Required products\" creates a group of products, that will be added to the cart with the product, on which page the user is located"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type"
+msgid "abt__ut2.settings.products.addon_required_products.list_type"
+msgstr "Template"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.tooltip"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.tooltip"
+msgstr "Choose template for displaying product list"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.variants.grid_list"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.variants.grid_list"
+msgstr "Grid"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.variants.compact_list"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.variants.compact_list"
+msgstr "Compact list"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.list_type.variants.product_list"
+msgid "abt__ut2.settings.products.addon_required_products.list_type.variants.product_list"
+msgstr "List without options"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.item_quantity"
+msgid "abt__ut2.settings.products.addon_required_products.item_quantity"
+msgstr "Show products in row"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_required_products.item_quantity.tooltip"
+msgid "abt__ut2.settings.products.addon_required_products.item_quantity.tooltip"
+msgstr "Specify the quantity products to display in a row (only for \"Grid\")"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons_group"
+msgid "abt__ut2.settings.products.addon_social_buttons_group"
+msgstr "Addon \"Social buttons\""
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons_group_description"
+msgid "abt__ut2.settings.products.addon_social_buttons_group_description"
+msgstr "Native CS-Cart addon \"Social Buttons\" displays Share buttons widgets for social networks"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons.view"
+msgid "abt__ut2.settings.products.addon_social_buttons.view"
+msgstr "Show Share buttons for social networks"
+
+msgctxt "Languages::abt__ut2.settings.products.addon_social_buttons.view.tooltip"
+msgid "abt__ut2.settings.products.addon_social_buttons.view.tooltip"
+msgstr "Please note, that using this option slows down the loading of the product page. Not recommended for displaying on mobile devices."
+
+msgctxt "Languages::abt__ut2.addon_social_buttons.share"
+msgid "abt__ut2.addon_social_buttons.share"
+msgstr "Share"
+
+msgctxt "Languages::abt__ut2.settings.load_more"
+msgid "abt__ut2.settings.load_more"
+msgstr "Show more"
+
+msgctxt "Languages::abt__ut2.settings.load_more_description"
+msgid "abt__ut2.settings.load_more_description"
+msgstr "Below are the settings for the \"Show more\" functional for various objects in lists (lazy pagination)"
+
+msgctxt "Languages::abt__ut2.settings.load_more.product_list"
+msgid "abt__ut2.settings.load_more.product_list"
+msgstr "Allow for product lists"
+
+msgctxt "Languages::abt__ut2.settings.load_more.product_list.tooltip"
+msgid "abt__ut2.settings.load_more.product_list.tooltip"
+msgstr "Allow display of \"Show more\" button for categories, brands, newest pages etc."
+
+msgctxt "Languages::abt__ut2.settings.load_more.blog"
+msgid "abt__ut2.settings.load_more.blog"
+msgstr "Allow for the Blog"
+
+msgctxt "Languages::abt__ut2.settings.load_more.blog.tooltip"
+msgid "abt__ut2.settings.load_more.blog.tooltip"
+msgstr "Allow displaying \"Show more\" button for Blog posts"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode"
+msgid "abt__ut2.settings.load_more.mode"
+msgstr "Paginator operation mode"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode.variants.auto"
+msgid "abt__ut2.settings.load_more.mode.variants.auto"
+msgstr "Automatically"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode.variants.on_button_click"
+msgid "abt__ut2.settings.load_more.mode.variants.on_button_click"
+msgstr "By button click"
+
+msgctxt "Languages::abt__ut2.settings.load_more.mode.tooltip"
+msgid "abt__ut2.settings.load_more.mode.tooltip"
+msgstr "Choose working mode for button Show more.<br />"
+"<b>Automatically</b> — in this mode next page will be loaded over N px before the end of page while scrolling down.<br />"
+"<b>By button click</b> — next products page will be loaded only clicking the button by the user"
+
+msgctxt "Languages::abt__ut2.settings.load_more.before_end"
+msgid "abt__ut2.settings.load_more.before_end"
+msgstr "Start for N px to the end of the page"
+
+msgctxt "Languages::abt__ut2.settings.load_more.before_end.tooltip"
+msgid "abt__ut2.settings.load_more.before_end.tooltip"
+msgstr "Used only for working mode Automatically"
+
+msgctxt "Languages::abt__ut2.load_more.show_more.pages"
+msgid "abt__ut2.load_more.show_more.pages"
+msgstr "Show another [n] page|Show another [n] pages"
+
+msgctxt "Languages::abt__ut2.load_more.show_more.products"
+msgid "abt__ut2.load_more.show_more.products"
+msgstr "Show another [n] product|Show another [n] products"
+
+msgctxt "Languages::abt__ut2.settings.addons"
+msgid "abt__ut2.settings.addons"
+msgstr "Addons"
+
+msgctxt "Languages::abt__ut2.settings.addons_description"
+msgid "abt__ut2.settings.addons_description"
+msgstr "Here are setting, that affect on appearance of different addons pages in theme"
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products_group"
+msgid "abt__ut2.settings.addons.wishlist_products_group"
+msgstr "\"Wish List\" addon"
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products_group_description"
+msgid "abt__ut2.settings.addons.wishlist_products_group_description"
+msgstr "Allows to add products to user wishlists"
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products.item_quantity"
+msgid "abt__ut2.settings.addons.wishlist_products.item_quantity"
+msgstr "Show products in a row"
+
+msgctxt "Languages::abt__ut2.settings.addons.wishlist_products.item_quantity.tooltip"
+msgid "abt__ut2.settings.addons.wishlist_products.item_quantity.tooltip"
+msgstr "Specify the quantity to display products in a row (only for \"Grid\")"
+
+msgctxt "Languages::abt__ut2.less_settings"
+msgid "abt__ut2.less_settings"
+msgstr "Color scheme settings"
+
+msgctxt "Languages::abt__ut2.less_settings.style.tooltip"
+msgid "abt__ut2.less_settings.style.tooltip"
+msgstr "Select Style (less-file, to which the following settings will be applied)"
+
+msgctxt "Languages::abt__ut2.less_settings.general"
+msgid "abt__ut2.less_settings.general"
+msgstr "Main Color Scheme Settings"
+
+msgctxt "Languages::abt__ut2.less_settings.general_description"
+msgid "abt__ut2.less_settings.general_description"
+msgstr "<b>Attention!</b> These settings apply only to the selected color scheme (in order to see the changes: make sure, that the selected in the \"Style\" settings field value corresponds to the color scheme, selected in your store (you can check the selected color scheme by Design -> Themes -> in the table opposite the chosen as default layout))"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border"
+msgid "abt__ut2.less_settings.general.show_grid_border"
+msgstr "Frame type of the product in the grid"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.tooltip"
+msgid "abt__ut2.less_settings.general.show_grid_border.tooltip"
+msgstr "You can change the frame type for cells in the lists of products"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.variants.none"
+msgid "abt__ut2.less_settings.general.show_grid_border.variants.none"
+msgstr "Not framed"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.variants.solid_without_margins"
+msgid "abt__ut2.less_settings.general.show_grid_border.variants.solid_without_margins"
+msgstr "Frame without external indents"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_grid_border.variants.solid_with_margins"
+msgid "abt__ut2.less_settings.general.show_grid_border.variants.solid_with_margins"
+msgstr "Frame with outer indents"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment"
+msgid "abt__ut2.less_settings.general.use_elements_alignment"
+msgstr "Use elements alignment"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment.tooltip"
+msgid "abt__ut2.less_settings.general.use_elements_alignment.tooltip"
+msgstr "Allows you to align some elements of the list of symmetrically neighboring cells of products"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment.variants.use"
+msgid "abt__ut2.less_settings.general.use_elements_alignment.variants.use"
+msgstr "Use"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_elements_alignment.variants.do_not_use"
+msgid "abt__ut2.less_settings.general.use_elements_alignment.variants.do_not_use"
+msgstr "Don't use"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style"
+msgid "abt__ut2.less_settings.general.button_style"
+msgstr "Style for buttons"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style.tooltip"
+msgid "abt__ut2.less_settings.general.button_style.tooltip"
+msgstr "Style for buttons"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style.variants.use_background"
+msgid "abt__ut2.less_settings.general.button_style.variants.use_background"
+msgstr "Use filled background"
+
+msgctxt "Languages::abt__ut2.less_settings.general.button_style.variants.use_border"
+msgid "abt__ut2.less_settings.general.button_style.variants.use_border"
+msgstr "Use border only"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_button_shadow"
+msgid "abt__ut2.less_settings.general.show_button_shadow"
+msgstr "Show shadow for buttons"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_button_shadow.tooltip"
+msgid "abt__ut2.less_settings.general.show_button_shadow.tooltip"
+msgstr "Use shadow in the buttons design"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style"
+msgid "abt__ut2.less_settings.general.discount_label_style"
+msgstr "Discount labels style"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.tooltip"
+msgid "abt__ut2.less_settings.general.discount_label_style.tooltip"
+msgstr "Specify the displaying form of discount labels"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.variants.as_drop"
+msgid "abt__ut2.less_settings.general.discount_label_style.variants.as_drop"
+msgstr "Drop"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.variants.as_circle"
+msgid "abt__ut2.less_settings.general.discount_label_style.variants.as_circle"
+msgstr "Round"
+
+msgctxt "Languages::abt__ut2.less_settings.general.discount_label_style.variants.as_rectangle"
+msgid "abt__ut2.less_settings.general.discount_label_style.variants.as_rectangle"
+msgstr "Rectangular"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding"
+msgid "abt__ut2.less_settings.general.use_rounding"
+msgstr "Round corners for interface elements"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.tooltip"
+msgid "abt__ut2.less_settings.general.use_rounding.tooltip"
+msgstr "Use rounding corners of elements (windows, buttons, icons, form fields, etc.)"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.variants.do_not_use"
+msgid "abt__ut2.less_settings.general.use_rounding.variants.do_not_use"
+msgstr "Don't use"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.variants.little"
+msgid "abt__ut2.less_settings.general.use_rounding.variants.little"
+msgstr "Make a little roundness"
+
+msgctxt "Languages::abt__ut2.less_settings.general.use_rounding.variants.full"
+msgid "abt__ut2.less_settings.general.use_rounding.variants.full"
+msgstr "Fully rounded"
+
+msgctxt "Languages::abt__ut2.less_settings.general.stars_rating_color"
+msgid "abt__ut2.less_settings.general.stars_rating_color"
+msgstr "Color of starlets for product rating"
+
+msgctxt "Languages::abt__ut2.less_settings.general.stars_rating_color.tooltip"
+msgid "abt__ut2.less_settings.general.stars_rating_color.tooltip"
+msgstr "Specify your own star color for product rating"
+
+msgctxt "Languages::abt__ut2.less_settings.general.extend_grid_item_on_hover"
+msgid "abt__ut2.less_settings.general.extend_grid_item_on_hover"
+msgstr "Expand grid item on hover"
+
+msgctxt "Languages::abt__ut2.less_settings.general.extend_grid_item_on_hover.tooltip"
+msgid "abt__ut2.less_settings.general.extend_grid_item_on_hover.tooltip"
+msgstr "Adds the extending effect for item grid, when hovering on it in the list. Applies only to the Grid view of listings."
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_animation_for_not_empty_cart"
+msgid "abt__ut2.less_settings.general.show_animation_for_not_empty_cart"
+msgstr "Use animation effect for nonempty cart"
+
+msgctxt "Languages::abt__ut2.less_settings.general.show_animation_for_not_empty_cart.tooltip"
+msgid "abt__ut2.less_settings.general.show_animation_for_not_empty_cart.tooltip"
+msgstr "Adds animation effect, to pay attention to the nonempty user cart"
+
+msgctxt "Languages::abt__ut2.demodata"
+msgid "abt__ut2.demodata"
+msgstr "Demo data"
+
+msgctxt "Languages::abt__ut2.demodata.description"
+msgid "abt__ut2.demodata.description"
+msgstr "On this page you can quickly create theme demo data"
+
+msgctxt "Languages::abt__ut2.demodata.table.description"
+msgid "abt__ut2.demodata.table.description"
+msgstr "Demo data type"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_banners"
+msgid "abt__ut2.demodata.table.add_banners"
+msgstr "Add demo banners"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_menu"
+msgid "abt__ut2.demodata.table.add_menu"
+msgstr "Add demo menu with icons and banners"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_blog"
+msgid "abt__ut2.demodata.table.add_blog"
+msgstr "Add demo blog"
+
+msgctxt "Languages::abt__ut2.demodata.table.add_products"
+msgid "abt__ut2.demodata.table.add_products"
+msgstr "Add demo products"
+
+msgctxt "Languages::abt__ut2.demodata.errors.no_such_type"
+msgid "abt__ut2.demodata.errors.no_such_type"
+msgstr "No such demo data type"
+
+msgctxt "Languages::abt__ut2.export"
+msgid "abt__ut2.export"
+msgstr "Export"
+
+msgctxt "Languages::abt__ut2.export.description"
+msgid "abt__ut2.export.description"
+msgstr "On this page you can quickly export the "
+"data you need in json format"
+
+msgctxt "Languages::abt__ut2.export.table.description"
+msgid "abt__ut2.export.table.description"
+msgstr "Data type"
+
+msgctxt "Languages::abt__ut2.export.table.data"
+msgid "abt__ut2.export.table.data"
+msgstr "Export data"
+
+msgctxt "Languages::abt__ut2.export.actions.banners"
+msgid "abt__ut2.export.actions.banners"
+msgstr "Banners"
+
+msgctxt "Languages::abt__ut2.export.actions.banners.placeholder"
+msgid "abt__ut2.export.actions.banners.placeholder"
+msgstr "Banners IDs"
+
+msgctxt "Languages::abt__ut2.export.actions.menu"
+msgid "abt__ut2.export.actions.menu"
+msgstr "Menu"
+
+msgctxt "Languages::abt__ut2.export.actions.menu.placeholder"
+msgid "abt__ut2.export.actions.menu.placeholder"
+msgstr "Menu IDs"
+
+msgctxt "Languages::abt__ut2.export.actions.blog"
+msgid "abt__ut2.export.actions.blog"
+msgstr "Blog"
+
+msgctxt "Languages::abt__ut2.export.actions.blog.placeholder"
+msgid "abt__ut2.export.actions.blog.placeholder"
+msgstr "Parent pages IDs"
+
+msgctxt "Languages::abt__ut2.export.actions.products"
+msgid "abt__ut2.export.actions.products"
+msgstr "Products"
+
+msgctxt "Languages::abt__ut2.export.actions.products.placeholder"
+msgid "abt__ut2.export.actions.products.placeholder"
+msgstr "Products IDs"
+
+msgctxt "Languages::abt__ut2.export.errors.no_such_type"
+msgid "abt__ut2.export.errors.no_such_type"
+msgstr "No such type of export for the theme"
+
+msgctxt "Languages::abt__ut2.export.success"
+msgid "abt__ut2.export.success"
+msgstr "were exported successfully"
+
+msgctxt "Languages::abt__ut2.demodata.success"
+msgid "abt__ut2.demodata.success"
+msgstr "were created successfully"
+
+msgctxt "Languages::abt__ut2.export.success.banners"
+msgid "abt__ut2.export.success.banners"
+msgstr "Banners [ids] were exported successfully"
+
+msgctxt "Languages::abt__ut2.demodata.success.banners"
+msgid "abt__ut2.demodata.success.banners"
+msgstr "Banners [ids] were created successfully"
+
+msgctxt "Languages::abt__ut2.export.success.blog"
+msgid "abt__ut2.export.success.blog"
+msgstr "Blog were exported successfully"
+
+msgctxt "Languages::abt__ut2.demodata.success.blog"
+msgid "abt__ut2.demodata.success.blog"
+msgstr "Blog pages [ids] were created successfully"
+
+msgctxt "Languages::abt__ut2.demodata.errors.no_blog_page"
+msgid "abt__ut2.demodata.errors.no_blog_page"
+msgstr "You should create the blog`s parent page"
+
+msgctxt "Languages::abt__ut2.demodata.errors.no_data"
+msgid "abt__ut2.demodata.errors.no_data"
+msgstr "No data.json file"
+
+msgctxt "Languages::abt__ut2.export.success.menu"
+msgid "abt__ut2.export.success.menu"
+msgstr "Menu [ids] were exported successfully"
+
+msgctxt "Languages::abt__ut2.demodata.errors.menu_wasnt_created"
+msgid "abt__ut2.demodata.errors.menu_wasnt_created"
+msgstr "Menu [name] failed to create"
+
+msgctxt "Languages::abt__ut2.demodata.success.menu"
+msgid "abt__ut2.demodata.success.menu"
+msgstr "Menu [menus] were created successfully"
+
+msgctxt "Languages::abt__ut2.microdata"
+msgid "abt__ut2.microdata"
+msgstr "Organization microdata"
+
+msgctxt "Languages::abt__ut2.help"
+msgid "abt__ut2.help"
+msgstr "Help"
+
+msgctxt "Languages::abt__ut2.help.doc"
+msgid "abt__ut2.help.doc"
+msgstr "Read <a target='_blank' href='https://cs-cart.alexbranding.com/en/abt__unitheme2.doc'>the documentation</a>."
+
+msgctxt "Languages::privilege_sections.abt__unitheme2"
+msgid "privilege_sections.abt__unitheme2"
+msgstr "AB: UniTheme2"
+
+msgctxt "Languages::privileges.abt__ut2.settings.manage"
+msgid "privileges.abt__ut2.settings.manage"
+msgstr "Manage theme settings"
+
+msgctxt "Languages::privileges.abt__ut2.settings.view"
+msgid "privileges.abt__ut2.settings.view"
+msgstr "View theme settings"
+
+msgctxt "Languages::privileges.abt__ut2.buy_together_generate"
+msgid "privileges.abt__ut2.buy_together_generate"
+msgstr "AB: \"Buy together\" generator"
+
+msgctxt "Languages::abt__ut2_buy_together.generate"
+msgid "abt__ut2_buy_together.generate"
+msgstr "AB: \"Buy together\" generator"
+
+msgctxt "Languages::abt__ut2_buy_together.manage"
+msgid "abt__ut2_buy_together.manage"
+msgstr "AB: \"Buy together\" manage"
+
+msgctxt "Languages::abt__ut2.form.generate"
+msgid "abt__ut2.form.generate"
+msgstr "Generate"
+
+msgctxt "Languages::abt__ut2.form.header.general"
+msgid "abt__ut2.form.header.general"
+msgstr "General"
+
+msgctxt "Languages::tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_name"
+msgid "tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_name"
+msgstr "You can use placeholder %product% which will be replaced by original product name"
+
+msgctxt "Languages::tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_description"
+msgid "tt_addons_abt__unitheme2_views_abt__ut2_buy_together_generate_description"
+msgstr "You can use placeholder %product% which will be replaced by original product name"
+
+msgctxt "Languages::abt__ut2.form.header.base_products"
+msgid "abt__ut2.form.header.base_products"
+msgstr "Base products"
+
+msgctxt "Languages::abt__ut2.form.header.additional_products"
+msgid "abt__ut2.form.header.additional_products"
+msgstr "Additional products"
+
+msgctxt "Languages::abt__ut2_bt.combinations_generated"
+msgid "abt__ut2_bt.combinations_generated"
+msgstr "Generated [n] comb."
+
+msgctxt "Languages::abt__ut2_bt.empty_data"
+msgid "abt__ut2_bt.empty_data"
+msgstr "Choose products for combinations"
+
+msgctxt "Languages::abt__ut2_buy_together.editing"
+msgid "abt__ut2_buy_together.editing"
+msgstr "Editing"
+
+msgctxt "Languages::abt__ut2_bt.form.find_by_name"
+msgid "abt__ut2_bt.form.find_by_name"
+msgstr "Find by name"
+
+msgctxt "Languages::abt__ut2_bt.form.find_by_base_product"
+msgid "abt__ut2_bt.form.find_by_base_product"
+msgstr "Find by base product"
+
+msgctxt "Languages::abt__ut2_bt.form.find_by_additional_product"
+msgid "abt__ut2_bt.form.find_by_additional_product"
+msgstr "Find by additional product"
+
+msgctxt "Languages::abt__ut2.developer"
+msgid "abt__ut2.developer"
+msgstr "Based on a premium theme — <a href=\"https://cs-cart.alexbranding.com/en/template-unitheme.html\" rel=\"nofollow\">© AB: UniTheme2</a>"
+
+msgctxt "Languages::abt__ut2.contacts"
+msgid "abt__ut2.contacts"
+msgstr "Contact us"
+
+msgctxt "Languages::abt__ut2.blog.there_is_video"
+msgid "abt__ut2.blog.there_is_video"
+msgstr "Video"
+
+msgctxt "Languages::abt__ut2.blog.there_are_offers"
+msgid "abt__ut2.blog.there_are_offers"
+msgstr "Recommendations"
+
+msgctxt "Languages::abt__ut2.mainbox_general_seo"
+msgid "abt__ut2.mainbox_general_seo"
+msgstr "AB: General title (SEO)"
+
+msgctxt "Languages::abt__ut2.hover_to_enlarge"
+msgid "abt__ut2.hover_to_enlarge"
+msgstr "Hover on image to enlarge"
+
+msgctxt "Languages::abt__ut2.brands"
+msgid "abt__ut2.brands"
+msgstr "Brands"
+
+msgctxt "Languages::abt__ut2.add_to_wishlist.tooltip"
+msgid "abt__ut2.add_to_wishlist.tooltip"
+msgstr "Add to wishlist"
+
+msgctxt "Languages::block_abt__ut2_light_menu"
+msgid "block_abt__ut2_light_menu"
+msgstr "AB: Light menu"
+
+msgctxt "Languages::abt__ut2_light_menu"
+msgid "abt__ut2_light_menu"
+msgstr "AB: Light menu"
+
+msgctxt "Languages::abt__ut2.light_menu.back_to_main"
+msgid "abt__ut2.light_menu.back_to_main"
+msgstr "Back to main"
+
+msgctxt "Languages::abt__ut2_show_title"
+msgid "abt__ut2_show_title"
+msgstr "Show title"
+
+msgctxt "Languages::abt__ut2.menus.pickers.add_menus"
+msgid "abt__ut2.menus.pickers.add_menus"
+msgstr "Add menu"
+
+msgctxt "Languages::abt__ut2.menus.pickers.add_menus_and_close"
+msgid "abt__ut2.menus.pickers.add_menus_and_close"
+msgstr "Add menu and close"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states"
+msgid "abt__ut2.menus.pickers.states"
+msgstr "Initial menu state"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states.tooltip"
+msgid "abt__ut2.menus.pickers.states.tooltip"
+msgstr "Select how the menu will be displayed when loading the page"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states.hide_items"
+msgid "abt__ut2.menus.pickers.states.hide_items"
+msgstr "Hide elements and show the menu name"
+
+msgctxt "Languages::abt__ut2.menus.pickers.states.show_items"
+msgid "abt__ut2.menus.pickers.states.show_items"
+msgstr "Show elements"
+
+msgctxt "Languages::abt__ut2.icons"
+msgid "abt__ut2.icons"
+msgstr "Available icons"
+
+msgctxt "Languages::abt__ut2.icons.info"
+msgid "abt__ut2.icons.info"
+msgstr "On this page you can see the list of icons, available to you in the theme"
+
+msgctxt "Languages::abt__ut2.icons.ut2_icons"
+msgid "abt__ut2.icons.ut2_icons"
+msgstr "Theme icons list"
+
+msgctxt "Languages::abt__ut2.icons.class"
+msgid "abt__ut2.icons.class"
+msgstr "Icon class"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po"
+msgstr "Language variables recovery"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po.not_exist.description"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po.not_exist.description"
+msgstr "On this page, you can recover language variables which were deleted during removing of the first generation UniTheme addon"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po.success"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po.success"
+msgstr "Selected language variables were successfully recovered!"
+
+msgctxt "Languages::abt__ut2.migaritions_from_unitheme1.update_po.exist.description"
+msgid "abt__ut2.migaritions_from_unitheme1.update_po.exist.description"
+msgstr "For your installation, no additional actions for language variables recovery are required!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.title"
+msgid "abt__ut2.upgrade_notifications.title"
+msgstr "AB: UniTheme2 was successfully updated to v[ver]!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.text"
+msgid "abt__ut2.upgrade_notifications.text"
+msgstr "The detailed list of changes for <b>v[ver]</b> version look in documentation for the theme in the section <a target=\"_blank\" href=\"https://docs.cs-cart.abt.team/en/abt__unitheme2.doc#p-118\">List of releases</a>."
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.title"
+msgid "abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.title"
+msgstr "Требуется обновление используемого макета!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.text"
+msgid "abt__ut2.upgrade_notifications.4.10.2.d.new_layouts.text"
+msgstr "Используйте следующую <a target=\"_blank\" href=\"https://docs.cs-cart.abt.team/en/abt__unitheme2.doc/v4.10.2.d#p-142\">инструкцию</a> для обновления используемого макета."
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.title"
+msgid "abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.title"
+msgstr "Требуется обновление используемого макета!"
+
+msgctxt "Languages::abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.text"
+msgid "abt__ut2.upgrade_notifications.4.10.3.a.new_layouts.text"
+msgstr "Используйте следующую <a target=\"_blank\" href=\"https://docs.cs-cart.abt.team/en/abt__unitheme2.doc/v4.10.3.a#p-142\">инструкцию</a> для обновления используемого макета."
+
+#. Alexbranding. Do not modify this file manually!

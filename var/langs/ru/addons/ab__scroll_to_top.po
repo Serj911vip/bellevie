@@ -1,0 +1,233 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::ab__scroll_to_top"
+msgid "ab__scroll_to_top"
+msgstr "AB: Кнопка \"Подняться наверх\""
+
+msgctxt "Addons::description::ab__scroll_to_top"
+msgid "ab__scroll_to_top_description"
+msgstr "Модуль позволяет добавить кнопку прокрутки страницы к верху на страницы магазина и административной панели"
+
+msgctxt "Languages::ab__scroll_to_top"
+msgid "ab__scroll_to_top"
+msgstr "AB: Кнопка \"Подняться наверх\""
+
+msgctxt "Languages::ab__scroll_to_top.arrow"
+msgid "ab__scroll_to_top.arrow"
+msgstr "Стрелка"
+
+msgctxt "Languages::ab__stt.only_integer"
+msgid "ab__stt.only_integer"
+msgstr "Только целые числа"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::position"
+msgid "position"
+msgstr "Положение кнопки на странице"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::top_left"
+msgid "top_left"
+msgstr "Вверху слева"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::top_right"
+msgid "top_right"
+msgstr "Вверху справа"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::bottom_left"
+msgid "bottom_left"
+msgstr "Внизу слева"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::bottom_right"
+msgid "bottom_right"
+msgstr "Внизу справа"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::icon"
+msgid "icon"
+msgstr "Иконка кнопки"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_1"
+msgid "arrow_1"
+msgstr "Стрелка 1"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_2"
+msgid "arrow_2"
+msgstr "Стрелка 2"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_3"
+msgid "arrow_3"
+msgstr "Стрелка 3"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_4"
+msgid "arrow_4"
+msgstr "Стрелка 4"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_5"
+msgid "arrow_5"
+msgstr "Стрелка 5"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_6"
+msgid "arrow_6"
+msgstr "Стрелка 6"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_7"
+msgid "arrow_7"
+msgstr "Стрелка 7"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_8"
+msgid "arrow_8"
+msgstr "Стрелка 8"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_9"
+msgid "arrow_9"
+msgstr "Стрелка 9"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_10"
+msgid "arrow_10"
+msgstr "Стрелка 10"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_top"
+msgid "margin_top"
+msgstr "Значение внешнего отступа сверху (атрибут <b>margin-top</b>)"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_top"
+msgid "margin_top"
+msgstr "Только целые числа"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_right"
+msgid "margin_right"
+msgstr "Значение внешнего отступа справа (атрибут <b>margin-right</b>)"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_right"
+msgid "margin_right"
+msgstr "Только целые числа"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_bottom"
+msgid "margin_bottom"
+msgstr "Значение внешнего отступа снизу (атрибут <b>margin-bottom</b>)"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_bottom"
+msgid "margin_bottom"
+msgstr "Только целые числа"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_left"
+msgid "margin_left"
+msgstr "Значение внешнего отступа слева (атрибут <b>margin-left</b>)"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_left"
+msgid "margin_left"
+msgstr "Только целые числа"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::font_size"
+msgid "font_size"
+msgstr "Значение размера иконки (атрибут <b>font-size</b>)"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::font_size"
+msgid "font_size"
+msgstr "Только целые числа"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::font_weight"
+msgid "font_weight"
+msgstr "Значение насыщенности иконки (атрибут <b>font-weight</b>)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::font_weight::normal"
+msgid "normal"
+msgstr "нормальное"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::font_weight::bold"
+msgid "bold"
+msgstr "жирное"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::hide_on_mobile"
+msgid "hide_on_mobile"
+msgstr "Скрывать на мобильных устройствах"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::show_in_admin_panel"
+msgid "show_in_admin_panel"
+msgstr "Отображать кнопку в админ панели"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::units"
+msgid "units"
+msgstr "Единицы измерения"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::units"
+msgid "units"
+msgstr "Будут использованы для расчета всех величин."
+"Больше информации на <a target=\"_blank\" href=\"//www.w3.org/Style/Examples/007/units.ru.html\">"
+"w3.org</a>"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::px"
+msgid "px"
+msgstr "px"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::pt"
+msgid "pt"
+msgstr "pt (4/3px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::pc"
+msgid "pc"
+msgstr "pc (16px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::cm"
+msgid "cm"
+msgstr "см (38px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::mm"
+msgid "mm"
+msgstr "мм (3.8px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::em"
+msgid "em"
+msgstr "em"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::rem"
+msgid "rem"
+msgstr "rem"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::ex"
+msgid "ex"
+msgstr "ex"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::ch"
+msgid "ch"
+msgstr "ch"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::%"
+msgid "%"
+msgstr "%"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::vw"
+msgid "vw"
+msgstr "vw"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::vh"
+msgid "vh"
+msgstr "vh"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::transition"
+msgid "transition"
+msgstr "Продолжительность анимации, мс"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::transition"
+msgid "transition"
+msgstr "Укажите значение продолжительности анимации в миллисекундах. Если ввести значение больше 1500 - оно будет автоматически установлено в 1500"
+
+msgctxt "Languages::ab__stt.color"
+msgid "ab__stt.color"
+msgstr "Значение цвета иконки (атрибут <b>color</b>)"
+
+msgctxt "Languages::ab__stt.settings"
+msgid "ab__stt.settings"
+msgstr "Общие настройки"
+
+msgctxt "Languages::ab__scroll_to_top.help"
+msgid "ab__scroll_to_top.help"
+msgstr "Справка"
+
+msgctxt "Languages::ab__scroll_to_top.help.doc"
+msgid "ab__scroll_to_top.help.doc"
+msgstr "Ознакомиться с <a target='_blank' href='https://cs-cart.alexbranding.com/ru/ab__scroll_to_top.doc'>документацией</a>."
+
+#. Alexbranding. Do not modify this file manually!

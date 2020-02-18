@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+<id>ab__motivation_block</id>
+<version>1.0.3</version>
+<priority>2018</priority>
+<position>0</position>
+<status>active</status>
+<default_language>en</default_language>
+<authors>
+<author>
+<name>AlexBranding</name>
+<email>info@alexbranding.com</email>
+<url>https://alexbranding.com</url>
+</author>
+</authors>
+<supplier>AlexBranding</supplier>
+<supplier_link>https://cs-cart.alexbranding.com</supplier_link>
+<compatibility>
+<conflicts>abt__unitheme,abt__youpitheme</conflicts>
+<dependencies></dependencies>
+<core_version><min>4.10.1</min></core_version>
+<core_edition>ULTIMATE,MULTIVENDOR</core_edition>
+</compatibility>
+<settings edition_type="ROOT,ULT:VENDOR">
+<sections>
+<section id="settings" edition_type="ROOT,ULT:VENDOR">
+<items>
+<item id="description_type">
+<type>selectbox</type>
+<default_value>html</default_value>
+<variants>
+<item id="smarty">
+</item>
+<item id="html">
+</item>
+</variants>
+</item>
+<item id="bg_color_template">
+<type>template</type>
+<default_value>color.tpl</default_value>
+</item>
+<item id="bg_color"><type>hidden</type><default_value>#ffffff</default_value></item>
+<item id="code"><type>hidden</type><default_value>ABA-1eCVuXmPVFTBBTbDfk4XA</default_value></item>
+<item id="build"><type>hidden</type><default_value>483</default_value></item>
+</items>
+</section>
+</sections>
+</settings>
+<functions>
+<item for="install">fn_ab__mb_install</item>
+</functions>
+<queries>
+<item>
+CREATE TABLE IF NOT EXISTS `?:ab__mb_motivation_items` (
+`motivation_item_id` mediumint(8) unsigned NOT NULL auto_increment,
+`company_id` int(11) unsigned NOT NULL default 0,
+`position` smallint(5) unsigned NOT NULL default 0,
+`expanded` char(1) NOT NULL default 'Y',
+`vendor_edit` char(1) NOT NULL default 'Y',
+`status` char(1) NOT NULL default 'A',
+`icon_type` varchar(32) NOT NULL default '',
+`icon_class` varchar(32) NOT NULL default '',
+`icon_color` varchar(32) NOT NULL default '',
+PRIMARY KEY (`motivation_item_id`, `company_id`)
+) DEFAULT CHARSET=utf8;
+</item>
+<item>
+CREATE TABLE IF NOT EXISTS `?:ab__mb_motivation_item_descriptions` (
+`motivation_item_id` mediumint(8) unsigned NOT NULL,
+`company_id` int(11) unsigned NOT NULL default 0,
+`lang_code` char(2) NOT NULL default '',
+`name` varchar(255) NOT NULL default '',
+`description` mediumtext,
+PRIMARY KEY (`motivation_item_id`, `company_id`, `lang_code`)
+) DEFAULT CHARSET=utf8;
+</item>
+<item editions="MULTIVENDOR">
+CREATE TABLE IF NOT EXISTS `?:ab__mb_vendors_descriptions` (
+`motivation_item_id` mediumint(8) unsigned NOT NULL,
+`company_id` int(11) unsigned NOT NULL default 0,
+`lang_code` char(2) NOT NULL default '',
+`description` mediumtext,
+PRIMARY KEY (`motivation_item_id`, `company_id`, `lang_code`)
+) DEFAULT CHARSET=utf8;
+</item>
+<item>REPLACE INTO ?:privileges (privilege, is_default, section_id) VALUES ('ab__mb_view_data', 'Y', 'ab__motivation_block')</item>
+<item>REPLACE INTO ?:privileges (privilege, is_default, section_id) VALUES ('ab__mb_manage_data', 'Y', 'ab__motivation_block')</item>
+<item for="uninstall">DELETE FROM ?:privileges WHERE section_id = 'ab__motivation_block'</item>
+</queries>
+</addon>

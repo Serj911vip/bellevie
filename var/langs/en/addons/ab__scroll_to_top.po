@@ -1,0 +1,233 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::ab__scroll_to_top"
+msgid "ab__scroll_to_top"
+msgstr "AB: \"Scroll to top\" button"
+
+msgctxt "Addons::description::ab__scroll_to_top"
+msgid "ab__scroll_to_top_description"
+msgstr "Addon allows adding scrolling to page top button on the storefront and the administrative panel pages"
+
+msgctxt "Languages::ab__scroll_to_top"
+msgid "ab__scroll_to_top"
+msgstr "AB: \"Scroll to top\" button"
+
+msgctxt "Languages::ab__scroll_to_top.arrow"
+msgid "ab__scroll_to_top.arrow"
+msgstr "Arrow"
+
+msgctxt "Languages::ab__stt.only_integer"
+msgid "ab__stt.only_integer"
+msgstr "Only integers"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::position"
+msgid "position"
+msgstr "Button position on the page"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::top_left"
+msgid "top_left"
+msgstr "At the upper left"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::top_right"
+msgid "top_right"
+msgstr "At the upper right"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::bottom_left"
+msgid "bottom_left"
+msgstr "At the left bottom"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::position::bottom_right"
+msgid "bottom_right"
+msgstr "At the right bottom"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::icon"
+msgid "icon"
+msgstr "Button icon"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_1"
+msgid "arrow_1"
+msgstr "Arrow 1"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_2"
+msgid "arrow_2"
+msgstr "Arrow 2"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_3"
+msgid "arrow_3"
+msgstr "Arrow 3"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_4"
+msgid "arrow_4"
+msgstr "Arrow 4"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_5"
+msgid "arrow_5"
+msgstr "Arrow 5"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_6"
+msgid "arrow_6"
+msgstr "Arrow 6"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_7"
+msgid "arrow_7"
+msgstr "Arrow 7"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_8"
+msgid "arrow_8"
+msgstr "Arrow 8"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_9"
+msgid "arrow_9"
+msgstr "Arrow 9"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::icon::arrow_10"
+msgid "arrow_10"
+msgstr "Arrow 10"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_top"
+msgid "margin_top"
+msgstr "Value of the attribute <b>margin-top</b>"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_top"
+msgid "margin_top"
+msgstr "Only integers"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_right"
+msgid "margin_right"
+msgstr "Value of the attribute <b>margin-right</b>"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_right"
+msgid "margin_right"
+msgstr "Only integers"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_bottom"
+msgid "margin_bottom"
+msgstr "Value of the attribute <b>margin-bottom</b>"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_bottom"
+msgid "margin_bottom"
+msgstr "Only integers"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::margin_left"
+msgid "margin_left"
+msgstr "Value of the attribute <b>margin-left</b>"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::margin_left"
+msgid "margin_left"
+msgstr "Only integers"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::font_size"
+msgid "font_size"
+msgstr "Value of the icon attribute <b>font-size</b>"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::font_size"
+msgid "font_size"
+msgstr "Only integers"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::font_weight"
+msgid "font_weight"
+msgstr "Value of the icon saturation attribute <b>font-weight</b>"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::font_weight::normal"
+msgid "normal"
+msgstr "normal"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::font_weight::bold"
+msgid "bold"
+msgstr "bold"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::hide_on_mobile"
+msgid "hide_on_mobile"
+msgstr "Hide on mobile devices"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::show_in_admin_panel"
+msgid "show_in_admin_panel"
+msgstr "Display the button in the admin panel"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::units"
+msgid "units"
+msgstr "Units of measure"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::units"
+msgid "units"
+msgstr "Will be used for calculation of all sizes."
+"More information on <a target=\"_blank\" href=\"//www.w3.org/Style/Examples/007/units.en.html\">"
+"w3.org</a>"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::px"
+msgid "px"
+msgstr "px"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::pt"
+msgid "pt"
+msgstr "pt (4/3px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::pc"
+msgid "pc"
+msgstr "pc (16px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::cm"
+msgid "cm"
+msgstr "cm (38px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::mm"
+msgid "mm"
+msgstr "mm (3.8px)"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::em"
+msgid "em"
+msgstr "em"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::rem"
+msgid "rem"
+msgstr "rem"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::ex"
+msgid "ex"
+msgstr "ex"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::ch"
+msgid "ch"
+msgstr "ch"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::%"
+msgid "%"
+msgstr "%"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::vw"
+msgid "vw"
+msgstr "vw"
+
+msgctxt "SettingsVariants::ab__scroll_to_top::units::vh"
+msgid "vh"
+msgstr "vh"
+
+msgctxt "SettingsOptions::ab__scroll_to_top::transition"
+msgid "transition"
+msgstr "Animation duration, ms"
+
+msgctxt "SettingsTooltips::ab__scroll_to_top::transition"
+msgid "transition"
+msgstr "Specify animation duration value in milliseconds. If enter value more than 1500 - it will be automatically established in 1500"
+
+msgctxt "Languages::ab__stt.color"
+msgid "ab__stt.color"
+msgstr "Value of the icon attribute <b>color</b>"
+
+msgctxt "Languages::ab__stt.settings"
+msgid "ab__stt.settings"
+msgstr "Common settings"
+
+msgctxt "Languages::ab__scroll_to_top.help"
+msgid "ab__scroll_to_top.help"
+msgstr "Help"
+
+msgctxt "Languages::ab__scroll_to_top.help.doc"
+msgid "ab__scroll_to_top.help.doc"
+msgstr "Read the <a target='_blank' href='https://cs-cart.alexbranding.com/en/ab__scroll_to_top.doc'>documentation</a>."
+
+#. Alexbranding. Do not modify this file manually!

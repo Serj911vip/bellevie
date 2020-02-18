@@ -1,0 +1,395 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::ab__deal_of_the_day"
+msgid "ab__deal_of_the_day"
+msgstr "AB: Товар дня и расширенные промоакции"
+
+msgctxt "Addons::description::ab__deal_of_the_day"
+msgid "ab__deal_of_the_day_description"
+msgstr "Модуль добавляет блок с товарами дня и таймер обратного отсчета на странице товара"
+
+msgctxt "Languages::ab__deal_of_the_day"
+msgid "ab__deal_of_the_day"
+msgstr "AB: Товар дня и расширенные промоакции"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::count_to"
+msgid "count_to"
+msgstr "Обратный отсчёт до"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::count_to"
+msgid "count_to"
+msgstr "Задаёт точку отсчёта для таймера"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::count_to::end_of_the_day"
+msgid "end_of_the_day"
+msgstr "Окончания дня"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::count_to::end_of_the_promotion"
+msgid "end_of_the_promotion"
+msgstr "Окончания промо-акции"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::max_height"
+msgid "max_height"
+msgstr "Максимальная высота описания, px"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::max_height"
+msgid "max_height"
+msgstr "Скрывает описание блока, когда высота описания превышает указанное значение. Название ссылки является языковой переменной — <code>ab__dotd.more</code> и <code>ab__dotd.less</code>"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::promotions_per_page"
+msgid "promotions_per_page"
+msgstr "Промо-акций на страницу"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::promotions_per_page"
+msgid "promotions_per_page"
+msgstr "Количество акций на странице списка. Для отключения постраничного вывода — введите <code>0</code>"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::chains_per_page"
+msgid "chains_per_page"
+msgstr "Комбинаций на страницу"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::chains_per_page"
+msgid "chains_per_page"
+msgstr "Количество комбинаций товаров из модуля \"Комбинации товаров\" на странице списка акций. Для отключения постраничного вывода — введите <code>0</code>"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::highlight_when_left"
+msgid "highlight_when_left"
+msgstr "Выделение промо-акции"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::highlight_when_left"
+msgid "highlight_when_left"
+msgstr "Выделять акцию, когда осталось дней"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::0"
+msgid "0"
+msgstr "не выделять"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::1"
+msgid "1"
+msgstr "1"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::2"
+msgid "2"
+msgstr "2"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::3"
+msgid "3"
+msgstr "3"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::4"
+msgid "4"
+msgstr "4"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::5"
+msgid "5"
+msgstr "5"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::6"
+msgid "6"
+msgstr "6"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::7"
+msgid "7"
+msgstr "7"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__as"
+msgid "ab__as"
+msgstr "AB: Расширенная карта сайта"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__as_add_to_sitemap"
+msgid "ab__as_add_to_sitemap"
+msgstr "Добавление промо страницы в XML-карту сайта"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__show_promos"
+msgid "ab__show_promos"
+msgstr "Отображение действующих промо-акций в списках"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__show_expired_promos"
+msgid "ab__show_expired_promos"
+msgstr "Показ истекших промо-акций"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::ab__show_expired_promos"
+msgid "ab__show_expired_promos"
+msgstr "Показ истекших промо-акции на странице списка акций"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__show_awaited_promos"
+msgid "ab__show_awaited_promos"
+msgstr "Показ ожидаемых промо-акций"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::ab__show_awaited_promos"
+msgid "ab__show_awaited_promos"
+msgstr "Показ ожидаемых промо-акций на странице списка акций"
+
+msgctxt "Languages::block_ab__deal_of_the_day"
+msgid "block_ab__deal_of_the_day"
+msgstr "AB: Товар дня и расширенные промоакции"
+
+msgctxt "Languages::ab__dotd_time_left"
+msgid "ab__dotd_time_left"
+msgstr "До окончания акции осталось"
+
+msgctxt "Languages::ab__dotd_product_label"
+msgid "ab__dotd_product_label"
+msgstr "Aкция"
+
+msgctxt "Languages::ab__dotd.more"
+msgid "ab__dotd.more"
+msgstr "Больше"
+
+msgctxt "Languages::ab__dotd.less"
+msgid "ab__dotd.less"
+msgstr "Меньше"
+
+msgctxt "Languages::ab__dotd.form.h1"
+msgid "ab__dotd.form.h1"
+msgstr "Тег H1"
+
+msgctxt "Languages::ab__dotd.form.page_title"
+msgid "ab__dotd.form.page_title"
+msgstr "Заголовок страницы"
+
+msgctxt "Languages::ab__dotd.form.meta_description"
+msgid "ab__dotd.form.meta_description"
+msgstr "Мета тег <code>description</code>"
+
+msgctxt "Languages::ab__dotd.form.meta_keywords"
+msgid "ab__dotd.form.meta_keywords"
+msgstr "Мета тег <code>keywords</code>"
+
+msgctxt "Languages::ab__dotd.form.page_image"
+msgid "ab__dotd.form.page_image"
+msgstr "Изображение для страницы промо-акции"
+
+msgctxt "Languages::ab__dotd.form.list_image"
+msgid "ab__dotd.form.list_image"
+msgstr "Изображение для списка промо-акций"
+
+msgctxt "Languages::ab__dotd.form.filter"
+msgid "ab__dotd.form.filter"
+msgstr "Использовать фильтр по категории"
+
+msgctxt "Languages::ab__dotd.form.use_products_filter"
+msgid "ab__dotd.form.use_products_filter"
+msgstr "Использовать фильтр по товарам"
+
+msgctxt "Languages::ab__dotd.from"
+msgid "ab__dotd.from"
+msgstr "от"
+
+msgctxt "Languages::ab__dotd.to"
+msgid "ab__dotd.to"
+msgstr "до"
+
+msgctxt "Languages::ab__dotd.page_action_period"
+msgid "ab__dotd.page_action_period"
+msgstr "Период проведения промо-акции:"
+
+msgctxt "Languages::ab__dotd.days_left"
+msgid "ab__dotd.days_left"
+msgstr "Остались <span>[n]</span> сутки|Осталось <span>[n]</span> суток|Осталось <span>[n]</span> суток"
+
+msgctxt "Languages::ab__dotd.clear_filter"
+msgid "ab__dotd.clear_filter"
+msgstr "Очистить фильтр"
+
+msgctxt "Languages::ab__dotd.detailed"
+msgid "ab__dotd.detailed"
+msgstr "Подробности промо-акции"
+
+msgctxt "Languages::ab__promotions_list"
+msgid "ab__promotions_list"
+msgstr "AB: Список промо-акций"
+
+msgctxt "Languages::ab__promotions_view"
+msgid "ab__promotions_view"
+msgstr "AB: Страница промо-акции"
+
+msgctxt "Languages::block_ab__promotions"
+msgid "block_ab__promotions"
+msgstr "AB: Промо-акции"
+
+msgctxt "Languages::ab__dotd.add_promotions_and_close"
+msgid "ab__dotd.add_promotions_and_close"
+msgstr "Добавить промо-акции и закрыть"
+
+msgctxt "Languages::ab__dotd.add_promotions"
+msgid "ab__dotd.add_promotions"
+msgstr "Добавить промо-акции"
+
+msgctxt "Languages::ab__dotd_scroller"
+msgid "ab__dotd_scroller"
+msgstr "Скроллер промо-акций"
+
+msgctxt "Languages::ab__dotd_sorted_promotions"
+msgid "ab__dotd_sorted_promotions"
+msgstr "Действующие акции"
+
+msgctxt "Languages::ab__dotd.sort.created"
+msgid "ab__dotd.sort.created"
+msgstr "по дате создания"
+
+msgctxt "Languages::ab__dotd.sort.to_date"
+msgid "ab__dotd.sort.to_date"
+msgstr "по дате завершения"
+
+msgctxt "Languages::ab__dotd.sort.priority"
+msgid "ab__dotd.sort.priority"
+msgstr "по приоритету"
+
+msgctxt "Languages::ab__dotd.sort.name"
+msgid "ab__dotd.sort.name"
+msgstr "по названию"
+
+msgctxt "Languages::ab__dotd.choose_promotion"
+msgid "ab__dotd.choose_promotion"
+msgstr "Выбор промо-акции"
+
+msgctxt "Languages::ab__deal_of_the_day_title_product"
+msgid "ab__deal_of_the_day_title_product"
+msgstr "Промо-акции"
+
+msgctxt "Languages::ab__dotd.all_promotions"
+msgid "ab__dotd.all_promotions"
+msgstr "Также в акциях"
+
+msgctxt "Languages::ab__dotd.all_promotions.title"
+msgid "ab__dotd.all_promotions.title"
+msgstr "Просмотр других акций для товара"
+
+msgctxt "Languages::ab__show_additional_product_images"
+msgid "ab__show_additional_product_images"
+msgstr "Показ дополнительных фото товаров"
+
+msgctxt "Languages::ab__dotd.counter.years"
+msgid "ab__dotd.counter.years"
+msgstr "лет"
+
+msgctxt "Languages::ab__dotd.counter.months"
+msgid "ab__dotd.counter.months"
+msgstr "месяцев"
+
+msgctxt "Languages::ab__dotd.counter.days"
+msgid "ab__dotd.counter.days"
+msgstr "дней"
+
+msgctxt "Languages::ab__dotd.counter.hours"
+msgid "ab__dotd.counter.hours"
+msgstr "часов"
+
+msgctxt "Languages::ab__dotd.counter.minutes"
+msgid "ab__dotd.counter.minutes"
+msgstr "минут"
+
+msgctxt "Languages::ab__dotd.counter.seconds"
+msgid "ab__dotd.counter.seconds"
+msgstr "секунд"
+
+msgctxt "Languages::ab__dotd.promotion_expired"
+msgid "ab__dotd.promotion_expired"
+msgstr "Акция закончилась"
+
+msgctxt "Languages::ab__dotd.get_more_combinations"
+msgid "ab__dotd.get_more_combinations"
+msgstr "Показать ещё [n] комбинацию|Показать ещё [n] комбинации|Показать ещё [n] комбинаций"
+
+msgctxt "Languages::ab__dotd.showed_combitations"
+msgid "ab__dotd.showed_combitations"
+msgstr "Показано [n] из [total]"
+
+msgctxt "Languages::ab__dotd.chains_list.title"
+msgid "ab__dotd.chains_list.title"
+msgstr "Комбинации товаров"
+
+msgctxt "Languages::ab__dotd.today_only"
+msgid "ab__dotd.today_only"
+msgstr "Только сегодня"
+
+msgctxt "Languages::ab__dotd_expired_promotions"
+msgid "ab__dotd_expired_promotions"
+msgstr "Истекшие акции"
+
+msgctxt "Languages::ab__dotd_awaited_promotions"
+msgid "ab__dotd_awaited_promotions"
+msgstr "Ожидаемые акции"
+
+msgctxt "Languages::ab__dotd.promotion_awaited"
+msgid "ab__dotd.promotion_awaited"
+msgstr "Акция ожидается"
+
+msgctxt "Languages::ab__dotd_time_awaited_left"
+msgid "ab__dotd_time_awaited_left"
+msgstr "До начала акции осталось"
+
+msgctxt "Languages::ab__dotd.demodata"
+msgid "ab__dotd.demodata"
+msgstr "Демо-данные"
+
+msgctxt "Languages::ab__dotd.demodata_description"
+msgid "ab__dotd.demodata_description"
+msgstr "Страница загрузки демо-данных"
+
+msgctxt "Languages::ab__dotd.demodata.table.description"
+msgid "ab__dotd.demodata.table.description"
+msgstr "Демо-данные"
+
+msgctxt "Languages::ab__dotd.demodata.table.action"
+msgid "ab__dotd.demodata.table.action"
+msgstr "Действие"
+
+msgctxt "Languages::ab__dotd.demodata.table.add_promotions"
+msgid "ab__dotd.demodata.table.add_promotions"
+msgstr "Добавление промо-акции"
+
+msgctxt "Languages::ab__dotd.days_to_start"
+msgid "ab__dotd.days_to_start"
+msgstr "До начала <span>[n]</span> день|До начала <span>[n]</span> дня|До начала <span>[n]</span> дней"
+
+msgctxt "Languages::block_ab__promotions_description"
+msgid "block_ab__promotions_description"
+msgstr "Список промо-акций"
+
+msgctxt "Languages::block_ab__deal_of_the_day_description"
+msgid "block_ab__deal_of_the_day_description"
+msgstr "Анонс выбранной промо-акции"
+
+msgctxt "Languages::ab__dotd.settings"
+msgid "ab__dotd.settings"
+msgstr "Общие настройки"
+
+msgctxt "Languages::block_ab__promotion_main_data"
+msgid "block_ab__promotion_main_data"
+msgstr "AB: Шапка промо-акции"
+
+msgctxt "Languages::block_ab__promotion_main_data_description"
+msgid "block_ab__promotion_main_data_description"
+msgstr "Основные данные промо-акции (название, изображение, описание)"
+
+msgctxt "Languages::ab__promotion_main_data"
+msgid "ab__promotion_main_data"
+msgstr "Шапка промо-акции"
+
+msgctxt "Languages::ab__dotd.help"
+msgid "ab__dotd.help"
+msgstr "Справка"
+
+msgctxt "Languages::ab__dotd_help.docs"
+msgid "ab__dotd_help.docs"
+msgstr "Ознакомиться с <a target='_blank' href='https://cs-cart.alexbranding.com/ru/ab__deal_of_the_day.doc'>документацией</a>."
+
+msgctxt "Languages::privilege_sections.ab__deal_of_the_day"
+msgid "privilege_sections.ab__deal_of_the_day"
+msgstr "AB: Товар дня и расширенные промоакции"
+
+msgctxt "Languages::privileges.ab__dotd_manage_seodata"
+msgid "privileges.ab__dotd_manage_seodata"
+msgstr "Управление SEO-данными промо-акций"
+
+msgctxt "Languages::privileges.ab__dotd_view_seodata"
+msgid "privileges.ab__dotd_view_seodata"
+msgstr "Просмотр SEO-данных промо-акций"
+
+#. Alexbranding. Do not modify this file manually!

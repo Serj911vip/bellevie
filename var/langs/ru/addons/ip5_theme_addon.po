@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::ip5_theme_addon"
+msgid "IP5 Agency — Дополнения к теме"
+msgstr "IP5 Agency — Дополнения к теме"
+
+msgctxt "Addons::description::ip5_theme_addon"
+msgid "Модуль расширяющий общую стилистику темы."
+msgstr "Модуль расширяющий общую стилистику темы."
+
+msgctxt "Languages::call_requests.request_call"
+msgid "Request call"
+msgstr "Обратиться к нам"
+
+msgctxt "Languages::tmpl_ip5_logo"
+msgid "IP5 : template ip5 logo"
+msgstr "IP5 — Шаблон лого Belle Vie"

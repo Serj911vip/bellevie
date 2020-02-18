@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+<id>ip5_theme_addon</id>
+<priority>100555</priority>
+<version>1.0.0</version>
+<position>100</position>
+<status>active</status>
+<default_language>ru</default_language>
+<auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+<supplier>IP5 Internet Agency</supplier>
+<supplier_link>https://ip-5.ru</supplier_link>
+-<authors>
+-<author>
+<name>IP5 Internet Agency</name>
+<email>mail@ip-5.ru</email>
+<url>https://ip-5.ru</url>
+<phone>+7(978) 559-15-55</phone>
+</author>
+</authors>
+</addon>

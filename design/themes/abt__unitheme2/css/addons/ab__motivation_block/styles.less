@@ -1,0 +1,151 @@
+// Variables
+
+@mb_item_background: lighten(@base, 3%);
+@mb_item_icon_size: 24px;
+@mb_item_icon_color: @links;
+@mb_item_title_color: @links;
+@mb_desc_item_color: lighten(@font, 25%);
+
+
+.ab__mb_items {
+    margin-bottom: 15px;
+    
+    &.colored .ab__mb_item {
+		padding: 10px 15px;
+		border-bottom: 1px solid rgba(0,0,0,0.05);
+		
+		&:last-child {
+			border-bottom: 0 none;
+		}
+	}
+}
+.ab__mb_item {
+	padding: 10px 0;
+	border-bottom: 1px solid @base;
+}
+
+.ab__mb_item-title {
+	position: relative;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    min-height: @mb_item_icon_size;
+    width: 100%;
+    padding-right: 24px;
+    color: @mb_item_title_color;
+	.transition(all 150ms);
+	
+    &.open {
+	    margin-bottom: 10px;
+    }
+	&:hover.cm-combination:after {
+	    color: @links;
+    }
+    &.cm-combination {
+
+	    &:after {
+		    content: "\e908";
+		    .ut2-icon();
+		    position: absolute;
+		    right: 0;
+		    font-size: 22px;
+		    color: darken(@base, 10%);
+		    .rotate(-90deg);
+	    }
+	    &.open:after {
+		    .rotate(0deg);
+	    }
+    }
+    .ty-pict {
+	    width: 24px;
+	    height: auto;
+	    max-height: 24px;
+    }
+}
+.ab__mb_item-icon {
+	font-style: normal;
+	margin-right: 10px;
+	font-size: @mb_item_icon_size;
+	color: @mb_item_icon_color;
+}
+.ab__mb_item-name {
+	font-weight: bold;
+	font-size: 14px;
+}
+.ab__mb_item-description {
+	
+	div {
+		color: @mb_desc_item_color;
+	}
+	p {
+		display: flex;
+		align-items: center;
+		color: @mb_desc_item_color;
+	}
+	i {
+		font-size: 18px;
+		margin-right: 5px;
+		color: @mb_desc_item_color;
+	}
+	ul {		
+		margin: 10px 0;
+		
+		li {
+			padding: 2px 0;
+			list-style: disc;
+			color: @mb_desc_item_color;
+		}
+	}
+	a {
+		&.cm-tooltip {
+			color: @mb_desc_item_color;
+			border-bottom: 1px dotted;
+		}
+	}
+	.desktop-hidden {
+		display: none;
+	}
+	&.padding-left {
+		padding-left: @mb_item_icon_size + 10px;
+	}
+}
+
+// UniTheme 2.0
+
+.ut2-big-image {
+	.ab__mb_items {
+	    margin: 20px 0;
+	    width: 100%;
+	}
+	.ab__mb_item {
+		padding: 10px 20px 10px @padding-form-block;
+		margin: 0 -@padding-form-block;
+		border-bottom: 1px solid @base;
+		
+		&:first-child {
+			border-top: 1px solid @base;
+		}
+		&:last-child {
+			border-bottom: 1px solid @base;
+		}
+	}
+	.ab__mb_item-title.cm-combination {
+		&:after {
+			color: @base10;
+		}
+		&:hover:after {
+			color: @font;
+		}
+	}
+	@media screen and (max-width: 576px) {
+		.ab__mb_items {
+		    margin: 10px 0;
+		}
+		.ab__mb_item {
+			padding: 10px 0;
+			margin: 0;
+		}
+	}
+}

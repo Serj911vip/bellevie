@@ -1,0 +1,172 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::ab__motivation_block"
+msgid "ab__motivation_block"
+msgstr "AB: Блок мотивации"
+
+msgctxt "Addons::description::ab__motivation_block"
+msgid "ab__motivation_block_description"
+msgstr "Модуль позволяет создавать мотивационный блок"
+
+msgctxt "Languages::ab__motivation_block"
+msgid "ab__motivation_block"
+msgstr "AB: Блок мотивации"
+
+msgctxt "SettingsOptions::ab__motivation_block::bg_color"
+msgid "bg_color"
+msgstr "Цвет фона блока"
+
+msgctxt "SettingsOptions::ab__motivation_block::description_type"
+msgid "description_type"
+msgstr "Тип описания элементов"
+
+msgctxt "SettingsVariants::ab__motivation_block::description_type::smarty"
+msgid "smarty"
+msgstr "HTML-содержимое с поддержкой Smarty"
+
+msgctxt "SettingsVariants::ab__motivation_block::description_type::html"
+msgid "html"
+msgstr "HTML-содержимое"
+
+msgctxt "Languages::ab__motivation_block.manage"
+msgid "ab__motivation_block.manage"
+msgstr "Управление данными"
+
+msgctxt "Languages::ab__mb_icon_class"
+msgid "ab__mb_icon_class"
+msgstr "Класс иконки"
+
+msgctxt "Languages::ab__mb_icon_color"
+msgid "ab__mb_icon_color"
+msgstr "Цвет иконки"
+
+msgctxt "Languages::ab__mb_icon_type"
+msgid "ab__mb_icon_type"
+msgstr "Тип иконки"
+
+msgctxt "Languages::ab__mb_icon_type.img"
+msgid "ab__mb_icon_type.img"
+msgstr "Изображение"
+
+msgctxt "Languages::ab__mb_icon_type.icon"
+msgid "ab__mb_icon_type.icon"
+msgstr "Иконка"
+
+msgctxt "Languages::ab__mb_icon_type.nothing"
+msgid "ab__mb_icon_type.nothing"
+msgstr "Нет иконки"
+
+msgctxt "Languages::tt_addons_ab__motivation_block_views_ab__motivation_block_update_image"
+msgid "tt_addons_ab__motivation_block_views_ab__motivation_block_update_image"
+msgstr "Изображение выводится \"как есть\", без масштабирования. Загрузите подготовленное изображение нужного размера, рекомендуется использовать размер 24*24px"
+
+msgctxt "Languages::ab__mb.new_motivation_item"
+msgid "ab__mb.new_motivation_item"
+msgstr "Новый мотивационный элемент"
+
+msgctxt "Languages::ab__mb.editing_motivation_item"
+msgid "ab__mb.editing_motivation_item"
+msgstr "Редактирование мотивационного элемента"
+
+msgctxt "Languages::ab__mb_expanded"
+msgid "ab__mb_expanded"
+msgstr "Установить раскрытие элемента по умолчанию"
+
+msgctxt "Languages::ab__mb_vendor_edit"
+msgid "ab__mb_vendor_edit"
+msgstr "Разрешить вендору редактирование"
+
+msgctxt "Languages::block_ab__motivation_block"
+msgid "block_ab__motivation_block"
+msgstr "AB: Блок мотивации"
+
+msgctxt "Languages::block_ab__motivation_block_description"
+msgid "block_ab__motivation_block_description"
+msgstr "Вывод дополнительной информации о работе магазина"
+
+msgctxt "Languages::ab__mb_bg_color"
+msgid "ab__mb_bg_color"
+msgstr "Цвет фона блока"
+
+msgctxt "Languages::ab__mb.settings"
+msgid "ab__mb.settings"
+msgstr "Общие настройки"
+
+msgctxt "Languages::ab__motivation_block.demodata"
+msgid "ab__motivation_block.demodata"
+msgstr "Демо-данные"
+
+msgctxt "Languages::ab__mb.demodata.description"
+msgid "ab__mb.demodata.description"
+msgstr "На этой странице можете быстро создать демо-данные для блока мотивации"
+
+msgctxt "Languages::ab__mb.demodata.table.description"
+msgid "ab__mb.demodata.table.description"
+msgstr "Вид демо-данных"
+
+msgctxt "Languages::ab__mb.demodata.table.add_blocks"
+msgid "ab__mb.demodata.table.add_blocks"
+msgstr "Добавить демо-данные в блок мотивации"
+
+msgctxt "Languages::ab__mb.demodata.successes.blocks"
+msgid "ab__mb.demodata.successes.blocks"
+msgstr "Блоки [blocks] были успешно созданы"
+
+msgctxt "Languages::ab__mb.demodata.errors.no_data"
+msgid "ab__mb.demodata.errors.no_data"
+msgstr "Кажется, файл \"data.json\" был удален"
+
+msgctxt "Languages::ab__motivation_block.icons"
+msgid "ab__motivation_block.icons"
+msgstr "Доступные иконки"
+
+msgctxt "Languages::ab__mb.icons.info"
+msgid "ab__mb.icons.info"
+msgstr "На этой странице можно ознакомиться со списком доступных иконок"
+
+msgctxt "Languages::ab__mb.icons.tygh_icons"
+msgid "ab__mb.icons.tygh_icons"
+msgstr "Список иконок по умолчанию"
+
+msgctxt "Languages::ab__mb.icons.class"
+msgid "ab__mb.icons.class"
+msgstr "Класс иконки"
+
+msgctxt "Languages::ab__mb.icons.class.tooltip"
+msgid "ab__mb.icons.class.tooltip"
+msgstr "Значение, которое нужно использовать в поле \"Класс иконки\" в настройках блока мотивации"
+
+msgctxt "Languages::ab__mb.class_copied"
+msgid "ab__mb.class_copied"
+msgstr "Класс скопирован в буфер обмена"
+
+msgctxt "Languages::ab__mb_icon_class.tooltip"
+msgid "ab__mb_icon_class.tooltip"
+msgstr "Полный список доступных иконок может быть найден на странице <a href=\"[link]\">Административная панель"
+" ➡ АВ: Модули ➡ AB: Блок мотивации ➡ Доступные иконки</a>"
+
+msgctxt "Languages::ab__motivation_block.help"
+msgid "ab__motivation_block.help"
+msgstr "Справка"
+
+msgctxt "Languages::ab__mb_help.docs"
+msgid "ab__mb_help.docs"
+msgstr "Ознакомиться с <a target='_blank' href='https://cs-cart.alexbranding.com/ru/ab__motivation_block.doc'>документацией</a>."
+
+msgctxt "Languages::privilege_sections.ab__motivation_block"
+msgid "privilege_sections.ab__motivation_block"
+msgstr "AB: Блок мотивации"
+
+msgctxt "Languages::privileges.ab__mb_manage_data"
+msgid "privileges.ab__mb_manage_data"
+msgstr "Управление мотивационными данными"
+
+msgctxt "Languages::privileges.ab__mb_view_data"
+msgid "privileges.ab__mb_view_data"
+msgstr "Просмотр мотивационных данных"
+
+#. Alexbranding. Do not modify this file manually!
